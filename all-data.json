@@ -2,17 +2,17 @@
   "contents": {
     "data": [
       {
+        "id": 3,
+        "attributes": {
+          "Text": "Minimize digital harms through design, a guide for product managers and lawmakers.",
+          "RichText": null
+        }
+      },
+      {
         "id": 2,
         "attributes": {
           "Text": null,
           "RichText": "{\"time\":1689640014110,\"blocks\":[{\"id\":\"M2q7DPvGeb\",\"type\":\"paragraph\",\"data\":{\"text\":\"Hello!\"}},{\"id\":\"_C5OIMusKc\",\"type\":\"paragraph\",\"data\":{\"text\":\"This site is a <b>rough&nbsp;</b>draft! Check out what's going on with it on the \\\"About\\\" page from the main menu.\"}},{\"id\":\"QBOY_zs6_K\",\"type\":\"paragraph\",\"data\":{\"text\":\"If you're interested in contributing, reach out to grady.b.ward@gmail.com and I'll give you a login. High level and directional feedback is very welcome at the same address.\"}},{\"id\":\"8DaZ5KZlKZ\",\"type\":\"paragraph\",\"data\":{\"text\":\"Thanks!\"}},{\"id\":\"TPDKIHK5aC\",\"type\":\"paragraph\",\"data\":{\"text\":\"Grady\"}}],\"version\":\"2.23.2\"}"
-        }
-      },
-      {
-        "id": 3,
-        "attributes": {
-          "Text": "Minimize digital harms through design, a guide for product managers and regulators.",
-          "RichText": null
         }
       },
       {
@@ -22202,104 +22202,6 @@
         }
       },
       {
-        "id": 67,
-        "attributes": {
-          "readableId": "deprioritize-identity",
-          "Title": "Deprioritize User Identity",
-          "Definition": "In platforms where the identity of the participants isn't central, omit it.",
-          "Description": "{\"time\":1699668084803,\"blocks\":[{\"id\":\"ASRvD5ay0B\",\"type\":\"paragraph\",\"data\":{\"text\":\"While many platforms intentionally facilitate exchange, coordination, and communication of users in ways where identity is a central part of the exchange (dating platforms for example), on other forms of online interaction, particularly commerce, the interaction need not center (or even reference) user identity in order to fulfill its core function. This is most common in purely commercial exchanges online, like short term housing rentals, peer to peer taxi services, job boards, or marketplaces for goods or services.&nbsp;\"}},{\"id\":\"RaciWbVayt\",\"type\":\"paragraph\",\"data\":{\"text\":\"Since the capability of discerning identity characteristics is a prerequisite for online <a href=\\\"/harm/discrimination\\\">discrimination</a> or <a href=\\\"http://harm/unwelcome-sexual-advances\\\">sexual harassment</a>, platforms that don't have identity as a core part of their function should consider how they can limit users' ability to represent themselves on the platform. De-emphasizing identity covers a range of possible interventions, like the omission of features like profile pictures, using users' initials rather than names, or at one extreme, omitting users' ability to represent their identity at all. Removing emphasis from identity can better center focus on the core value proposition of platforms - enabling more uniform and distraction-free access to the services that platforms enable.\"}}],\"version\":\"2.23.2\"}",
-          "CanBeRegulated": true,
-          "EaseOfImplementation": "Easy",
-          "GenerallyAdvisable": false,
-          "Reversible": false,
-          "relationship_feature_interventions": {
-            "data": [
-              {
-                "id": 82,
-                "attributes": {
-                  "RelationshipDescription": null,
-                  "ImplementationDifficulty": "Variable",
-                  "feature": {
-                    "data": {
-                      "id": 3,
-                      "attributes": {
-                        "readableId": "identity",
-                        "Title": "Identity",
-                        "Definition": "Individuals' ability to represent themselves in a digital space."
-                      }
-                    }
-                  }
-                }
-              }
-            ]
-          },
-          "relationship_harm_interventions": {
-            "data": [
-              {
-                "id": 163,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 10,
-                      "attributes": {
-                        "Title": "Likely to be Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": "When it doesn't undermine the purpose of a platform:",
-                  "harm": {
-                    "data": {
-                      "id": 25,
-                      "attributes": {
-                        "readableId": "discrimination",
-                        "Title": "Discrimination",
-                        "Definition": "Targeting or excluding individuals in online spaces based on a protected or immutable characteristic."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 164,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 10,
-                      "attributes": {
-                        "Title": "Likely to be Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": "When it doesn't undermine the purpose of a platform:",
-                  "harm": {
-                    "data": {
-                      "id": 46,
-                      "attributes": {
-                        "readableId": "unwelcome-sexual-advances",
-                        "Title": "Unwelcome Sexual Advances",
-                        "Definition": "When a user initiates a sexual or romantic exchange with another outside of a reasonable context."
-                      }
-                    }
-                  }
-                }
-              }
-            ]
-          },
-          "intervention_categories": {
-            "data": [
-              {
-                "id": 7,
-                "attributes": {
-                  "readableId": "omission",
-                  "Title": "Omission",
-                  "Definition": "Less is more - a better platform can be achieved by removing pieces of it."
-                }
-              }
-            ]
-          }
-        }
-      },
-      {
         "id": 10,
         "attributes": {
           "readableId": "hide-interaction-counts",
@@ -23019,6 +22921,104 @@
                   "readableId": "humans-only",
                   "Title": "Humans Only",
                   "Definition": "Actively prevent automated use of a feature."
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 67,
+        "attributes": {
+          "readableId": "deprioritize-identity",
+          "Title": "Deprioritize User Identity",
+          "Definition": "In platforms where the identity of the participants isn't central, omit it.",
+          "Description": "{\"time\":1699734179412,\"blocks\":[{\"id\":\"ASRvD5ay0B\",\"type\":\"paragraph\",\"data\":{\"text\":\"While many platforms intentionally facilitate exchange, coordination, and communication of users in ways where identity is a central part of the exchange (dating platforms for example), on other forms of online interaction, particularly commerce, the interaction need not center (or even reference) user identity in order to fulfill its core function. This is most common in purely commercial exchanges online, like short term housing rentals, peer to peer taxi services, job boards, or marketplaces for goods or services.&nbsp;\"}},{\"id\":\"RaciWbVayt\",\"type\":\"paragraph\",\"data\":{\"text\":\"Since the capability of discerning identity characteristics is a prerequisite for online <a href=\\\"/harm/discrimination\\\">discrimination</a> or <a href=\\\"http://harm/unwelcome-sexual-advances\\\">sexual harassment</a>, platforms that don't have identity as a core part of their function should consider how they can limit users' ability to represent themselves on the platform. De-emphasizing identity covers a range of possible interventions, like the omission of features like profile pictures, using users' initials rather than names, or at one extreme, omitting users' ability to represent their identity at all. Removing emphasis from identity can better center focus on the core value proposition of platforms - enabling more uniform and distraction-free access to the services that platforms enable.\"}}],\"version\":\"2.23.2\"}",
+          "CanBeRegulated": true,
+          "EaseOfImplementation": "Easy",
+          "GenerallyAdvisable": false,
+          "Reversible": false,
+          "relationship_feature_interventions": {
+            "data": [
+              {
+                "id": 82,
+                "attributes": {
+                  "RelationshipDescription": null,
+                  "ImplementationDifficulty": "Variable",
+                  "feature": {
+                    "data": {
+                      "id": 3,
+                      "attributes": {
+                        "readableId": "identity",
+                        "Title": "Identity",
+                        "Definition": "Individuals' ability to represent themselves in a digital space."
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "relationship_harm_interventions": {
+            "data": [
+              {
+                "id": 163,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": "When it doesn't undermine the purpose of a platform:",
+                  "harm": {
+                    "data": {
+                      "id": 25,
+                      "attributes": {
+                        "readableId": "discrimination",
+                        "Title": "Discrimination",
+                        "Definition": "Targeting or excluding individuals in online spaces based on a protected or immutable characteristic."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 164,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": "When it doesn't undermine the purpose of a platform:",
+                  "harm": {
+                    "data": {
+                      "id": 46,
+                      "attributes": {
+                        "readableId": "unwelcome-sexual-advances",
+                        "Title": "Unwelcome Sexual Advances",
+                        "Definition": "When a user initiates a sexual or romantic exchange with another outside of a reasonable context."
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "intervention_categories": {
+            "data": [
+              {
+                "id": 7,
+                "attributes": {
+                  "readableId": "omission",
+                  "Title": "Omission",
+                  "Definition": "Less is more - a better platform can be achieved by removing pieces of it."
                 }
               }
             ]
