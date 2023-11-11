@@ -4169,7 +4169,12 @@
                 "id": 1,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -4188,7 +4193,12 @@
                 "id": 20,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -4207,7 +4217,12 @@
                 "id": 21,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -4226,7 +4241,12 @@
                 "id": 22,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -4365,7 +4385,12 @@
                 "id": 79,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -4384,7 +4409,12 @@
                 "id": 80,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -4572,7 +4602,12 @@
                 "id": 12,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -4591,7 +4626,12 @@
                 "id": 13,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -4665,7 +4705,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Anonymous access makes CIA much easier to build.",
+                  "RelationshipDescription": "Anonymous access makes automation easier to achieve.",
                   "intervention": {
                     "data": {
                       "id": 68,
@@ -4754,7 +4794,12 @@
                 "id": 34,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -4918,7 +4963,12 @@
                 "id": 63,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -4937,7 +4987,12 @@
                 "id": 64,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -4956,7 +5011,12 @@
                 "id": 65,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -4975,7 +5035,12 @@
                 "id": 66,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -4994,7 +5059,12 @@
                 "id": 67,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -5013,7 +5083,12 @@
                 "id": 68,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -5039,7 +5114,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Because it provides users with a sense of solvency/control",
+                  "RelationshipDescription": "Because it provides users with a sense of solvency/control:",
                   "intervention": {
                     "data": {
                       "id": 51,
@@ -5245,29 +5320,15 @@
           "relationship_harm_interventions": {
             "data": [
               {
-                "id": 95,
-                "attributes": {
-                  "RLOE": {
-                    "data": null
-                  },
-                  "RelationshipDescription": null,
-                  "intervention": {
-                    "data": {
-                      "id": 56,
-                      "attributes": {
-                        "readableId": "ban-proactive-content-recommendation",
-                        "Title": "Ban Proactive Content Recommendation",
-                        "Definition": null
-                      }
-                    }
-                  }
-                }
-              },
-              {
                 "id": 96,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -5358,7 +5419,12 @@
                 "id": 156,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -5377,7 +5443,12 @@
                 "id": 157,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -5463,7 +5534,12 @@
                 "id": 40,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -5482,7 +5558,12 @@
                 "id": 41,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -5501,7 +5582,12 @@
                 "id": 42,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -5520,7 +5606,12 @@
                 "id": 43,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -5606,7 +5697,12 @@
                 "id": 44,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": "Using known lists of bad links, domains, and file hashes is a low cost way of preventing rampant malware.",
                   "intervention": {
@@ -5625,7 +5721,12 @@
                 "id": 45,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": "Prompting a user to consider whether they trust the source is an effective way to prevent thoughtless malware installation.",
                   "intervention": {
@@ -5644,7 +5745,12 @@
                 "id": 46,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "To reach large audiences, or replicate through messages with links, malware has to be publicly hosted somewhere.",
                   "intervention": {
@@ -5663,7 +5769,12 @@
                 "id": 47,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "If a file or link constitutes malware, all future copies of it do too.",
                   "intervention": {
@@ -5788,7 +5899,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Because it helps victims feel heard and empowered",
+                  "RelationshipDescription": "Because it helps victims feel heard and empowered:",
                   "intervention": {
                     "data": {
                       "id": 51,
@@ -5949,7 +6060,12 @@
                 "id": 39,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -6210,7 +6326,12 @@
                 "id": 53,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -6500,7 +6621,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Because IDB arises largely out of influencer dynamics, decentralizing influence would reduce the prevalence of this problem.",
+                  "RelationshipDescription": "Incentives for dangerous behavior arise largely out of influencer dynamics, so decentralizing influence would reduce the prevalence of this problem.",
                   "intervention": {
                     "data": {
                       "id": 12,
@@ -6524,7 +6645,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Because IDB is primarily a function of influencer dynamics.",
+                  "RelationshipDescription": "Because the incentives for dangerous behavior arise out of attentional pressures:",
                   "intervention": {
                     "data": {
                       "id": 11,
@@ -6608,7 +6729,12 @@
                 "id": 60,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -6627,7 +6753,12 @@
                 "id": 61,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -6646,7 +6777,12 @@
                 "id": 62,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -6866,7 +7002,12 @@
                 "id": 36,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -6885,7 +7026,12 @@
                 "id": 37,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -6904,7 +7050,12 @@
                 "id": 38,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -7249,7 +7400,12 @@
                 "id": 69,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -7268,7 +7424,12 @@
                 "id": 70,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -7287,7 +7448,12 @@
                 "id": 71,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -7416,7 +7582,12 @@
                 "id": 128,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -7550,7 +7721,12 @@
                 "id": 81,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -7569,9 +7745,14 @@
                 "id": 82,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
-                  "RelationshipDescription": "This is an example preampble.",
+                  "RelationshipDescription": "Allowing users more control over their time on platform can help users escape their rabbit holes.",
                   "intervention": {
                     "data": {
                       "id": 16,
@@ -7588,7 +7769,12 @@
                 "id": 83,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -7607,7 +7793,12 @@
                 "id": 84,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -7693,7 +7884,12 @@
                 "id": 76,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -7712,7 +7908,12 @@
                 "id": 77,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -7843,7 +8044,12 @@
                 "id": 27,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -7862,7 +8068,12 @@
                 "id": 28,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -7881,7 +8092,12 @@
                 "id": 29,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -8444,7 +8660,12 @@
                 "id": 16,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -8463,7 +8684,12 @@
                 "id": 18,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -8482,7 +8708,12 @@
                 "id": 19,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -8628,7 +8859,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Since VE often lies at the end of a rabbit hole, resetting preferences can bring people back toward median.",
+                  "RelationshipDescription": "Since violent-extremism often lies at the end of a rabbit hole, resetting preferences can bring people back toward median.",
                   "intervention": {
                     "data": {
                       "id": 55,
@@ -8652,7 +8883,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Since VE is typically illegal, recording traces to help identify it's origin may reduce its prevalence.",
+                  "RelationshipDescription": "Since violent extremism is typically illegal, recording traces to help identify it's origin may reduce its prevalence.",
                   "intervention": {
                     "data": {
                       "id": 66,
@@ -8669,7 +8900,12 @@
                 "id": 177,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -8787,7 +9023,12 @@
                 "id": 11,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "Performing impersonation in bulk requires the automated creation of many different accounts.",
                   "intervention": {
@@ -8905,7 +9146,12 @@
                 "id": 30,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -8924,7 +9170,12 @@
                 "id": 31,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -8943,7 +9194,12 @@
                 "id": 32,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -8962,7 +9218,12 @@
                 "id": 33,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -9072,7 +9333,12 @@
                 "id": 8,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -9091,7 +9357,12 @@
                 "id": 10,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -9165,7 +9436,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Allowing anonymous uploads of images or videos risks CSAM uploaded and shared without accountability.",
+                  "RelationshipDescription": "Allowing anonymous uploads of images or videos risks illegal material being uploaded and shared without accountability.",
                   "intervention": {
                     "data": {
                       "id": 68,
@@ -9284,7 +9555,12 @@
                 "id": 72,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -9303,7 +9579,12 @@
                 "id": 73,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -9322,7 +9603,12 @@
                 "id": 74,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -9456,7 +9742,12 @@
                 "id": 4,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "Authoritative sources of information can inoculate users against misinformation, making them more skeptical of election news they may encounter.",
                   "intervention": {
@@ -9753,7 +10044,12 @@
                 "id": 23,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -9772,7 +10068,12 @@
                 "id": 24,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -9791,7 +10092,12 @@
                 "id": 25,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -9810,7 +10116,12 @@
                 "id": 26,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -9915,7 +10226,12 @@
                 "id": 57,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -9958,7 +10274,12 @@
                 "id": 59,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -10092,7 +10413,12 @@
                 "id": 54,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -10111,7 +10437,12 @@
                 "id": 55,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -10130,7 +10461,12 @@
                 "id": 56,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -10522,7 +10858,12 @@
                 "id": 89,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "Allowing users to report blackmail when it occurs gives a platform the ability to block the account of the blackmailer, preventing mass attacks.",
                   "intervention": {
@@ -10656,7 +10997,12 @@
                 "id": 14,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -10675,7 +11021,12 @@
                 "id": 15,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -10694,7 +11045,12 @@
                 "id": 17,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -10927,7 +11283,12 @@
                 "id": 3,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "Spam requires the constant fabrication of new accounts with few real connections to other users, so affinity checks are significant checks on spam.",
                   "intervention": {
@@ -10946,7 +11307,12 @@
                 "id": 5,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -10965,7 +11331,12 @@
                 "id": 6,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -10984,9 +11355,14 @@
                 "id": 7,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
-                  "RelationshipDescription": null,
+                  "RelationshipDescription": "Though it introduces a bit of a bootstrapping problem...",
                   "intervention": {
                     "data": {
                       "id": 29,
@@ -11353,7 +11729,12 @@
                 "id": 2,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -11463,7 +11844,12 @@
                 "id": 75,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -11482,7 +11868,12 @@
                 "id": 78,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -11664,7 +12055,12 @@
                 "id": 50,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -11683,7 +12079,12 @@
                 "id": 51,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -11702,7 +12103,12 @@
                 "id": 52,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -11836,7 +12242,12 @@
                 "id": 85,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": "When a platform retains location data, it becomes possible to accidentally share or expose that data for misuses like doxxing.",
                   "intervention": {
@@ -11855,7 +12266,12 @@
                 "id": 86,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "In many online contexts, sharing a location is never expected, so blocking it prevents unexpected platform uses.",
                   "intervention": {
@@ -11874,9 +12290,14 @@
                 "id": 87,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
-                  "RelationshipDescription": "For data that can be sensitive, the threshold for take-down should be lower. Allowing users more capacity to censor on sensitive data can ameliorate doxxing, and dissuade users from doing it.",
+                  "RelationshipDescription": "Sensitive data should have different thresholds for takedown. Allowing users narrow censorship can minimize the efficacy of doxxing, and dissuade users from doing it.",
                   "intervention": {
                     "data": {
                       "id": 43,
@@ -11893,7 +12314,12 @@
                 "id": 88,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "If an address is found to be used in doxxing, it's probably prudent to not allow posting it in most contexts going forward.",
                   "intervention": {
@@ -12003,7 +12429,12 @@
                 "id": 48,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -12022,7 +12453,12 @@
                 "id": 49,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "intervention": {
@@ -13380,7 +13816,12 @@
                 "id": 6,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -13399,7 +13840,12 @@
                 "id": 12,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -13418,7 +13864,12 @@
                 "id": 14,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -13437,7 +13888,12 @@
                 "id": 25,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -13456,7 +13912,12 @@
                 "id": 40,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -13475,7 +13936,12 @@
                 "id": 54,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -13566,7 +14032,12 @@
                 "id": 157,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -13894,7 +14365,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Since VE often lies at the end of a rabbit hole, resetting preferences can bring people back toward median.",
+                  "RelationshipDescription": "Since violent-extremism often lies at the end of a rabbit hole, resetting preferences can bring people back toward median.",
                   "harm": {
                     "data": {
                       "id": 13,
@@ -13961,9 +14432,14 @@
                 "id": 7,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
-                  "RelationshipDescription": null,
+                  "RelationshipDescription": "Though it introduces a bit of a bootstrapping problem...",
                   "harm": {
                     "data": {
                       "id": 1,
@@ -13980,7 +14456,12 @@
                 "id": 26,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -14114,7 +14595,12 @@
                 "id": 10,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -14133,7 +14619,12 @@
                 "id": 18,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -14152,7 +14643,12 @@
                 "id": 21,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -14171,7 +14667,12 @@
                 "id": 46,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "To reach large audiences, or replicate through messages with links, malware has to be publicly hosted somewhere.",
                   "harm": {
@@ -14266,25 +14767,6 @@
           },
           "relationship_harm_interventions": {
             "data": [
-              {
-                "id": 95,
-                "attributes": {
-                  "RLOE": {
-                    "data": null
-                  },
-                  "RelationshipDescription": null,
-                  "harm": {
-                    "data": {
-                      "id": 24,
-                      "attributes": {
-                        "readableId": "hate-speech",
-                        "Title": "Hate Speech",
-                        "Definition": "Explicitly advocating violence, discrimination, or prejudice toward individuals or groups based on immutable characteristics."
-                      }
-                    }
-                  }
-                }
-              },
               {
                 "id": 131,
                 "attributes": {
@@ -14502,7 +14984,12 @@
                 "id": 37,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -14521,7 +15008,12 @@
                 "id": 73,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -14729,7 +15221,12 @@
                 "id": 33,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -14748,7 +15245,12 @@
                 "id": 49,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -14767,9 +15269,14 @@
                 "id": 87,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
-                  "RelationshipDescription": "For data that can be sensitive, the threshold for take-down should be lower. Allowing users more capacity to censor on sensitive data can ameliorate doxxing, and dissuade users from doing it.",
+                  "RelationshipDescription": "Sensitive data should have different thresholds for takedown. Allowing users narrow censorship can minimize the efficacy of doxxing, and dissuade users from doing it.",
                   "harm": {
                     "data": {
                       "id": 9,
@@ -14901,7 +15408,12 @@
                 "id": 156,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -14951,7 +15463,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Since VE is typically illegal, recording traces to help identify it's origin may reduce its prevalence.",
+                  "RelationshipDescription": "Since violent extremism is typically illegal, recording traces to help identify it's origin may reduce its prevalence.",
                   "harm": {
                     "data": {
                       "id": 13,
@@ -15035,7 +15547,12 @@
                 "id": 29,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -15054,9 +15571,14 @@
                 "id": 82,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
-                  "RelationshipDescription": "This is an example preampble.",
+                  "RelationshipDescription": "Allowing users more control over their time on platform can help users escape their rabbit holes.",
                   "harm": {
                     "data": {
                       "id": 7,
@@ -15131,7 +15653,12 @@
                 "id": 69,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -15200,7 +15727,12 @@
                 "id": 11,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "Performing impersonation in bulk requires the automated creation of many different accounts.",
                   "harm": {
@@ -15219,7 +15751,12 @@
                 "id": 13,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -15238,7 +15775,12 @@
                 "id": 15,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -15257,7 +15799,12 @@
                 "id": 20,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -15276,7 +15823,12 @@
                 "id": 56,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -15295,7 +15847,12 @@
                 "id": 71,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -15314,7 +15871,12 @@
                 "id": 77,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -15391,7 +15953,12 @@
                 "id": 63,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -15685,7 +16252,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Because IDB arises largely out of influencer dynamics, decentralizing influence would reduce the prevalence of this problem.",
+                  "RelationshipDescription": "Incentives for dangerous behavior arise largely out of influencer dynamics, so decentralizing influence would reduce the prevalence of this problem.",
                   "harm": {
                     "data": {
                       "id": 47,
@@ -15793,7 +16360,12 @@
                 "id": 2,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -15812,7 +16384,12 @@
                 "id": 4,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "Authoritative sources of information can inoculate users against misinformation, making them more skeptical of election news they may encounter.",
                   "harm": {
@@ -15831,7 +16408,12 @@
                 "id": 39,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -15850,7 +16432,12 @@
                 "id": 83,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -15943,7 +16530,12 @@
                 "id": 27,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -15962,7 +16554,12 @@
                 "id": 53,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -15981,7 +16578,12 @@
                 "id": 65,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16000,7 +16602,12 @@
                 "id": 72,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16019,7 +16626,12 @@
                 "id": 81,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16088,7 +16700,12 @@
                 "id": 28,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16107,7 +16724,12 @@
                 "id": 84,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16259,7 +16881,12 @@
                 "id": 44,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": "Using known lists of bad links, domains, and file hashes is a low cost way of preventing rampant malware.",
                   "harm": {
@@ -16278,7 +16905,12 @@
                 "id": 50,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16364,7 +16996,12 @@
                 "id": 24,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16457,7 +17094,12 @@
                 "id": 41,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16476,7 +17118,12 @@
                 "id": 60,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16495,7 +17142,12 @@
                 "id": 76,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16596,7 +17248,12 @@
                 "id": 96,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16673,7 +17330,12 @@
                 "id": 70,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16733,7 +17395,12 @@
                 "id": 1,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16752,7 +17419,12 @@
                 "id": 19,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16821,7 +17493,12 @@
                 "id": 22,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16881,7 +17558,12 @@
                 "id": 31,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -16900,7 +17582,12 @@
                 "id": 85,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": "When a platform retains location data, it becomes possible to accidentally share or expose that data for misuses like doxxing.",
                   "harm": {
@@ -16993,7 +17680,12 @@
                 "id": 38,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17012,7 +17704,12 @@
                 "id": 68,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17130,7 +17827,12 @@
                 "id": 30,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17149,7 +17851,12 @@
                 "id": 48,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17168,7 +17875,12 @@
                 "id": 57,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17187,7 +17899,12 @@
                 "id": 66,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17206,7 +17923,12 @@
                 "id": 86,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "In many online contexts, sharing a location is never expected, so blocking it prevents unexpected platform uses.",
                   "harm": {
@@ -17275,7 +17997,12 @@
                 "id": 17,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17294,7 +18021,12 @@
                 "id": 34,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17313,7 +18045,12 @@
                 "id": 78,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17456,7 +18193,12 @@
                 "id": 8,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17475,7 +18217,12 @@
                 "id": 16,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17494,7 +18241,12 @@
                 "id": 47,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "If a file or link constitutes malware, all future copies of it do too.",
                   "harm": {
@@ -17513,7 +18265,12 @@
                 "id": 52,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17532,7 +18289,12 @@
                 "id": 55,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17601,7 +18363,12 @@
                 "id": 23,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17620,7 +18387,12 @@
                 "id": 45,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": "Prompting a user to consider whether they trust the source is an effective way to prevent thoughtless malware installation.",
                   "harm": {
@@ -17639,7 +18411,12 @@
                 "id": 51,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17741,7 +18518,12 @@
                 "id": 80,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -17944,7 +18726,12 @@
                 "id": 89,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "Allowing users to report blackmail when it occurs gives a platform the ability to block the account of the blackmailer, preventing mass attacks.",
                   "harm": {
@@ -18042,7 +18829,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Because it provides users with a sense of solvency/control",
+                  "RelationshipDescription": "Because it provides users with a sense of solvency/control:",
                   "harm": {
                     "data": {
                       "id": 4,
@@ -18066,7 +18853,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Because it helps victims feel heard and empowered",
+                  "RelationshipDescription": "Because it helps victims feel heard and empowered:",
                   "harm": {
                     "data": {
                       "id": 25,
@@ -18255,7 +19042,12 @@
                 "id": 74,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -18331,7 +19123,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Allowing anonymous uploads of images or videos risks CSAM uploaded and shared without accountability.",
+                  "RelationshipDescription": "Allowing anonymous uploads of images or videos risks illegal material being uploaded and shared without accountability.",
                   "harm": {
                     "data": {
                       "id": 14,
@@ -18355,7 +19147,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Anonymous access makes CIA much easier to build.",
+                  "RelationshipDescription": "Anonymous access makes automation easier to achieve.",
                   "harm": {
                     "data": {
                       "id": 16,
@@ -18444,7 +19236,12 @@
                 "id": 177,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -18846,7 +19643,7 @@
                       }
                     }
                   },
-                  "RelationshipDescription": "Because IDB is primarily a function of influencer dynamics.",
+                  "RelationshipDescription": "Because the incentives for dangerous behavior arise out of attentional pressures:",
                   "harm": {
                     "data": {
                       "id": 47,
@@ -19237,7 +20034,12 @@
                 "id": 32,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -19256,7 +20058,12 @@
                 "id": 59,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -19275,7 +20082,12 @@
                 "id": 67,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -19294,7 +20106,12 @@
                 "id": 75,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -19363,7 +20180,12 @@
                 "id": 3,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "Spam requires the constant fabrication of new accounts with few real connections to other users, so affinity checks are significant checks on spam.",
                   "harm": {
@@ -19382,7 +20204,12 @@
                 "id": 64,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -19451,7 +20278,12 @@
                 "id": 43,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -19470,7 +20302,12 @@
                 "id": 62,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -19539,7 +20376,12 @@
                 "id": 128,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -19649,7 +20491,12 @@
                 "id": 36,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -19840,7 +20687,12 @@
                 "id": 88,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": "If an address is found to be used in doxxing, it's probably prudent to not allow posting it in most contexts going forward.",
                   "harm": {
@@ -20014,7 +20866,12 @@
                 "id": 79,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -20083,7 +20940,12 @@
                 "id": 42,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -20102,7 +20964,12 @@
                 "id": 61,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -20188,7 +21055,12 @@
                 "id": 5,
                 "attributes": {
                   "RLOE": {
-                    "data": null
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
                   },
                   "RelationshipDescription": null,
                   "harm": {
@@ -23526,1245 +24398,15 @@
   "relationshipHarmInterventions": {
     "data": [
       {
-        "id": 1,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 19
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 36
-            }
-          }
-        }
-      },
-      {
-        "id": 2,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 12
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 17
-            }
-          }
-        }
-      },
-      {
-        "id": 5,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 1
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 13
-            }
-          }
-        }
-      },
-      {
-        "id": 6,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 1
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 27
-            }
-          }
-        }
-      },
-      {
-        "id": 7,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 1
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 29
-            }
-          }
-        }
-      },
-      {
-        "id": 8,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 14
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 28
-            }
-          }
-        }
-      },
-      {
-        "id": 10,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 14
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 35
-            }
-          }
-        }
-      },
-      {
-        "id": 12,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 16
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 27
-            }
-          }
-        }
-      },
-      {
-        "id": 13,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 16
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 34
-            }
-          }
-        }
-      },
-      {
-        "id": 14,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 17
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 27
-            }
-          }
-        }
-      },
-      {
-        "id": 15,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 17
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 34
-            }
-          }
-        }
-      },
-      {
-        "id": 16,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 18
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 28
-            }
-          }
-        }
-      },
-      {
-        "id": 17,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 17
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 44
-            }
-          }
-        }
-      },
-      {
-        "id": 18,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 18
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 35
-            }
-          }
-        }
-      },
-      {
-        "id": 19,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 18
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 36
-            }
-          }
-        }
-      },
-      {
-        "id": 20,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 19
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 34
-            }
-          }
-        }
-      },
-      {
-        "id": 21,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 19
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 35
-            }
-          }
-        }
-      },
-      {
-        "id": 22,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 19
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 37
-            }
-          }
-        }
-      },
-      {
-        "id": 23,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 2
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 23
-            }
-          }
-        }
-      },
-      {
-        "id": 24,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 2
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 25
-            }
-          }
-        }
-      },
-      {
-        "id": 25,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 2
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 27
-            }
-          }
-        }
-      },
-      {
-        "id": 26,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 2
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 29
-            }
-          }
-        }
-      },
-      {
-        "id": 27,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 21
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 1
-            }
-          }
-        }
-      },
-      {
-        "id": 28,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 21
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 20
-            }
-          }
-        }
-      },
-      {
-        "id": 29,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 21
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 16
-            }
-          }
-        }
-      },
-      {
-        "id": 30,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 22
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 41
-            }
-          }
-        }
-      },
-      {
-        "id": 31,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 22
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 40
-            }
-          }
-        }
-      },
-      {
-        "id": 32,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 22
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 42
-            }
-          }
-        }
-      },
-      {
-        "id": 33,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 22
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 43
-            }
-          }
-        }
-      },
-      {
-        "id": 34,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 26
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 44
-            }
-          }
-        }
-      },
-      {
-        "id": 36,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 27
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 39
-            }
-          }
-        }
-      },
-      {
-        "id": 37,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 27
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 47
-            }
-          }
-        }
-      },
-      {
-        "id": 38,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 27
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 5
-            }
-          }
-        }
-      },
-      {
-        "id": 39,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 28
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 17
-            }
-          }
-        }
-      },
-      {
-        "id": 40,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 29
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 27
-            }
-          }
-        }
-      },
-      {
-        "id": 41,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 29
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 26
-            }
-          }
-        }
-      },
-      {
-        "id": 42,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 29
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 45
-            }
-          }
-        }
-      },
-      {
-        "id": 43,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 29
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 46
-            }
-          }
-        }
-      },
-      {
-        "id": 48,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 30
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 41
-            }
-          }
-        }
-      },
-      {
-        "id": 49,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 30
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 43
-            }
-          }
-        }
-      },
-      {
-        "id": 50,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 33
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 22
-            }
-          }
-        }
-      },
-      {
-        "id": 51,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 33
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 23
-            }
-          }
-        }
-      },
-      {
-        "id": 52,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 33
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 28
-            }
-          }
-        }
-      },
-      {
-        "id": 53,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 35
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 1
-            }
-          }
-        }
-      },
-      {
-        "id": 54,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 36
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 27
-            }
-          }
-        }
-      },
-      {
-        "id": 55,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 36
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 28
-            }
-          }
-        }
-      },
-      {
-        "id": 56,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 36
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 34
-            }
-          }
-        }
-      },
-      {
-        "id": 57,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 37
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 41
-            }
-          }
-        }
-      },
-      {
-        "id": 59,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 37
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 42
-            }
-          }
-        }
-      },
-      {
-        "id": 60,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 39
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 26
-            }
-          }
-        }
-      },
-      {
-        "id": 61,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 39
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 45
-            }
-          }
-        }
-      },
-      {
-        "id": 62,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 39
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 46
-            }
-          }
-        }
-      },
-      {
-        "id": 63,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 4
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 3
-            }
-          }
-        }
-      },
-      {
-        "id": 64,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 4
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 4
-            }
-          }
-        }
-      },
-      {
-        "id": 65,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 4
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 1
-            }
-          }
-        }
-      },
-      {
-        "id": 66,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 4
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 41
-            }
-          }
-        }
-      },
-      {
-        "id": 67,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 4
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 42
-            }
-          }
-        }
-      },
-      {
-        "id": 68,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 4
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 5
-            }
-          }
-        }
-      },
-      {
-        "id": 69,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 40
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 32
-            }
-          }
-        }
-      },
-      {
-        "id": 70,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 40
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 33
-            }
-          }
-        }
-      },
-      {
-        "id": 71,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 40
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 34
-            }
-          }
-        }
-      },
-      {
-        "id": 72,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 42
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 1
-            }
-          }
-        }
-      },
-      {
-        "id": 73,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 42
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 47
-            }
-          }
-        }
-      },
-      {
-        "id": 74,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 42
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 6
-            }
-          }
-        }
-      },
-      {
-        "id": 75,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 46
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 42
-            }
-          }
-        }
-      },
-      {
         "id": 76,
         "attributes": {
           "RLOE": {
-            "data": null
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
           },
           "RelationshipDescription": null,
           "harm": {
@@ -24783,7 +24425,12 @@
         "id": 77,
         "attributes": {
           "RLOE": {
-            "data": null
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
           },
           "RelationshipDescription": null,
           "harm": {
@@ -24802,7 +24449,12 @@
         "id": 78,
         "attributes": {
           "RLOE": {
-            "data": null
+            "data": {
+              "id": 7,
+              "attributes": {
+                "Title": "Unlikely to be Effective"
+              }
+            }
           },
           "RelationshipDescription": null,
           "harm": {
@@ -24818,10 +24470,39 @@
         }
       },
       {
+        "id": 84,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 7
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 20
+            }
+          }
+        }
+      },
+      {
         "id": 79,
         "attributes": {
           "RLOE": {
-            "data": null
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
           },
           "RelationshipDescription": null,
           "harm": {
@@ -24840,7 +24521,12 @@
         "id": 80,
         "attributes": {
           "RLOE": {
-            "data": null
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
           },
           "RelationshipDescription": null,
           "harm": {
@@ -24859,7 +24545,12 @@
         "id": 81,
         "attributes": {
           "RLOE": {
-            "data": null
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
           },
           "RelationshipDescription": null,
           "harm": {
@@ -24875,219 +24566,15 @@
         }
       },
       {
-        "id": 83,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 7
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 17
-            }
-          }
-        }
-      },
-      {
-        "id": 84,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 7
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 20
-            }
-          }
-        }
-      },
-      {
-        "id": 82,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": "This is an example preampble.",
-          "harm": {
-            "data": {
-              "id": 7
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 16
-            }
-          }
-        }
-      },
-      {
-        "id": 85,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": "When a platform retains location data, it becomes possible to accidentally share or expose that data for misuses like doxxing.",
-          "harm": {
-            "data": {
-              "id": 9
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 40
-            }
-          }
-        }
-      },
-      {
-        "id": 86,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": "In many online contexts, sharing a location is never expected, so blocking it prevents unexpected platform uses.",
-          "harm": {
-            "data": {
-              "id": 9
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 41
-            }
-          }
-        }
-      },
-      {
-        "id": 87,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": "For data that can be sensitive, the threshold for take-down should be lower. Allowing users more capacity to censor on sensitive data can ameliorate doxxing, and dissuade users from doing it.",
-          "harm": {
-            "data": {
-              "id": 9
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 43
-            }
-          }
-        }
-      },
-      {
-        "id": 88,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": "If an address is found to be used in doxxing, it's probably prudent to not allow posting it in most contexts going forward.",
-          "harm": {
-            "data": {
-              "id": 9
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 50
-            }
-          }
-        }
-      },
-      {
-        "id": 44,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": "Using known lists of bad links, domains, and file hashes is a low cost way of preventing rampant malware.",
-          "harm": {
-            "data": {
-              "id": 3
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 22
-            }
-          }
-        }
-      },
-      {
-        "id": 45,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": "Prompting a user to consider whether they trust the source is an effective way to prevent thoughtless malware installation.",
-          "harm": {
-            "data": {
-              "id": 3
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 23
-            }
-          }
-        }
-      },
-      {
-        "id": 46,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": "To reach large audiences, or replicate through messages with links, malware has to be publicly hosted somewhere.",
-          "harm": {
-            "data": {
-              "id": 3
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 35
-            }
-          }
-        }
-      },
-      {
-        "id": 47,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": "If a file or link constitutes malware, all future copies of it do too.",
-          "harm": {
-            "data": {
-              "id": 3
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 28
-            }
-          }
-        }
-      },
-      {
         "id": 89,
         "attributes": {
           "RLOE": {
-            "data": null
+            "data": {
+              "id": 7,
+              "attributes": {
+                "Title": "Unlikely to be Effective"
+              }
+            }
           },
           "RelationshipDescription": "Allowing users to report blackmail when it occurs gives a platform the ability to block the account of the blackmailer, preventing mass attacks.",
           "harm": {
@@ -25103,34 +24590,68 @@
         }
       },
       {
-        "id": 3,
+        "id": 88,
         "attributes": {
           "RLOE": {
-            "data": null
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
           },
-          "RelationshipDescription": "Spam requires the constant fabrication of new accounts with few real connections to other users, so affinity checks are significant checks on spam.",
+          "RelationshipDescription": "If an address is found to be used in doxxing, it's probably prudent to not allow posting it in most contexts going forward.",
           "harm": {
             "data": {
-              "id": 1
+              "id": 9
             }
           },
           "intervention": {
             "data": {
-              "id": 4
+              "id": 50
             }
           }
         }
       },
       {
-        "id": 4,
+        "id": 82,
         "attributes": {
           "RLOE": {
-            "data": null
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
           },
-          "RelationshipDescription": "Authoritative sources of information can inoculate users against misinformation, making them more skeptical of election news they may encounter.",
+          "RelationshipDescription": "Allowing users more control over their time on platform can help users escape their rabbit holes.",
           "harm": {
             "data": {
-              "id": 11
+              "id": 7
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 16
+            }
+          }
+        }
+      },
+      {
+        "id": 83,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 7
             }
           },
           "intervention": {
@@ -25141,20 +24662,121 @@
         }
       },
       {
-        "id": 11,
+        "id": 96,
         "attributes": {
           "RLOE": {
-            "data": null
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
           },
-          "RelationshipDescription": "Performing impersonation in bulk requires the automated creation of many different accounts.",
+          "RelationshipDescription": null,
           "harm": {
             "data": {
-              "id": 15
+              "id": 24
             }
           },
           "intervention": {
             "data": {
-              "id": 34
+              "id": 30
+            }
+          }
+        }
+      },
+      {
+        "id": 86,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": "In many online contexts, sharing a location is never expected, so blocking it prevents unexpected platform uses.",
+          "harm": {
+            "data": {
+              "id": 9
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 41
+            }
+          }
+        }
+      },
+      {
+        "id": 74,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 42
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 6
+            }
+          }
+        }
+      },
+      {
+        "id": 87,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": "Sensitive data should have different thresholds for takedown. Allowing users narrow censorship can minimize the efficacy of doxxing, and dissuade users from doing it.",
+          "harm": {
+            "data": {
+              "id": 9
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 43
+            }
+          }
+        }
+      },
+      {
+        "id": 5,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 1
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 13
             }
           }
         }
@@ -25227,44 +24849,6 @@
           "intervention": {
             "data": {
               "id": 55
-            }
-          }
-        }
-      },
-      {
-        "id": 95,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 24
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 56
-            }
-          }
-        }
-      },
-      {
-        "id": 96,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 24
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 30
             }
           }
         }
@@ -25400,7 +24984,7 @@
               }
             }
           },
-          "RelationshipDescription": "Because it provides users with a sense of solvency/control",
+          "RelationshipDescription": "Because it provides users with a sense of solvency/control:",
           "harm": {
             "data": {
               "id": 4
@@ -25424,7 +25008,7 @@
               }
             }
           },
-          "RelationshipDescription": "Because it helps victims feel heard and empowered",
+          "RelationshipDescription": "Because it helps victims feel heard and empowered:",
           "harm": {
             "data": {
               "id": 25
@@ -25433,6 +25017,1638 @@
           "intervention": {
             "data": {
               "id": 51
+            }
+          }
+        }
+      },
+      {
+        "id": 1,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 19
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 36
+            }
+          }
+        }
+      },
+      {
+        "id": 2,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 12
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 17
+            }
+          }
+        }
+      },
+      {
+        "id": 3,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": "Spam requires the constant fabrication of new accounts with few real connections to other users, so affinity checks are significant checks on spam.",
+          "harm": {
+            "data": {
+              "id": 1
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 4
+            }
+          }
+        }
+      },
+      {
+        "id": 4,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": "Authoritative sources of information can inoculate users against misinformation, making them more skeptical of election news they may encounter.",
+          "harm": {
+            "data": {
+              "id": 11
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 17
+            }
+          }
+        }
+      },
+      {
+        "id": 6,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 1
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 27
+            }
+          }
+        }
+      },
+      {
+        "id": 7,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": "Though it introduces a bit of a bootstrapping problem...",
+          "harm": {
+            "data": {
+              "id": 1
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 29
+            }
+          }
+        }
+      },
+      {
+        "id": 8,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 14
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 28
+            }
+          }
+        }
+      },
+      {
+        "id": 10,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 14
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 35
+            }
+          }
+        }
+      },
+      {
+        "id": 11,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": "Performing impersonation in bulk requires the automated creation of many different accounts.",
+          "harm": {
+            "data": {
+              "id": 15
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 34
+            }
+          }
+        }
+      },
+      {
+        "id": 12,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 16
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 27
+            }
+          }
+        }
+      },
+      {
+        "id": 13,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 16
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 34
+            }
+          }
+        }
+      },
+      {
+        "id": 14,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 7,
+              "attributes": {
+                "Title": "Unlikely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 17
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 27
+            }
+          }
+        }
+      },
+      {
+        "id": 15,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 17
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 34
+            }
+          }
+        }
+      },
+      {
+        "id": 16,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 18
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 28
+            }
+          }
+        }
+      },
+      {
+        "id": 17,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 7,
+              "attributes": {
+                "Title": "Unlikely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 17
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 44
+            }
+          }
+        }
+      },
+      {
+        "id": 18,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 18
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 35
+            }
+          }
+        }
+      },
+      {
+        "id": 19,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 18
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 36
+            }
+          }
+        }
+      },
+      {
+        "id": 20,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 19
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 34
+            }
+          }
+        }
+      },
+      {
+        "id": 21,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 19
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 35
+            }
+          }
+        }
+      },
+      {
+        "id": 22,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 19
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 37
+            }
+          }
+        }
+      },
+      {
+        "id": 24,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 2
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 25
+            }
+          }
+        }
+      },
+      {
+        "id": 23,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 2
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 23
+            }
+          }
+        }
+      },
+      {
+        "id": 25,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 2
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 27
+            }
+          }
+        }
+      },
+      {
+        "id": 26,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 2
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 29
+            }
+          }
+        }
+      },
+      {
+        "id": 29,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 21
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 16
+            }
+          }
+        }
+      },
+      {
+        "id": 27,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 21
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 1
+            }
+          }
+        }
+      },
+      {
+        "id": 28,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 21
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 20
+            }
+          }
+        }
+      },
+      {
+        "id": 30,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 22
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 41
+            }
+          }
+        }
+      },
+      {
+        "id": 31,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 22
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 40
+            }
+          }
+        }
+      },
+      {
+        "id": 32,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 22
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 42
+            }
+          }
+        }
+      },
+      {
+        "id": 33,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 22
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 43
+            }
+          }
+        }
+      },
+      {
+        "id": 36,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 27
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 39
+            }
+          }
+        }
+      },
+      {
+        "id": 34,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 26
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 44
+            }
+          }
+        }
+      },
+      {
+        "id": 37,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 27
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 47
+            }
+          }
+        }
+      },
+      {
+        "id": 38,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 27
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 5
+            }
+          }
+        }
+      },
+      {
+        "id": 39,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 28
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 17
+            }
+          }
+        }
+      },
+      {
+        "id": 40,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 29
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 27
+            }
+          }
+        }
+      },
+      {
+        "id": 71,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 40
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 34
+            }
+          }
+        }
+      },
+      {
+        "id": 41,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 29
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 26
+            }
+          }
+        }
+      },
+      {
+        "id": 42,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 29
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 45
+            }
+          }
+        }
+      },
+      {
+        "id": 45,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": "Prompting a user to consider whether they trust the source is an effective way to prevent thoughtless malware installation.",
+          "harm": {
+            "data": {
+              "id": 3
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 23
+            }
+          }
+        }
+      },
+      {
+        "id": 46,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": "To reach large audiences, or replicate through messages with links, malware has to be publicly hosted somewhere.",
+          "harm": {
+            "data": {
+              "id": 3
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 35
+            }
+          }
+        }
+      },
+      {
+        "id": 47,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": "If a file or link constitutes malware, all future copies of it do too.",
+          "harm": {
+            "data": {
+              "id": 3
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 28
+            }
+          }
+        }
+      },
+      {
+        "id": 48,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 30
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 41
+            }
+          }
+        }
+      },
+      {
+        "id": 49,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 30
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 43
+            }
+          }
+        }
+      },
+      {
+        "id": 50,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 33
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 22
+            }
+          }
+        }
+      },
+      {
+        "id": 51,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 33
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 23
+            }
+          }
+        }
+      },
+      {
+        "id": 52,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 33
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 28
+            }
+          }
+        }
+      },
+      {
+        "id": 53,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 35
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 1
+            }
+          }
+        }
+      },
+      {
+        "id": 54,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 36
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 27
+            }
+          }
+        }
+      },
+      {
+        "id": 55,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 36
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 28
+            }
+          }
+        }
+      },
+      {
+        "id": 56,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 36
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 34
+            }
+          }
+        }
+      },
+      {
+        "id": 57,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 7,
+              "attributes": {
+                "Title": "Unlikely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 37
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 41
+            }
+          }
+        }
+      },
+      {
+        "id": 59,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 37
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 42
+            }
+          }
+        }
+      },
+      {
+        "id": 60,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 39
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 26
+            }
+          }
+        }
+      },
+      {
+        "id": 61,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 39
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 45
+            }
+          }
+        }
+      },
+      {
+        "id": 62,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 39
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 46
+            }
+          }
+        }
+      },
+      {
+        "id": 64,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 4
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 4
+            }
+          }
+        }
+      },
+      {
+        "id": 63,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 4
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 3
+            }
+          }
+        }
+      },
+      {
+        "id": 65,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 4
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 1
+            }
+          }
+        }
+      },
+      {
+        "id": 66,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 7,
+              "attributes": {
+                "Title": "Unlikely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 4
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 41
+            }
+          }
+        }
+      },
+      {
+        "id": 68,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 4
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 5
+            }
+          }
+        }
+      },
+      {
+        "id": 69,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 40
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 32
+            }
+          }
+        }
+      },
+      {
+        "id": 67,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 7,
+              "attributes": {
+                "Title": "Unlikely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 4
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 42
+            }
+          }
+        }
+      },
+      {
+        "id": 70,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 40
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 33
+            }
+          }
+        }
+      },
+      {
+        "id": 72,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 42
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 1
+            }
+          }
+        }
+      },
+      {
+        "id": 75,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 46
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 42
+            }
+          }
+        }
+      },
+      {
+        "id": 73,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "Title": "Likely to be very Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 42
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 47
             }
           }
         }
@@ -25606,6 +26822,30 @@
         }
       },
       {
+        "id": 128,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 41
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 62
+            }
+          }
+        }
+      },
+      {
         "id": 112,
         "attributes": {
           "RLOE": {
@@ -25697,6 +26937,30 @@
           "intervention": {
             "data": {
               "id": 3
+            }
+          }
+        }
+      },
+      {
+        "id": 177,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 13
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 68
             }
           }
         }
@@ -25966,25 +27230,6 @@
         }
       },
       {
-        "id": 128,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 41
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 62
-            }
-          }
-        }
-      },
-      {
         "id": 129,
         "attributes": {
           "RLOE": {
@@ -26004,6 +27249,30 @@
           "intervention": {
             "data": {
               "id": 63
+            }
+          }
+        }
+      },
+      {
+        "id": 157,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 20
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 27
             }
           }
         }
@@ -26609,44 +27878,6 @@
         }
       },
       {
-        "id": 156,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 20
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 66
-            }
-          }
-        }
-      },
-      {
-        "id": 157,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 20
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 27
-            }
-          }
-        }
-      },
-      {
         "id": 158,
         "attributes": {
           "RLOE": {
@@ -26666,6 +27897,30 @@
           "intervention": {
             "data": {
               "id": 50
+            }
+          }
+        }
+      },
+      {
+        "id": 156,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 20
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 66
             }
           }
         }
@@ -26911,102 +28166,6 @@
         }
       },
       {
-        "id": 169,
-        "attributes": {
-          "RLOE": {
-            "data": {
-              "id": 9,
-              "attributes": {
-                "Title": "Worth Trying, Potentially Effective"
-              }
-            }
-          },
-          "RelationshipDescription": "Since VE often lies at the end of a rabbit hole, resetting preferences can bring people back toward median.",
-          "harm": {
-            "data": {
-              "id": 13
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 55
-            }
-          }
-        }
-      },
-      {
-        "id": 170,
-        "attributes": {
-          "RLOE": {
-            "data": {
-              "id": 8,
-              "attributes": {
-                "Title": "Worth Trying, Low Consequence"
-              }
-            }
-          },
-          "RelationshipDescription": "Since VE is typically illegal, recording traces to help identify it's origin may reduce its prevalence.",
-          "harm": {
-            "data": {
-              "id": 13
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 66
-            }
-          }
-        }
-      },
-      {
-        "id": 172,
-        "attributes": {
-          "RLOE": {
-            "data": {
-              "id": 8,
-              "attributes": {
-                "Title": "Worth Trying, Low Consequence"
-              }
-            }
-          },
-          "RelationshipDescription": "Allowing anonymous uploads of images or videos risks CSAM uploaded and shared without accountability.",
-          "harm": {
-            "data": {
-              "id": 14
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 68
-            }
-          }
-        }
-      },
-      {
-        "id": 173,
-        "attributes": {
-          "RLOE": {
-            "data": {
-              "id": 10,
-              "attributes": {
-                "Title": "Likely to be Effective"
-              }
-            }
-          },
-          "RelationshipDescription": "Anonymous access makes CIA much easier to build.",
-          "harm": {
-            "data": {
-              "id": 16
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 68
-            }
-          }
-        }
-      },
-      {
         "id": 174,
         "attributes": {
           "RLOE": {
@@ -27098,25 +28257,6 @@
           "intervention": {
             "data": {
               "id": 26
-            }
-          }
-        }
-      },
-      {
-        "id": 177,
-        "attributes": {
-          "RLOE": {
-            "data": null
-          },
-          "RelationshipDescription": null,
-          "harm": {
-            "data": {
-              "id": 13
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 68
             }
           }
         }
@@ -27290,30 +28430,6 @@
         }
       },
       {
-        "id": 187,
-        "attributes": {
-          "RLOE": {
-            "data": {
-              "id": 9,
-              "attributes": {
-                "Title": "Worth Trying, Potentially Effective"
-              }
-            }
-          },
-          "RelationshipDescription": "Because IDB arises largely out of influencer dynamics, decentralizing influence would reduce the prevalence of this problem.",
-          "harm": {
-            "data": {
-              "id": 47
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 12
-            }
-          }
-        }
-      },
-      {
         "id": 186,
         "attributes": {
           "RLOE": {
@@ -27429,30 +28545,6 @@
           "intervention": {
             "data": {
               "id": 2
-            }
-          }
-        }
-      },
-      {
-        "id": 192,
-        "attributes": {
-          "RLOE": {
-            "data": {
-              "id": 10,
-              "attributes": {
-                "Title": "Likely to be Effective"
-              }
-            }
-          },
-          "RelationshipDescription": "Because IDB is primarily a function of influencer dynamics.",
-          "harm": {
-            "data": {
-              "id": 47
-            }
-          },
-          "intervention": {
-            "data": {
-              "id": 11
             }
           }
         }
@@ -27693,6 +28785,222 @@
           "intervention": {
             "data": {
               "id": 39
+            }
+          }
+        }
+      },
+      {
+        "id": 173,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": "Anonymous access makes automation easier to achieve.",
+          "harm": {
+            "data": {
+              "id": 16
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 68
+            }
+          }
+        }
+      },
+      {
+        "id": 187,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": "Incentives for dangerous behavior arise largely out of influencer dynamics, so decentralizing influence would reduce the prevalence of this problem.",
+          "harm": {
+            "data": {
+              "id": 47
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 12
+            }
+          }
+        }
+      },
+      {
+        "id": 192,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": "Because the incentives for dangerous behavior arise out of attentional pressures:",
+          "harm": {
+            "data": {
+              "id": 47
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 11
+            }
+          }
+        }
+      },
+      {
+        "id": 169,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "Title": "Worth Trying, Potentially Effective"
+              }
+            }
+          },
+          "RelationshipDescription": "Since violent-extremism often lies at the end of a rabbit hole, resetting preferences can bring people back toward median.",
+          "harm": {
+            "data": {
+              "id": 13
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 55
+            }
+          }
+        }
+      },
+      {
+        "id": 170,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": "Since violent extremism is typically illegal, recording traces to help identify it's origin may reduce its prevalence.",
+          "harm": {
+            "data": {
+              "id": 13
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 66
+            }
+          }
+        }
+      },
+      {
+        "id": 172,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": "Allowing anonymous uploads of images or videos risks illegal material being uploaded and shared without accountability.",
+          "harm": {
+            "data": {
+              "id": 14
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 68
+            }
+          }
+        }
+      },
+      {
+        "id": 43,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "Title": "Likely to be Effective"
+              }
+            }
+          },
+          "RelationshipDescription": null,
+          "harm": {
+            "data": {
+              "id": 29
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 46
+            }
+          }
+        }
+      },
+      {
+        "id": 44,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": "Using known lists of bad links, domains, and file hashes is a low cost way of preventing rampant malware.",
+          "harm": {
+            "data": {
+              "id": 3
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 22
+            }
+          }
+        }
+      },
+      {
+        "id": 85,
+        "attributes": {
+          "RLOE": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "Title": "Worth Trying, Low Consequence"
+              }
+            }
+          },
+          "RelationshipDescription": "When a platform retains location data, it becomes possible to accidentally share or expose that data for misuses like doxxing.",
+          "harm": {
+            "data": {
+              "id": 9
+            }
+          },
+          "intervention": {
+            "data": {
+              "id": 40
             }
           }
         }
