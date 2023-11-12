@@ -66,7 +66,7 @@
       },
       {
         "attributes": {
-          "RichText": "{\"time\":1689978714349,\"blocks\":[{\"id\":\"nUJNq5-uGn\",\"type\":\"paragraph\",\"data\":{\"text\":\"The internet has opened up a vast landscape of potential online harms. Often, these harms are a direct translation of real-world abuse into digital spaces, revealing how deeply rooted societal ills can permeate even novel spaces. In other cases, the internet poses unique, digital-native harms, underscoring the profound ways the internet's connectivity and ubiquity can reshape our world, and sometimes do so for the worse.&nbsp;\"}},{\"id\":\"Ebh6N-fpkq\",\"type\":\"paragraph\",\"data\":{\"text\":\"The public discussion around online harms has focused on <b>Content Moderation. </b>This approach is fractally fraught, and ultimately (I think) not a good tool for fixing most harms. Content moderation is time consuming,&nbsp;contentious,&nbsp;politically-fraught, and requires constant oversight and rule building. While it might seem like the right tool to reach for when content generates harm on the internet, it's helpful to back up and ask: what about the <b>platform</b> makes harmful content prevalent?<br>\"}},{\"id\":\"I3PanrWE2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"While the digital platforms themselves are not often directly to blame for these abuses, their design, algorithms, and policies often facilitate or exacerbate harm. By digging into why&nbsp;platforms are potential conduits for harm, this project explores how platforms could be tweaked by their owners, regulated by their governments, or petitioned by their users for redesigns that center harm aversion.\"}},{\"id\":\"l-gFqbL5u9\",\"type\":\"paragraph\",\"data\":{\"text\":\"To get started, pick one of the harms below that you're most concerned with.\"}}],\"version\":\"2.23.2\"}",
+          "RichText": "{\"time\":1699804960092,\"blocks\":[{\"id\":\"nUJNq5-uGn\",\"type\":\"paragraph\",\"data\":{\"text\":\"The internet has opened up a vast landscape of potential online harms. Often, these harms are a direct translation of real-world abuse into digital spaces, revealing how deeply rooted societal ills can permeate even novel spaces. In other cases, the internet poses unique, digital-native harms, underscoring the profound ways the internet's connectivity and ubiquity can reshape our world, and sometimes do so for the worse.&nbsp;\"}},{\"id\":\"Ebh6N-fpkq\",\"type\":\"paragraph\",\"data\":{\"text\":\"The public discussion around online harms has focused on <b>Content Moderation. </b>This approach is time consuming,&nbsp;contentious,&nbsp;politically-fraught, and requires constant oversight, rule building, and attention. While it might seem like the right tool to reach for when content generates harm on the internet, it's helpful to back up and ask: what about the <b>platform</b> makes harmful content prevalent?<br>\"}},{\"id\":\"I3PanrWE2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"While the digital platforms themselves are not often directly to blame for these abuses, their design, algorithms, and policies often facilitate or exacerbate harm. By digging into why&nbsp;platforms are potential conduits for harm, this project explores how platforms could be tweaked by their owners, regulated by their governments, or petitioned by their users for redesigns that center harm aversion.\"}},{\"id\":\"l-gFqbL5u9\",\"type\":\"paragraph\",\"data\":{\"text\":\"To get started, pick one of the harms below that you're most concerned with.\"}}],\"version\":\"2.23.2\"}",
           "Text": null
         },
         "id": 10
@@ -2013,7 +2013,7 @@
                     "data": {
                       "attributes": {
                         "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                        "Title": "Resource Misuse",
+                        "Title": "Resource Abuse",
                         "readableId": "resource-abuse"
                       },
                       "id": 19
@@ -2223,7 +2223,7 @@
                     "data": {
                       "attributes": {
                         "Definition": "Features that provide exact replicas of the data in are ripe for abuse.",
-                        "Title": "Subtley Modulate Uploads",
+                        "Title": "Subtly Modulate Uploads",
                         "readableId": "modulate-inputs"
                       },
                       "id": 37
@@ -3773,7 +3773,7 @@
               {
                 "attributes": {
                   "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                  "Title": "Resource Misuse",
+                  "Title": "Resource Abuse",
                   "readableId": "resource-abuse"
                 },
                 "id": 19
@@ -4024,7 +4024,7 @@
               {
                 "attributes": {
                   "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                  "Title": "Resource Misuse",
+                  "Title": "Resource Abuse",
                   "readableId": "resource-abuse"
                 },
                 "id": 19
@@ -8040,7 +8040,7 @@
           "DiscernableViaClassification": false,
           "HarmedPartyCanIntervene": false,
           "IllegalInLiberalDemocracies": "AlmostNever",
-          "Title": "Resource Misuse",
+          "Title": "Resource Abuse",
           "TypicallyTOSViolating": true,
           "harm_actors": {
             "data": [
@@ -8184,7 +8184,7 @@
                     "data": {
                       "attributes": {
                         "Definition": "Features that provide exact replicas of the data in are ripe for abuse.",
-                        "Title": "Subtley Modulate Uploads",
+                        "Title": "Subtly Modulate Uploads",
                         "readableId": "modulate-inputs"
                       },
                       "id": 37
@@ -10926,7 +10926,7 @@
       {
         "attributes": {
           "Definition": "The unconscious tendency for people to surround themselves with media that align with their existing views.",
-          "Description": "{\"time\":1699660949005,\"blocks\":[{\"id\":\"xkx6tElLJg\",\"type\":\"header\",\"data\":{\"text\":\"What is an Echo Chamber?\",\"level\":2}},{\"id\":\"0l09lc1XE7\",\"type\":\"paragraph\",\"data\":{\"text\":\"While <a href=\\\"/harm/filter-bubbles\\\">Filter Bubbles</a> largely emerge due to algorithmic curation, Echo Chambers arise from the social tendency that people tend to seek out and engage with viewpoints that confirm their pre-existing beliefs and biases. This occurs not just on digital platforms but also in physical spaces - people sort themselves into clubs, religious institutions, and friend groups according to their shared preferences.\"}},{\"id\":\"jEPXWf3yCE\",\"type\":\"paragraph\",\"data\":{\"text\":\"The formation of echo chambers is driven by <a href=\\\"/harm/confirmation-bias\\\">confirmation bias</a>, the human inclination to favor information that aligns with one's existing views and to discount information that doesn't. Digital platforms can inadvertently enable this behavior by encouraging users to selectively follow, friend, or interact with people or sources that share their perspectives, and avoid those that challenge them. Over time, users build a self-curated information space that largely echoes their own beliefs back to them, which reinforces their existing ideologies.\"}},{\"id\":\"eKjCS-VikB\",\"type\":\"header\",\"data\":{\"text\":\"Is internet design responsible for Echo Chambers?\",\"level\":2}},{\"id\":\"6ixm-BG7uj\",\"type\":\"paragraph\",\"data\":{\"text\":\"The internet doesn't fundamentally change the element of human nature by which Echo Chambers are made and ossify. Online communities, like those in the real world, will tend to draw together like-minded folks, and by enabling folks' self-sorting, platforms are only extending a challenge of the physical world into a digital space, albeit one that we spend increasing volumes of time in.\"}},{\"id\":\"fBQpANxiLA\",\"type\":\"paragraph\",\"data\":{\"text\":\"One caveat: Platforms enable the formation of communities that might otherwise be too infrequent or taboo in the population to allow associations through proximity to generate community. Robust queer communities were hallmarks of the early internet precisely because the network enabled connections at a distance for folks that were unable to form analogous connections in real life. The internet enabled queer folks to overcome their demographic infrequency, and pervasive (at the time) taboos to \\\"find their people\\\".\"}},{\"id\":\"fecWrrWNwT\",\"type\":\"paragraph\",\"data\":{\"text\":\"Since echo chambers phenomenon is ultimately a function of common psychology, and is clearly not unique to platforms, many platforms take no active steps to tackle this problem.\"}},{\"id\":\"0yeLkB5XGc\",\"type\":\"header\",\"data\":{\"text\":\"Can better design help?\",\"level\":2}},{\"id\":\"sa6PAJanj5\",\"type\":\"paragraph\",\"data\":{\"text\":\"Though digital platforms don't play the major part in creating echo chambers, their design can make the problem dramatically better or worse.  Interventions that intentionally break down the narrowness of groups have the capacity to break down echo chambers. For example: platforms could have shared (global) home pages, intentional diversity in friend recommendations, or intentionally introduce authoritative information into content feeds. Any of these strategies, though they might seem like small steps, would play a role in reducing the pull of Echo Chambers.\"}}],\"version\":\"2.23.2\"}",
+          "Description": "{\"time\":1699804860156,\"blocks\":[{\"id\":\"xkx6tElLJg\",\"type\":\"header\",\"data\":{\"text\":\"What is an Echo Chamber?\",\"level\":2}},{\"id\":\"0l09lc1XE7\",\"type\":\"paragraph\",\"data\":{\"text\":\"While <a href=\\\"/harm/filter-bubbles\\\">Filter Bubbles</a> largely emerge due to algorithmic curation, Echo Chambers arise from the social tendency that people tend to seek out and engage with viewpoints that confirm their pre-existing beliefs and biases. This occurs not just on digital platforms but also in physical spaces - people sort themselves into clubs, religious institutions, and friend groups according to their shared preferences.\"}},{\"id\":\"jEPXWf3yCE\",\"type\":\"paragraph\",\"data\":{\"text\":\"The formation of echo chambers is driven by <a href=\\\"/harm/confirmation-bias\\\">confirmation bias</a>, the human inclination to favor information that aligns with one's existing views and to discount information that doesn't. Digital platforms can inadvertently enable this behavior by encouraging users to selectively follow, friend, or interact with people or sources that share their perspectives, and avoid those that challenge them. Over time, users build a self-curated information space that largely echoes their own beliefs back to them, which reinforces their existing ideologies.\"}},{\"id\":\"eKjCS-VikB\",\"type\":\"header\",\"data\":{\"text\":\"Is internet design responsible for Echo Chambers?\",\"level\":2}},{\"id\":\"6ixm-BG7uj\",\"type\":\"paragraph\",\"data\":{\"text\":\"The internet doesn't fundamentally change the element of human nature by which Echo Chambers are made and ossify. Online communities, like those in the real world, will tend to draw together like-minded folks, and by enabling folks' self-sorting, platforms are only extending a challenge of the physical world into a digital space, albeit one that we spend increasing volumes of time in.\"}},{\"id\":\"fBQpANxiLA\",\"type\":\"paragraph\",\"data\":{\"text\":\"One caveat: Platforms enable the formation of communities that might otherwise be too infrequent or taboo in the population to allow associations through proximity to generate community. Robust queer communities were hallmarks of the early internet precisely because the network enabled connections at a distance for folks that were unable to form analogous connections in real life. The internet enabled queer folks to overcome their demographic infrequency, and pervasive (at the time) taboos to \\\"find their people\\\".\"}},{\"id\":\"fecWrrWNwT\",\"type\":\"paragraph\",\"data\":{\"text\":\"Since the phenomenon of Echo Chambers is ultimately a function of common psychology, and is clearly not unique to platforms, many platforms take no active steps to tackle this problem.\"}},{\"id\":\"0yeLkB5XGc\",\"type\":\"header\",\"data\":{\"text\":\"Can better design help?\",\"level\":2}},{\"id\":\"sa6PAJanj5\",\"type\":\"paragraph\",\"data\":{\"text\":\"Though digital platforms don't play the major part in creating echo chambers, their design can make the problem dramatically better or worse.  Interventions that intentionally break down the narrowness of groups have the capacity to break down echo chambers. For example: platforms could have shared (global) home pages, intentional diversity in friend recommendations, or intentionally introduce authoritative information into content feeds. Any of these strategies, though they might seem like small steps, would play a role in reducing the pull of Echo Chambers.\"}}],\"version\":\"2.23.2\"}",
           "DiscernableViaClassification": false,
           "HarmedPartyCanIntervene": false,
           "IllegalInLiberalDemocracies": "AlmostNever",
@@ -14048,7 +14048,7 @@
               {
                 "attributes": {
                   "Definition": "Features that provide exact replicas of the data in are ripe for abuse.",
-                  "Title": "Subtley Modulate Uploads",
+                  "Title": "Subtly Modulate Uploads",
                   "readableId": "modulate-inputs"
                 },
                 "id": 37
@@ -18253,7 +18253,7 @@
                     "data": {
                       "attributes": {
                         "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                        "Title": "Resource Misuse",
+                        "Title": "Resource Abuse",
                         "readableId": "resource-abuse"
                       },
                       "id": 19
@@ -18464,7 +18464,7 @@
                     "data": {
                       "attributes": {
                         "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                        "Title": "Resource Misuse",
+                        "Title": "Resource Abuse",
                         "readableId": "resource-abuse"
                       },
                       "id": 19
@@ -18610,7 +18610,7 @@
                     "data": {
                       "attributes": {
                         "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                        "Title": "Resource Misuse",
+                        "Title": "Resource Abuse",
                         "readableId": "resource-abuse"
                       },
                       "id": 19
@@ -18656,7 +18656,7 @@
           "EaseOfImplementation": "Challenging",
           "GenerallyAdvisable": false,
           "Reversible": true,
-          "Title": "Subtley Modulate Uploads",
+          "Title": "Subtly Modulate Uploads",
           "intervention_categories": {
             "data": [
               {
@@ -18708,7 +18708,7 @@
                     "data": {
                       "attributes": {
                         "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                        "Title": "Resource Misuse",
+                        "Title": "Resource Abuse",
                         "readableId": "resource-abuse"
                       },
                       "id": 19
@@ -20976,7 +20976,7 @@
         "attributes": {
           "CanBeRegulated": true,
           "Definition": "Regularly reset the profile used to generate recommendations for a user.",
-          "Description": "{\"time\":1698268763819,\"blocks\":[{\"id\":\"frQ9wQrjn-\",\"type\":\"paragraph\",\"data\":{\"text\":\"Recommendation systems (and ranking algorithms within subscription aggregation systems) have an unfortunate quirk - they can suffer from their own success, and become too good at guessing what the user will find engaging. In this optimization cul-de-sac, users are left stuck in a rut and highly siloed from other users and other people. Platforms risk the user disengaging broadly from the ecosystem, and users risk hardening their preferences and losing their appreciation for novelty and challenge.\"}},{\"id\":\"gAR_poHltG\",\"type\":\"paragraph\",\"data\":{\"text\":\"One way to counteract this would be to have an option constantly available to users to reset the data that platforms use to recommend them information (but ideally, not lose other pieces of their profile like personal connections, their own posts, etc). This kind of recommendation reset would offer the user the opportunity to explicitly decide to reset their relationship with the platform's recommendation system. That desire could be motivated by a wide variety of self-perceptions on a user's part - like feeling addicted to it, bored by it, or the not feeling like the recommendations actually matched their preferences.\"}},{\"id\":\"vx7FUCnqGO\",\"type\":\"paragraph\",\"data\":{\"text\":\"In addition to putting more control into the user's hands, this kind of regulation would go a long way to address privacy concerns - the likes you made in your teens shouldn't be a part of your recommendation profile in your thirties.\"}},{\"id\":\"kBiOri9Tr7\",\"type\":\"paragraph\",\"data\":{\"text\":\"Unlike many of the interventions on this site, which only really work as voluntary platform driven changes, this flavor of intervention is a perfect candidate for regulation, which could be framed in a couple of different ways:\"}},{\"id\":\"eW4rncbjtb\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"Platforms could be required to offer this option to users, maybe including a requirement for a scheduled/periodic reset.\",\"Platforms could be required to ask users if they're interested in this option from time to time.\",\"Platforms could be required to automatically perform this kind of reset once every year or two.\"]}}],\"version\":\"2.23.2\"}",
+          "Description": "{\"time\":1699804762620,\"blocks\":[{\"id\":\"frQ9wQrjn-\",\"type\":\"paragraph\",\"data\":{\"text\":\"Recommendation systems (and ranking algorithms within subscription aggregation systems) have an unfortunate quirk - they can suffer from their own success, and become too good at guessing what the user will find engaging. In this optimization cul-de-sac, users are left stuck in a rut and highly siloed from other users and other people. Platforms risk the user disengaging broadly from the ecosystem, and users risk hardening their preferences and losing their appreciation for novelty and challenge.\"}},{\"id\":\"gAR_poHltG\",\"type\":\"paragraph\",\"data\":{\"text\":\"One way to counteract this would be to have an option constantly available to users to reset the data that platforms use to recommend them information (but ideally, not lose other pieces of their profile like personal connections, their own posts, etc). This kind of recommendation reset would offer the user the opportunity to explicitly decide to reset their relationship with the platform's recommendation system. That desire could be motivated by a wide variety of self-perceptions on a user's part - like feeling addicted to it, bored by it, or not feeling like the recommendations actually match their preferences.\"}},{\"id\":\"vx7FUCnqGO\",\"type\":\"paragraph\",\"data\":{\"text\":\"In addition to putting more control into the user's hands, this kind of regulation would go a long way to address privacy concerns - the likes you made in your teens shouldn't be a part of your recommendation profile in your thirties.\"}},{\"id\":\"kBiOri9Tr7\",\"type\":\"paragraph\",\"data\":{\"text\":\"Unlike many of the interventions on this site, which only really work as voluntary platform driven changes, this flavor of intervention is a perfect candidate for regulation, which could be framed in a couple of different ways:\"}},{\"id\":\"eW4rncbjtb\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"Platforms could be required to offer this option to users, maybe including a requirement for a scheduled/periodic reset.\",\"Platforms could be required to ask users if they're interested in this option from time to time.\",\"Platforms could be required to automatically perform this kind of reset once every year or two.\"]}}],\"version\":\"2.23.2\"}",
           "EaseOfImplementation": "Easy",
           "GenerallyAdvisable": true,
           "Reversible": true,
@@ -21652,7 +21652,7 @@
         "attributes": {
           "CanBeRegulated": false,
           "Definition": "Require users to read the primary content before they leave comments.",
-          "Description": "{\"time\":1698738136996,\"blocks\":[{\"id\":\"SM2wiAzgRB\",\"type\":\"paragraph\",\"data\":{\"text\":\"Comments often reflect the perspective and opinions of people that have not engaged with the content deeply. Instead, comment Sections often serve as a performative space where group identity can be expressed and constructed and interpersonal connection can be affirmed and displayed. While that might suit the needs of platforms&nbsp;that are built for&nbsp; this kind of identity building, other platforms that wish to prioritize space for conversation on the merits of content might need a different approach.\"}},{\"id\":\"nePsh6cux-\",\"type\":\"paragraph\",\"data\":{\"text\":\"A platform could gate the ability to post a comment based on the passage of time, as a way to estimate whether a user has actually read the content.  For example, on a video this could be the duration of the video, or on a text post it could be scroll depth or time off site. To implement this on an existing site might be too large of a behavioral change to ask users to make, but new sites ought consider this form of gatekeeping when they endeavor to prioritize space for informed discussion.\"}}],\"version\":\"2.23.2\"}",
+          "Description": "{\"time\":1699804894827,\"blocks\":[{\"id\":\"SM2wiAzgRB\",\"type\":\"paragraph\",\"data\":{\"text\":\"Comments often reflect the perspective and opinions of people that have not engaged with the content deeply. Instead, comment sections often serve as a performative space where group identity can be expressed and constructed and interpersonal connection can be affirmed and displayed. While that might suit the needs of platforms&nbsp;that are built for&nbsp; this kind of identity building, other platforms that wish to prioritize space for conversation on the merits of content might need a different approach.\"}},{\"id\":\"nePsh6cux-\",\"type\":\"paragraph\",\"data\":{\"text\":\"A platform could gate the ability to post a comment based on the passage of time, as a way to estimate whether a user has actually read the content.  For example, on a video this could be the duration of the video, or on a text post it could be scroll depth or time off site. To implement this on an existing site might be too large of a behavioral change to ask users to make, but new sites ought consider this form of gatekeeping when they endeavor to prioritize space for informed discussion.\"}}],\"version\":\"2.23.2\"}",
           "EaseOfImplementation": "Straightforward",
           "GenerallyAdvisable": true,
           "Reversible": true,
@@ -22790,7 +22790,7 @@
                     "data": {
                       "attributes": {
                         "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                        "Title": "Resource Misuse",
+                        "Title": "Resource Abuse",
                         "readableId": "resource-abuse"
                       },
                       "id": 19
@@ -31119,7 +31119,7 @@
               {
                 "attributes": {
                   "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                  "Title": "Resource Misuse",
+                  "Title": "Resource Abuse",
                   "readableId": "resource-abuse"
                 },
                 "id": 19
