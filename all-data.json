@@ -4452,205 +4452,6 @@
   "harms": {
     "data": [
       {
-        "id": 19,
-        "attributes": {
-          "readableId": "resource-abuse",
-          "Title": "Resource Abuse",
-          "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-          "Description": "{\"time\":1698302520545,\"blocks\":[{\"id\":\"aPUrZm4-IJ\",\"type\":\"paragraph\",\"data\":{\"text\":\"Resource abuse is the pattern of malicious actors leveraging the free offerings of products to obtain access to the generalized computing resources (compute, storage, and bandwidth) that are used to power the free service, and use it for their own purposes. This is best illustrated through some examples:\"}},{\"id\":\"D7pALGSsec\",\"type\":\"header\",\"data\":{\"text\":\"Video Hosting\",\"level\":2}},{\"id\":\"_SvXvBZl3e\",\"type\":\"paragraph\",\"data\":{\"text\":\"The internet is full of illegal video hosting sites that are expressly designed and operated to illegally host copyrighted works. These sites require large volumes of storage and bandwidth to operate, but both resources are prohibitively expensive for operations like these to obtain through legal mechanisms, and more importantly, could serve as a vulnerability. If law enforcement knew the location of the physical servers these operations were run off of, it would provide an easier basis to take them down, and would provide ample opportunities to identify and prosecute the operators of these sites.\"}},{\"id\":\"BYRVjI5uyn\",\"type\":\"paragraph\",\"data\":{\"text\":\"So rather than buying servers that they host these videos on, or purchasing these services from a cloud service provider, illegal streaming sites will try to find loopholes in the operation of platforms that allow them to use the storage and bandwidth of a major cloud service for free.&nbsp;\"}},{\"id\":\"Q_kKh5i74P\",\"type\":\"paragraph\",\"data\":{\"text\":\"A simple approach to this is to upload the videos to a site like DropBox, federated among a huge number of fake accounts, and have each video replicated to multiple accounts, so that if one gets taken down, another can be used. This approach enables the video streaming site to have their website just embed links to dropbox, switching between sources as necessary, and enables them to run a web-scale video hosting platform at a tiny fraction of the true cost that running such an operation costs.\"}},{\"id\":\"70KD4AKTP5\",\"type\":\"paragraph\",\"data\":{\"text\":\"Though this example is simple, as a veteran of this field, I can assure you that the lengths these folks will go to to get free storage and bandwidth is<i>&nbsp;unbounded. </i>When I worked on problems in this space I was amazed at the tenacity, inventiveness, and audaciousness of the abusers, who often would build complex systems that demonstrated they understood our systems as well as we (the company) did.\"}},{\"id\":\"xdTSSmpc0k\",\"type\":\"header\",\"data\":{\"text\":\"Chia Mining\",\"level\":2}},{\"id\":\"ksI7dPhdD1\",\"type\":\"paragraph\",\"data\":{\"text\":\"Another common form of resource abuse is Chia Mining. Chia is a cryptocurrency that uses \\\"proof of storage\\\" rather than proof of work or proof of stake as its mechanism for generating value. This essentially means that the more storage that a user has read-write access to, the more money they can make. This sets up a challenge for any service that offers any amount of truly unpaid storage - if an attacker can find a way to create accounts automatically (and believe me they do), then they can scale up a chia mining effort to make an unbounded amount of the cryptocurrency.\"}},{\"id\":\"b_RHfXh6DK\",\"type\":\"header\",\"data\":{\"text\":\"Cryptocurrency Mining\",\"level\":2}},{\"id\":\"rrSNDeK3fz\",\"type\":\"paragraph\",\"data\":{\"text\":\"While Chia is the easiest of the cryptocurrency mining efforts to understand, crypto-mining operations are a primary culprit of resource abuses across the internet, and any platform that allows users to specify some mechanism for doing any kind of computation can be abused to mine cryptocurrency. There are stories about people finding ways to get online spreadsheets, online code-compilation engines, and other forms of publicly available (or account-based freemium) computational infrastructure to mine crypto.\"}},{\"id\":\"lwyInwtCKA\",\"type\":\"header\",\"data\":{\"text\":\"The Takeaway\",\"level\":2}},{\"id\":\"4MLlT0jXL2\",\"type\":\"paragraph\",\"data\":{\"text\":\"Giving anything of value away on the internet is likely to attract the directed, persistent, focus of folks who wish to exploit the free offering. Computational power, storage capacity, and network bandwidth are all semi-fungible resources that must be thought of in in this light.\"}},{\"id\":\"SZvyAifWbg\",\"type\":\"paragraph\",\"data\":{\"text\":\"The commonality between these forms of abuse is that the abusers are essentially creating small cloud service providers, and having the company that offers the free service foot the bill. Identifying reasonable Limits, Account Creation Protections, and other interventions can go far to protect a platform from falling victim to this flavor of abuse.\"}}],\"version\":\"2.23.2\"}",
-          "DiscernableViaClassification": false,
-          "HarmedPartyCanIntervene": false,
-          "IllegalInLiberalDemocracies": "AlmostNever",
-          "TypicallyTOSViolating": true,
-          "tspa_abuse_type": {
-            "data": {
-              "id": 7,
-              "attributes": {
-                "readableId": "community-specific-rules-format",
-                "Title": "Community-Specific Rules: Format",
-                "Definition": "Rules on the form of content, often for clarity, organization, or technical limitations."
-              }
-            }
-          },
-          "harm_actors": {
-            "data": [
-              {
-                "id": 2,
-                "attributes": {
-                  "readableId": "informal-groups",
-                  "Title": "Informal Groups",
-                  "Definition": "Networks of contingent relationship, typically private and without persistent structure."
-                }
-              }
-            ]
-          },
-          "harm_motivations": {
-            "data": [
-              {
-                "id": 1,
-                "attributes": {
-                  "readableId": "financial",
-                  "Title": "Financial",
-                  "Definition": "Driven by the pursuit of profit, through legal or illegal means."
-                }
-              }
-            ]
-          },
-          "relationship_feature_harms": {
-            "data": [
-              {
-                "id": 40,
-                "attributes": {
-                  "radio_contribution_to_harm": {
-                    "data": {
-                      "id": 8,
-                      "attributes": {
-                        "Title": "Scales, Empowering through Volume"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": null,
-                  "feature": {
-                    "data": {
-                      "id": 6,
-                      "attributes": {
-                        "readableId": "file-sharing",
-                        "Title": "File/Link Sharing",
-                        "Definition": "The capacity of one user to publish or share files or links with other users."
-                      }
-                    }
-                  }
-                }
-              }
-            ]
-          },
-          "relationship_harm_interventions": {
-            "data": [
-              {
-                "id": 1,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 10,
-                      "attributes": {
-                        "Title": "Likely to be Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": null,
-                  "intervention": {
-                    "data": {
-                      "id": 36,
-                      "attributes": {
-                        "readableId": "no-large-files",
-                        "Title": "Don't support large files",
-                        "Definition": "Large, high quality, high volume uploads are both risky and expensive."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 20,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 11,
-                      "attributes": {
-                        "Title": "Likely to be very Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": null,
-                  "intervention": {
-                    "data": {
-                      "id": 34,
-                      "attributes": {
-                        "readableId": "limit-account-volume",
-                        "Title": "Limit account volume",
-                        "Definition": "Reducing the volume of accounts a person can create restricts their capacity to cause harm at scale."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 21,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 9,
-                      "attributes": {
-                        "Title": "Worth Trying, Potentially Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": null,
-                  "intervention": {
-                    "data": {
-                      "id": 35,
-                      "attributes": {
-                        "readableId": "right-size-visibility",
-                        "Title": "Right-size content visibility",
-                        "Definition": "Place limits on the amount of harm content can cause on a platform by restricting its reach."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 22,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 11,
-                      "attributes": {
-                        "Title": "Likely to be very Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": null,
-                  "intervention": {
-                    "data": {
-                      "id": 37,
-                      "attributes": {
-                        "readableId": "modulate-inputs",
-                        "Title": "Subtley Modulate Uploads",
-                        "Definition": "Features that provide exact replicas of the data in are ripe for abuse."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 175,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 11,
-                      "attributes": {
-                        "Title": "Likely to be very Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": "Without account creation requirements, any resources exposed to the internet can be abused.",
-                  "intervention": {
-                    "data": {
-                      "id": 68,
-                      "attributes": {
-                        "readableId": "anonymous-limits",
-                        "Title": "Anonymous Limitations",
-                        "Definition": "Require users to create an account before they can use features that create data or interact with others."
-                      }
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        }
-      },
-      {
         "id": 4,
         "attributes": {
           "readableId": "harassment",
@@ -6196,6 +5997,133 @@
         }
       },
       {
+        "id": 38,
+        "attributes": {
+          "readableId": "money-laundering",
+          "Title": "Money Laundering",
+          "Definition": "Disguising the origins of illegally obtained funds to make them appear legitimate.",
+          "Description": "{\"time\":1698388585250,\"blocks\":[{\"id\":\"LZzjQ4wbYL\",\"type\":\"paragraph\",\"data\":{\"text\":\"Online platforms that support financial transactions can inadvertently facilitate money laundering - the use of convolutional financial transactions to disguise the origins of illegally obtained funds. Each of these elements of product design makes this threat more acute:\"}},{\"id\":\"yDxnDJtjy-\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Capacity for anyone in the world to access or transfer funds. (No Geographic Boundaries)\",\"No (or minimal) identity verification\",\"Use of digital currencies like cryptocurrency that don't have the same oversight from regulators\",\"Lax logging + recordkeeping\",\"No special handling for large sums of money, or frequent transactions\"]}},{\"id\":\"aZ7nlmjied\",\"type\":\"paragraph\",\"data\":{\"text\":\"The possibility of a platform being used for money laundering can be dramatically reduced by features that tie digital transactions to real-world people, place limits on the size of transactions, and maintain diligent records.\"}}],\"version\":\"2.23.2\"}",
+          "DiscernableViaClassification": false,
+          "HarmedPartyCanIntervene": false,
+          "IllegalInLiberalDemocracies": "SomeJurisdictions",
+          "TypicallyTOSViolating": true,
+          "tspa_abuse_type": {
+            "data": {
+              "id": 25,
+              "attributes": {
+                "readableId": "regulated-services",
+                "Title": "Regulated Goods and Services: Regulated Services",
+                "Definition": "Sale / trade of services which are generally regulated or banned."
+              }
+            }
+          },
+          "harm_actors": {
+            "data": [
+              {
+                "id": 3,
+                "attributes": {
+                  "readableId": "formal-groups",
+                  "Title": "Formal Groups",
+                  "Definition": "Explicitly defined cohorts of motivationally aligned people."
+                }
+              }
+            ]
+          },
+          "harm_motivations": {
+            "data": [
+              {
+                "id": 1,
+                "attributes": {
+                  "readableId": "financial",
+                  "Title": "Financial",
+                  "Definition": "Driven by the pursuit of profit, through legal or illegal means."
+                }
+              }
+            ]
+          },
+          "relationship_feature_harms": {
+            "data": [
+              {
+                "id": 14,
+                "attributes": {
+                  "radio_contribution_to_harm": {
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Enables, Increases Potential Reach"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": null,
+                  "feature": {
+                    "data": {
+                      "id": 2,
+                      "attributes": {
+                        "readableId": "payments",
+                        "Title": "Payments",
+                        "Definition": "The capacity for users to initiate outgoing payments or receive incoming ones."
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "relationship_harm_interventions": {
+            "data": [
+              {
+                "id": 153,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": null,
+                  "intervention": {
+                    "data": {
+                      "id": 27,
+                      "attributes": {
+                        "readableId": "identity-verification",
+                        "Title": "Identity Verification",
+                        "Definition": "Require users to register for an application with a state issued identity document."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 154,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": null,
+                  "intervention": {
+                    "data": {
+                      "id": 66,
+                      "attributes": {
+                        "readableId": "save-extensive-metadata",
+                        "Title": "Save Extensive Metadata",
+                        "Definition": "Recording extensive metadata about sensitive activity can reduce criminal appeal."
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": 47,
         "attributes": {
           "readableId": "incentivizing-dangerous-behavior",
@@ -7484,133 +7412,6 @@
                         "readableId": "ban-proactive-content-recommendation",
                         "Title": "Ban Proactive Content Recommendation",
                         "Definition": "Prohibit infinite feeds for children, and provide a universal opt-out for adults."
-                      }
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": 38,
-        "attributes": {
-          "readableId": "money-laundering",
-          "Title": "Money Laundering",
-          "Definition": "Disguising the origins of illegally obtained funds to make them appear legitimate.",
-          "Description": "{\"time\":1698388585250,\"blocks\":[{\"id\":\"LZzjQ4wbYL\",\"type\":\"paragraph\",\"data\":{\"text\":\"Online platforms that support financial transactions can inadvertently facilitate money laundering - the use of convolutional financial transactions to disguise the origins of illegally obtained funds. Each of these elements of product design makes this threat more acute:\"}},{\"id\":\"yDxnDJtjy-\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Capacity for anyone in the world to access or transfer funds. (No Geographic Boundaries)\",\"No (or minimal) identity verification\",\"Use of digital currencies like cryptocurrency that don't have the same oversight from regulators\",\"Lax logging + recordkeeping\",\"No special handling for large sums of money, or frequent transactions\"]}},{\"id\":\"aZ7nlmjied\",\"type\":\"paragraph\",\"data\":{\"text\":\"The possibility of a platform being used for money laundering can be dramatically reduced by features that tie digital transactions to real-world people, place limits on the size of transactions, and maintain diligent records.\"}}],\"version\":\"2.23.2\"}",
-          "DiscernableViaClassification": false,
-          "HarmedPartyCanIntervene": false,
-          "IllegalInLiberalDemocracies": "SomeJurisdictions",
-          "TypicallyTOSViolating": true,
-          "tspa_abuse_type": {
-            "data": {
-              "id": 25,
-              "attributes": {
-                "readableId": "regulated-services",
-                "Title": "Regulated Goods and Services: Regulated Services",
-                "Definition": "Sale / trade of services which are generally regulated or banned."
-              }
-            }
-          },
-          "harm_actors": {
-            "data": [
-              {
-                "id": 3,
-                "attributes": {
-                  "readableId": "formal-groups",
-                  "Title": "Formal Groups",
-                  "Definition": "Explicitly defined cohorts of motivationally aligned people."
-                }
-              }
-            ]
-          },
-          "harm_motivations": {
-            "data": [
-              {
-                "id": 1,
-                "attributes": {
-                  "readableId": "financial",
-                  "Title": "Financial",
-                  "Definition": "Driven by the pursuit of profit, through legal or illegal means."
-                }
-              }
-            ]
-          },
-          "relationship_feature_harms": {
-            "data": [
-              {
-                "id": 14,
-                "attributes": {
-                  "radio_contribution_to_harm": {
-                    "data": {
-                      "id": 7,
-                      "attributes": {
-                        "Title": "Enables, Increases Potential Reach"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": null,
-                  "feature": {
-                    "data": {
-                      "id": 2,
-                      "attributes": {
-                        "readableId": "payments",
-                        "Title": "Payments",
-                        "Definition": "The capacity for users to initiate outgoing payments or receive incoming ones."
-                      }
-                    }
-                  }
-                }
-              }
-            ]
-          },
-          "relationship_harm_interventions": {
-            "data": [
-              {
-                "id": 153,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 11,
-                      "attributes": {
-                        "Title": "Likely to be very Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": null,
-                  "intervention": {
-                    "data": {
-                      "id": 27,
-                      "attributes": {
-                        "readableId": "identity-verification",
-                        "Title": "Identity Verification",
-                        "Definition": "Require users to register for an application with a state issued identity document."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 154,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 9,
-                      "attributes": {
-                        "Title": "Worth Trying, Potentially Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": null,
-                  "intervention": {
-                    "data": {
-                      "id": 66,
-                      "attributes": {
-                        "readableId": "save-extensive-metadata",
-                        "Title": "Save Extensive Metadata",
-                        "Definition": "Recording extensive metadata about sensitive activity can reduce criminal appeal."
                       }
                     }
                   }
@@ -13643,6 +13444,205 @@
             ]
           }
         }
+      },
+      {
+        "id": 19,
+        "attributes": {
+          "readableId": "resource-abuse",
+          "Title": "Resource Abuse",
+          "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
+          "Description": "{\"time\":1698302520545,\"blocks\":[{\"id\":\"aPUrZm4-IJ\",\"type\":\"paragraph\",\"data\":{\"text\":\"Resource abuse is the pattern of malicious actors leveraging the free offerings of products to obtain access to the generalized computing resources (compute, storage, and bandwidth) that are used to power the free service, and use it for their own purposes. This is best illustrated through some examples:\"}},{\"id\":\"D7pALGSsec\",\"type\":\"header\",\"data\":{\"text\":\"Video Hosting\",\"level\":2}},{\"id\":\"_SvXvBZl3e\",\"type\":\"paragraph\",\"data\":{\"text\":\"The internet is full of illegal video hosting sites that are expressly designed and operated to illegally host copyrighted works. These sites require large volumes of storage and bandwidth to operate, but both resources are prohibitively expensive for operations like these to obtain through legal mechanisms, and more importantly, could serve as a vulnerability. If law enforcement knew the location of the physical servers these operations were run off of, it would provide an easier basis to take them down, and would provide ample opportunities to identify and prosecute the operators of these sites.\"}},{\"id\":\"BYRVjI5uyn\",\"type\":\"paragraph\",\"data\":{\"text\":\"So rather than buying servers that they host these videos on, or purchasing these services from a cloud service provider, illegal streaming sites will try to find loopholes in the operation of platforms that allow them to use the storage and bandwidth of a major cloud service for free.&nbsp;\"}},{\"id\":\"Q_kKh5i74P\",\"type\":\"paragraph\",\"data\":{\"text\":\"A simple approach to this is to upload the videos to a site like DropBox, federated among a huge number of fake accounts, and have each video replicated to multiple accounts, so that if one gets taken down, another can be used. This approach enables the video streaming site to have their website just embed links to dropbox, switching between sources as necessary, and enables them to run a web-scale video hosting platform at a tiny fraction of the true cost that running such an operation costs.\"}},{\"id\":\"70KD4AKTP5\",\"type\":\"paragraph\",\"data\":{\"text\":\"Though this example is simple, as a veteran of this field, I can assure you that the lengths these folks will go to to get free storage and bandwidth is<i>&nbsp;unbounded. </i>When I worked on problems in this space I was amazed at the tenacity, inventiveness, and audaciousness of the abusers, who often would build complex systems that demonstrated they understood our systems as well as we (the company) did.\"}},{\"id\":\"xdTSSmpc0k\",\"type\":\"header\",\"data\":{\"text\":\"Chia Mining\",\"level\":2}},{\"id\":\"ksI7dPhdD1\",\"type\":\"paragraph\",\"data\":{\"text\":\"Another common form of resource abuse is Chia Mining. Chia is a cryptocurrency that uses \\\"proof of storage\\\" rather than proof of work or proof of stake as its mechanism for generating value. This essentially means that the more storage that a user has read-write access to, the more money they can make. This sets up a challenge for any service that offers any amount of truly unpaid storage - if an attacker can find a way to create accounts automatically (and believe me they do), then they can scale up a chia mining effort to make an unbounded amount of the cryptocurrency.\"}},{\"id\":\"b_RHfXh6DK\",\"type\":\"header\",\"data\":{\"text\":\"Cryptocurrency Mining\",\"level\":2}},{\"id\":\"rrSNDeK3fz\",\"type\":\"paragraph\",\"data\":{\"text\":\"While Chia is the easiest of the cryptocurrency mining efforts to understand, crypto-mining operations are a primary culprit of resource abuses across the internet, and any platform that allows users to specify some mechanism for doing any kind of computation can be abused to mine cryptocurrency. There are stories about people finding ways to get online spreadsheets, online code-compilation engines, and other forms of publicly available (or account-based freemium) computational infrastructure to mine crypto.\"}},{\"id\":\"lwyInwtCKA\",\"type\":\"header\",\"data\":{\"text\":\"The Takeaway\",\"level\":2}},{\"id\":\"4MLlT0jXL2\",\"type\":\"paragraph\",\"data\":{\"text\":\"Giving anything of value away on the internet is likely to attract the directed, persistent, focus of folks who wish to exploit the free offering. Computational power, storage capacity, and network bandwidth are all semi-fungible resources that must be thought of in in this light.\"}},{\"id\":\"SZvyAifWbg\",\"type\":\"paragraph\",\"data\":{\"text\":\"The commonality between these forms of abuse is that the abusers are essentially creating small cloud service providers, and having the company that offers the free service foot the bill. Identifying reasonable Limits, Account Creation Protections, and other interventions can go far to protect a platform from falling victim to this flavor of abuse.\"}}],\"version\":\"2.23.2\"}",
+          "DiscernableViaClassification": false,
+          "HarmedPartyCanIntervene": false,
+          "IllegalInLiberalDemocracies": "AlmostNever",
+          "TypicallyTOSViolating": true,
+          "tspa_abuse_type": {
+            "data": {
+              "id": 7,
+              "attributes": {
+                "readableId": "community-specific-rules-format",
+                "Title": "Community-Specific Rules: Format",
+                "Definition": "Rules on the form of content, often for clarity, organization, or technical limitations."
+              }
+            }
+          },
+          "harm_actors": {
+            "data": [
+              {
+                "id": 2,
+                "attributes": {
+                  "readableId": "informal-groups",
+                  "Title": "Informal Groups",
+                  "Definition": "Networks of contingent relationship, typically private and without persistent structure."
+                }
+              }
+            ]
+          },
+          "harm_motivations": {
+            "data": [
+              {
+                "id": 1,
+                "attributes": {
+                  "readableId": "financial",
+                  "Title": "Financial",
+                  "Definition": "Driven by the pursuit of profit, through legal or illegal means."
+                }
+              }
+            ]
+          },
+          "relationship_feature_harms": {
+            "data": [
+              {
+                "id": 40,
+                "attributes": {
+                  "radio_contribution_to_harm": {
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Scales, Empowering through Volume"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": null,
+                  "feature": {
+                    "data": {
+                      "id": 6,
+                      "attributes": {
+                        "readableId": "file-sharing",
+                        "Title": "File/Link Sharing",
+                        "Definition": "The capacity of one user to publish or share files or links with other users."
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "relationship_harm_interventions": {
+            "data": [
+              {
+                "id": 1,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": null,
+                  "intervention": {
+                    "data": {
+                      "id": 36,
+                      "attributes": {
+                        "readableId": "no-large-files",
+                        "Title": "Don't support large files",
+                        "Definition": "Large, high quality, high volume uploads are both risky and expensive."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 20,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": null,
+                  "intervention": {
+                    "data": {
+                      "id": 34,
+                      "attributes": {
+                        "readableId": "limit-account-volume",
+                        "Title": "Limit account volume",
+                        "Definition": "Reducing the volume of accounts a person can create restricts their capacity to cause harm at scale."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 21,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": null,
+                  "intervention": {
+                    "data": {
+                      "id": 35,
+                      "attributes": {
+                        "readableId": "right-size-visibility",
+                        "Title": "Right-size content visibility",
+                        "Definition": "Place limits on the amount of harm content can cause on a platform by restricting its reach."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 22,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": null,
+                  "intervention": {
+                    "data": {
+                      "id": 37,
+                      "attributes": {
+                        "readableId": "modulate-inputs",
+                        "Title": "Subtley Modulate Uploads",
+                        "Definition": "Features that provide exact replicas of the data in are ripe for abuse."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 175,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": "Without account creation requirements, any resources exposed to the internet can be abused.",
+                  "intervention": {
+                    "data": {
+                      "id": 68,
+                      "attributes": {
+                        "readableId": "anonymous-limits",
+                        "Title": "Anonymous Limitations",
+                        "Definition": "Require users to create an account before they can use features that create data or interact with others."
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
       }
     ]
   },
@@ -14165,6 +14165,51 @@
         }
       },
       {
+        "id": 14,
+        "attributes": {
+          "readableId": "history",
+          "Title": "History",
+          "Definition": "Utilizing descriptive data to help users understand content in context.",
+          "Description": "{\"time\":1699221231758,\"blocks\":[{\"id\":\"N4PQj85Qz5\",\"type\":\"paragraph\",\"data\":{\"text\":\"Some forms of abuse require platform-level views and metrics to identify. Platforms have access to many metrics on individual pieces of content that regular users have no insight into, as well as evaluations of the standard ranges for those metrics across the full platform. In most cases, platforms seek to keep this information to themselves - disclosing it could risk shedding too much light on platform operations and mechanisms.&nbsp;However, in some cases, platforms should consider sharing these metrics to help contextualize information on the platform.\"}},{\"id\":\"61DomoxAhX\",\"type\":\"paragraph\",\"data\":{\"text\":\"Interventions that follow this pattern can be broadly described as \\\"History\\\" interventions. They help users make sense of content by giving them better insight into the user behind the content, and the pattern that the content fits into.\"}},{\"id\":\"og5cXaAKTD\",\"type\":\"paragraph\",\"data\":{\"text\":\"Note: well designed interventions in this space will require significant privacy and security mitigations, and will need to think about how to balance the objectives of user control over their representation + identity + privacy, with objectives of transparency and accuracy.\"}}],\"version\":\"2.23.2\"}",
+          "interventions": {
+            "data": [
+              {
+                "id": 61,
+                "attributes": {
+                  "readableId": "provenance",
+                  "Title": "Media Provenance",
+                  "Definition": "Record and display media's chain of custody and original source."
+                }
+              },
+              {
+                "id": 63,
+                "attributes": {
+                  "readableId": "crowdsource-metadata",
+                  "Title": "Crowdsourced Metadata",
+                  "Definition": "Allow users limited access to content metadata, and enable them to highlight this on the posts of other users."
+                }
+              },
+              {
+                "id": 66,
+                "attributes": {
+                  "readableId": "save-extensive-metadata",
+                  "Title": "Save Extensive Metadata",
+                  "Definition": "Recording extensive metadata about sensitive activity can reduce criminal appeal."
+                }
+              },
+              {
+                "id": 50,
+                "attributes": {
+                  "readableId": "identical-content",
+                  "Title": "Label/Detect Identical Content ",
+                  "Definition": "For some types of harm, the same data a strong signal of something being off."
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": 10,
         "attributes": {
           "readableId": "humans-only",
@@ -14370,51 +14415,6 @@
                   "readableId": "read-before-reshare",
                   "Title": "Read Before Re-share",
                   "Definition": "Prevent gutteral reshares by adding a waiting period estimated by the length of content."
-                }
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": 14,
-        "attributes": {
-          "readableId": "history",
-          "Title": "History",
-          "Definition": "Utilizing descriptive data to help users understand content in context.",
-          "Description": "{\"time\":1699221231758,\"blocks\":[{\"id\":\"N4PQj85Qz5\",\"type\":\"paragraph\",\"data\":{\"text\":\"Some forms of abuse require platform-level views and metrics to identify. Platforms have access to many metrics on individual pieces of content that regular users have no insight into, as well as evaluations of the standard ranges for those metrics across the full platform. In most cases, platforms seek to keep this information to themselves - disclosing it could risk shedding too much light on platform operations and mechanisms.&nbsp;However, in some cases, platforms should consider sharing these metrics to help contextualize information on the platform.\"}},{\"id\":\"61DomoxAhX\",\"type\":\"paragraph\",\"data\":{\"text\":\"Interventions that follow this pattern can be broadly described as \\\"History\\\" interventions. They help users make sense of content by giving them better insight into the user behind the content, and the pattern that the content fits into.\"}},{\"id\":\"og5cXaAKTD\",\"type\":\"paragraph\",\"data\":{\"text\":\"Note: well designed interventions in this space will require significant privacy and security mitigations, and will need to think about how to balance the objectives of user control over their representation + identity + privacy, with objectives of transparency and accuracy.\"}}],\"version\":\"2.23.2\"}",
-          "interventions": {
-            "data": [
-              {
-                "id": 61,
-                "attributes": {
-                  "readableId": "provenance",
-                  "Title": "Media Provenance",
-                  "Definition": "Record and display media's chain of custody and original source."
-                }
-              },
-              {
-                "id": 63,
-                "attributes": {
-                  "readableId": "crowdsource-metadata",
-                  "Title": "Crowdsourced Metadata",
-                  "Definition": "Allow users limited access to content metadata, and enable them to highlight this on the posts of other users."
-                }
-              },
-              {
-                "id": 66,
-                "attributes": {
-                  "readableId": "save-extensive-metadata",
-                  "Title": "Save Extensive Metadata",
-                  "Definition": "Recording extensive metadata about sensitive activity can reduce criminal appeal."
-                }
-              },
-              {
-                "id": 50,
-                "attributes": {
-                  "readableId": "identical-content",
-                  "Title": "Label/Detect Identical Content ",
-                  "Definition": "For some types of harm, the same data a strong signal of something being off."
                 }
               }
             ]
@@ -17393,6 +17393,309 @@
         }
       },
       {
+        "id": 51,
+        "attributes": {
+          "readableId": "reporting",
+          "Title": "Reporting Mechanisms",
+          "Definition": "Allow users to flag content or behavior that they find to be abusive.",
+          "Description": "{\"time\":1698220055961,\"blocks\":[{\"id\":\"y2S_6kfBR8\",\"type\":\"paragraph\",\"data\":{\"text\":\"Reporting is the historical bedrock of counter-abuse protections on platforms. A Platform's users will almost always know something is wrong before the platform itself has the capacity or time to notice. The deputization of users as reporters in the content moderation process simultaneously empowers users to see themselves as co-creators of the safety of the online spaces that they enhabit, while helping integrity teams optimize how they direct their time and attention toward the issues that users are feeling most acutely.\"}},{\"id\":\"ogRsbtdbJo\",\"type\":\"paragraph\",\"data\":{\"text\":\"However useful reporting is at generating visibility, it is part of a solution, not a full one. Firstly, when backed by human review, the costs of report evaluation, response, and triage grow in proportion with the volume of visible abuse on the platform, so when platforms are inundated with novel forms or strategies of abuse, it is common for reporting functions to become overrun. Moreover, though reporting is useful at getting visibility into acute and legible forms of abuse, it often fails to shine a light on issues that aren't obvious to the user that is harmed by them, like malware, which is hard for the user to detect, or hate speech, which often occurs out of view from the parties harmed by it. Additionally, reporting systems have to be linked to careful review prior to action being taken on content, otherwise they can be trivially used for capricious or ideological attempts to take down the content of opponents. Finally, reporting is always a slow and reactive process, and while it can provide a sense of solvency and action for the reporting user, in reality it doesn't prevent the majority of harm that the content causes.\"}},{\"id\":\"R3BR7OQuV4\",\"type\":\"paragraph\",\"data\":{\"text\":\"Because of their ubiquity, many sets of&nbsp;<a href=\\\"https://pen.org/report/shouting-into-the-void/\\\">industry best practices have emerged</a>&nbsp;that give excellent advice for how to build and reform reporting practices. Though only part of a broader trust and safety strategy, when reporting systems are built well, they have the capacity to encourage users to feel empowered, safe, and heard, while giving platforms clear visibility into what their users are currently being frustrated by.\"}}],\"version\":\"2.23.2\"}",
+          "CanBeRegulated": true,
+          "EaseOfImplementation": "Hard",
+          "GenerallyAdvisable": true,
+          "Reversible": true,
+          "relationship_feature_interventions": {
+            "data": [
+              {
+                "id": 57,
+                "attributes": {
+                  "RelationshipDescription": null,
+                  "ImplementationDifficulty": "Medium",
+                  "feature": {
+                    "data": {
+                      "id": 5,
+                      "attributes": {
+                        "readableId": "comments",
+                        "Title": "Comments",
+                        "Definition": "Expressions of response to either some primary content, or other comments."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 58,
+                "attributes": {
+                  "RelationshipDescription": null,
+                  "ImplementationDifficulty": "VeryHigh",
+                  "feature": {
+                    "data": {
+                      "id": 2,
+                      "attributes": {
+                        "readableId": "payments",
+                        "Title": "Payments",
+                        "Definition": "The capacity for users to initiate outgoing payments or receive incoming ones."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 60,
+                "attributes": {
+                  "RelationshipDescription": null,
+                  "ImplementationDifficulty": "Medium",
+                  "feature": {
+                    "data": {
+                      "id": 3,
+                      "attributes": {
+                        "readableId": "identity",
+                        "Title": "Identity",
+                        "Definition": "Individuals' ability to represent themselves in a digital space."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 64,
+                "attributes": {
+                  "RelationshipDescription": null,
+                  "ImplementationDifficulty": "Medium",
+                  "feature": {
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "readableId": "messaging",
+                        "Title": "Messaging",
+                        "Definition": "Enable users to exchange text in real time."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 65,
+                "attributes": {
+                  "RelationshipDescription": null,
+                  "ImplementationDifficulty": "Medium",
+                  "feature": {
+                    "data": {
+                      "id": 6,
+                      "attributes": {
+                        "readableId": "file-sharing",
+                        "Title": "File/Link Sharing",
+                        "Definition": "The capacity of one user to publish or share files or links with other users."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 67,
+                "attributes": {
+                  "RelationshipDescription": null,
+                  "ImplementationDifficulty": "Medium",
+                  "feature": {
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "readableId": "search",
+                        "Title": "Search",
+                        "Definition": "Locating and ranking content to be responsive to a user's query."
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "relationship_harm_interventions": {
+            "data": [
+              {
+                "id": 89,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": "Allowing users to report blackmail when it occurs gives a platform the ability to block the account of the blackmailer, preventing mass attacks.",
+                  "harm": {
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "readableId": "blackmail",
+                        "Title": "Blackmail",
+                        "Definition": "Using threats of disclosure to coerce a victim."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 99,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": "Because a small number of perpetrators constitute the majority of offenses:",
+                  "harm": {
+                    "data": {
+                      "id": 46,
+                      "attributes": {
+                        "readableId": "unwelcome-sexual-advances",
+                        "Title": "Unwelcome Sexual Advances",
+                        "Definition": "When a user initiates a sexual or romantic exchange with another outside of a reasonable context."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 100,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": null,
+                  "harm": {
+                    "data": {
+                      "id": 36,
+                      "attributes": {
+                        "readableId": "catfishing",
+                        "Title": "Catfishing",
+                        "Definition": "Intentionally deceiving others about who you are, typically on dating platforms."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 101,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": "Because there is a strong financial motivation for a reporter:",
+                  "harm": {
+                    "data": {
+                      "id": 18,
+                      "attributes": {
+                        "readableId": "copyright",
+                        "Title": "Copyright/IP Infringement",
+                        "Definition": "Unauthorized use, reproduction or distribution of works covered by intellectual property protections."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 102,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": "Because it provides users with a sense of solvency/control:",
+                  "harm": {
+                    "data": {
+                      "id": 4,
+                      "attributes": {
+                        "readableId": "harassment",
+                        "Title": "Harassment / Cyberbullying",
+                        "Definition": "Unwanted and repeated behavior that threatens, annoys, or intimidates a victim."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 103,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": "Because it helps victims feel heard and empowered:",
+                  "harm": {
+                    "data": {
+                      "id": 25,
+                      "attributes": {
+                        "readableId": "discrimination",
+                        "Title": "Discrimination",
+                        "Definition": "Targeting or excluding individuals in online spaces based on a protected or immutable characteristic."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 104,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": null,
+                  "harm": {
+                    "data": {
+                      "id": 5,
+                      "attributes": {
+                        "readableId": "scams",
+                        "Title": "Scams",
+                        "Definition": "Commercial offerings that intentionally deceive their participants."
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "intervention_categories": {
+            "data": [
+              {
+                "id": 3,
+                "attributes": {
+                  "readableId": "user-control",
+                  "Title": "User Control",
+                  "Definition": "Giving users capability controls over a circumscribed perimeter."
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": 15,
         "attributes": {
           "readableId": "user-defined-subscription-sorting",
@@ -18791,309 +19094,6 @@
                   "readableId": "limits",
                   "Title": "Limits",
                   "Definition": "Preventing anomalous behavior by setting boundaries that outline expected user behavior."
-                }
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": 51,
-        "attributes": {
-          "readableId": "reporting",
-          "Title": "Reporting Mechanisms",
-          "Definition": "Allow users to flag content or behavior that they find to be abusive.",
-          "Description": "{\"time\":1698220055961,\"blocks\":[{\"id\":\"y2S_6kfBR8\",\"type\":\"paragraph\",\"data\":{\"text\":\"Reporting is the historical bedrock of counter-abuse protections on platforms. A Platform's users will almost always know something is wrong before the platform itself has the capacity or time to notice. The deputization of users as reporters in the content moderation process simultaneously empowers users to see themselves as co-creators of the safety of the online spaces that they enhabit, while helping integrity teams optimize how they direct their time and attention toward the issues that users are feeling most acutely.\"}},{\"id\":\"ogRsbtdbJo\",\"type\":\"paragraph\",\"data\":{\"text\":\"However useful reporting is at generating visibility, it is part of a solution, not a full one. Firstly, when backed by human review, the costs of report evaluation, response, and triage grow in proportion with the volume of visible abuse on the platform, so when platforms are inundated with novel forms or strategies of abuse, it is common for reporting functions to become overrun. Moreover, though reporting is useful at getting visibility into acute and legible forms of abuse, it often fails to shine a light on issues that aren't obvious to the user that is harmed by them, like malware, which is hard for the user to detect, or hate speech, which often occurs out of view from the parties harmed by it. Additionally, reporting systems have to be linked to careful review prior to action being taken on content, otherwise they can be trivially used for capricious or ideological attempts to take down the content of opponents. Finally, reporting is always a slow and reactive process, and while it can provide a sense of solvency and action for the reporting user, in reality it doesn't prevent the majority of harm that the content causes.\"}},{\"id\":\"R3BR7OQuV4\",\"type\":\"paragraph\",\"data\":{\"text\":\"Because of their ubiquity, many sets of&nbsp;<a href=\\\"https://pen.org/report/shouting-into-the-void/\\\">industry best practices have emerged</a>&nbsp;that give excellent advice for how to build and reform reporting practices. Though only part of a broader trust and safety strategy, when reporting systems are built well, they have the capacity to encourage users to feel empowered, safe, and heard, while giving platforms clear visibility into what their users are currently being frustrated by.\"}}],\"version\":\"2.23.2\"}",
-          "CanBeRegulated": true,
-          "EaseOfImplementation": "Hard",
-          "GenerallyAdvisable": true,
-          "Reversible": true,
-          "relationship_feature_interventions": {
-            "data": [
-              {
-                "id": 57,
-                "attributes": {
-                  "RelationshipDescription": null,
-                  "ImplementationDifficulty": "Medium",
-                  "feature": {
-                    "data": {
-                      "id": 5,
-                      "attributes": {
-                        "readableId": "comments",
-                        "Title": "Comments",
-                        "Definition": "Expressions of response to either some primary content, or other comments."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 58,
-                "attributes": {
-                  "RelationshipDescription": null,
-                  "ImplementationDifficulty": "VeryHigh",
-                  "feature": {
-                    "data": {
-                      "id": 2,
-                      "attributes": {
-                        "readableId": "payments",
-                        "Title": "Payments",
-                        "Definition": "The capacity for users to initiate outgoing payments or receive incoming ones."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 60,
-                "attributes": {
-                  "RelationshipDescription": null,
-                  "ImplementationDifficulty": "Medium",
-                  "feature": {
-                    "data": {
-                      "id": 3,
-                      "attributes": {
-                        "readableId": "identity",
-                        "Title": "Identity",
-                        "Definition": "Individuals' ability to represent themselves in a digital space."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 64,
-                "attributes": {
-                  "RelationshipDescription": null,
-                  "ImplementationDifficulty": "Medium",
-                  "feature": {
-                    "data": {
-                      "id": 8,
-                      "attributes": {
-                        "readableId": "messaging",
-                        "Title": "Messaging",
-                        "Definition": "Enable users to exchange text in real time."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 65,
-                "attributes": {
-                  "RelationshipDescription": null,
-                  "ImplementationDifficulty": "Medium",
-                  "feature": {
-                    "data": {
-                      "id": 6,
-                      "attributes": {
-                        "readableId": "file-sharing",
-                        "Title": "File/Link Sharing",
-                        "Definition": "The capacity of one user to publish or share files or links with other users."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 67,
-                "attributes": {
-                  "RelationshipDescription": null,
-                  "ImplementationDifficulty": "Medium",
-                  "feature": {
-                    "data": {
-                      "id": 9,
-                      "attributes": {
-                        "readableId": "search",
-                        "Title": "Search",
-                        "Definition": "Locating and ranking content to be responsive to a user's query."
-                      }
-                    }
-                  }
-                }
-              }
-            ]
-          },
-          "relationship_harm_interventions": {
-            "data": [
-              {
-                "id": 89,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 7,
-                      "attributes": {
-                        "Title": "Unlikely to be Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": "Allowing users to report blackmail when it occurs gives a platform the ability to block the account of the blackmailer, preventing mass attacks.",
-                  "harm": {
-                    "data": {
-                      "id": 10,
-                      "attributes": {
-                        "readableId": "blackmail",
-                        "Title": "Blackmail",
-                        "Definition": "Using threats of disclosure to coerce a victim."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 99,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 10,
-                      "attributes": {
-                        "Title": "Likely to be Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": "Because a small number of perpetrators constitute the majority of offenses:",
-                  "harm": {
-                    "data": {
-                      "id": 46,
-                      "attributes": {
-                        "readableId": "unwelcome-sexual-advances",
-                        "Title": "Unwelcome Sexual Advances",
-                        "Definition": "When a user initiates a sexual or romantic exchange with another outside of a reasonable context."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 100,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 9,
-                      "attributes": {
-                        "Title": "Worth Trying, Potentially Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": null,
-                  "harm": {
-                    "data": {
-                      "id": 36,
-                      "attributes": {
-                        "readableId": "catfishing",
-                        "Title": "Catfishing",
-                        "Definition": "Intentionally deceiving others about who you are, typically on dating platforms."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 101,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 11,
-                      "attributes": {
-                        "Title": "Likely to be very Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": "Because there is a strong financial motivation for a reporter:",
-                  "harm": {
-                    "data": {
-                      "id": 18,
-                      "attributes": {
-                        "readableId": "copyright",
-                        "Title": "Copyright/IP Infringement",
-                        "Definition": "Unauthorized use, reproduction or distribution of works covered by intellectual property protections."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 102,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 8,
-                      "attributes": {
-                        "Title": "Worth Trying, Low Consequence"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": "Because it provides users with a sense of solvency/control:",
-                  "harm": {
-                    "data": {
-                      "id": 4,
-                      "attributes": {
-                        "readableId": "harassment",
-                        "Title": "Harassment / Cyberbullying",
-                        "Definition": "Unwanted and repeated behavior that threatens, annoys, or intimidates a victim."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 103,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 8,
-                      "attributes": {
-                        "Title": "Worth Trying, Low Consequence"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": "Because it helps victims feel heard and empowered:",
-                  "harm": {
-                    "data": {
-                      "id": 25,
-                      "attributes": {
-                        "readableId": "discrimination",
-                        "Title": "Discrimination",
-                        "Definition": "Targeting or excluding individuals in online spaces based on a protected or immutable characteristic."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 104,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 9,
-                      "attributes": {
-                        "Title": "Worth Trying, Potentially Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": null,
-                  "harm": {
-                    "data": {
-                      "id": 5,
-                      "attributes": {
-                        "readableId": "scams",
-                        "Title": "Scams",
-                        "Definition": "Commercial offerings that intentionally deceive their participants."
-                      }
-                    }
-                  }
-                }
-              }
-            ]
-          },
-          "intervention_categories": {
-            "data": [
-              {
-                "id": 3,
-                "attributes": {
-                  "readableId": "user-control",
-                  "Title": "User Control",
-                  "Definition": "Giving users capability controls over a circumscribed perimeter."
                 }
               }
             ]
@@ -20523,6 +20523,290 @@
         }
       },
       {
+        "id": 50,
+        "attributes": {
+          "readableId": "identical-content",
+          "Title": "Label/Detect Identical Content ",
+          "Definition": "For some types of harm, the same data a strong signal of something being off.",
+          "Description": "{\"time\":1699721165230,\"blocks\":[{\"id\":\"IxIkDAaZpB\",\"type\":\"paragraph\",\"data\":{\"text\":\"Some platform features (\\\"original features\\\") are solely intended to facilitate collaboration, communication, or sharing original work. The spontaneous, unrelated creation of duplicate files, messages, or images in an original space is extremely improbable when the media is large enough (&gt;1KB). This means that duplicates can be a leading signal of abuse, since it indicates that users are utilizing the features for purposes other than original creations. \"}},{\"id\":\"qypc7L_Cgx\",\"type\":\"paragraph\",\"data\":{\"text\":\"Some platforms have even gone so far as to prevent the creation of duplicate images or videos, to encourage engagement with the original work on the platform. That approach is probably not suitable for most platforms as a rule, but the approach is likely suitable for most as a leading signal of abuse and a jumping off point for further investigation. Additionally, abuse determinations about whether content violates policy can easily be applied to duplicates, preventing the need for constant reporting, rediscovery, or reclassification of harmful content.\"}},{\"id\":\"kMbkxl_ep_\",\"type\":\"paragraph\",\"data\":{\"text\":\"Duplicates can also be tied into strategies for <a href=\\\"/intervention/provenance\\\">provenance</a>. In original features, it is typically useful for users to know that the content that they are viewing is non-original. Therefore, adding a button indicating non-original content (and linking to its source) would be helpful for users to gain some context about the content by ascertaining its origin.\"}},{\"id\":\"GioB8aAiGD\",\"type\":\"paragraph\",\"data\":{\"text\":\"While exact, byte-for-byte duplicate detection systems are trivially easy to circumvent, a wide array of literature and software exists to do duplicate detection today, particularly in the domain of <a href=\\\"/harm/copyright\\\">copyright enforcement</a> and <a href=\\\"/harm/csam\\\">CSAM</a>. Re-purposing these techniques to deliver features for user insight is a straightforward extension.\"}}],\"version\":\"2.23.2\"}",
+          "CanBeRegulated": false,
+          "EaseOfImplementation": "Straightforward",
+          "GenerallyAdvisable": false,
+          "Reversible": true,
+          "relationship_feature_interventions": {
+            "data": [
+              {
+                "id": 61,
+                "attributes": {
+                  "RelationshipDescription": null,
+                  "ImplementationDifficulty": "Low",
+                  "feature": {
+                    "data": {
+                      "id": 5,
+                      "attributes": {
+                        "readableId": "comments",
+                        "Title": "Comments",
+                        "Definition": "Expressions of response to either some primary content, or other comments."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 62,
+                "attributes": {
+                  "RelationshipDescription": null,
+                  "ImplementationDifficulty": "Low",
+                  "feature": {
+                    "data": {
+                      "id": 6,
+                      "attributes": {
+                        "readableId": "file-sharing",
+                        "Title": "File/Link Sharing",
+                        "Definition": "The capacity of one user to publish or share files or links with other users."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 66,
+                "attributes": {
+                  "RelationshipDescription": null,
+                  "ImplementationDifficulty": "Medium",
+                  "feature": {
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "readableId": "search",
+                        "Title": "Search",
+                        "Definition": "Locating and ranking content to be responsive to a user's query."
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "relationship_harm_interventions": {
+            "data": [
+              {
+                "id": 88,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": "If an address is found to be used in doxxing, it's probably prudent to not allow posting it in most contexts going forward.",
+                  "harm": {
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "readableId": "doxxing",
+                        "Title": "Doxxing",
+                        "Definition": "Divulging someone's personal information, like location, in order to harass them."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 134,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "Title": "Worth Trying, Low Consequence"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": null,
+                  "harm": {
+                    "data": {
+                      "id": 8,
+                      "attributes": {
+                        "readableId": "ncei",
+                        "Title": "Non-consensual Explicit Imagery",
+                        "Definition": "Distribution of sexual imagery without the authorization of the person depicted."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 158,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 7,
+                      "attributes": {
+                        "Title": "Unlikely to be Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": null,
+                  "harm": {
+                    "data": {
+                      "id": 6,
+                      "attributes": {
+                        "readableId": "mlms",
+                        "Title": "Multi Level Marketing",
+                        "Definition": "Sales organizations that grow primarily through an expansion in membership."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 16,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": null,
+                  "harm": {
+                    "data": {
+                      "id": 18,
+                      "attributes": {
+                        "readableId": "copyright",
+                        "Title": "Copyright/IP Infringement",
+                        "Definition": "Unauthorized use, reproduction or distribution of works covered by intellectual property protections."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 47,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 11,
+                      "attributes": {
+                        "Title": "Likely to be very Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": "If a file or link constitutes malware, all future copies of it do too.",
+                  "harm": {
+                    "data": {
+                      "id": 3,
+                      "attributes": {
+                        "readableId": "malware",
+                        "Title": "Malware",
+                        "Definition": "Software built to gain unauthorized access to computers."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 8,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 10,
+                      "attributes": {
+                        "Title": "Likely to be Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": null,
+                  "harm": {
+                    "data": {
+                      "id": 14,
+                      "attributes": {
+                        "readableId": "csam",
+                        "Title": "Child Sexual Abuse Imagery",
+                        "Definition": "Media that depicts or encourages the sexual exploitation of children."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 52,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": null,
+                  "harm": {
+                    "data": {
+                      "id": 33,
+                      "attributes": {
+                        "readableId": "ransomware",
+                        "Title": "Ransomware",
+                        "Definition": "Malware which holds a user's data as a hostage until a ransom is paid."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "id": 55,
+                "attributes": {
+                  "RLOE": {
+                    "data": {
+                      "id": 9,
+                      "attributes": {
+                        "Title": "Worth Trying, Potentially Effective"
+                      }
+                    }
+                  },
+                  "RelationshipDescription": "Allowing users to know that content has been uploaded before can help them consider the possibility of Catfishing.",
+                  "harm": {
+                    "data": {
+                      "id": 36,
+                      "attributes": {
+                        "readableId": "catfishing",
+                        "Title": "Catfishing",
+                        "Definition": "Intentionally deceiving others about who you are, typically on dating platforms."
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "intervention_categories": {
+            "data": [
+              {
+                "id": 11,
+                "attributes": {
+                  "readableId": "content-analysis",
+                  "Title": "Content Analysis",
+                  "Definition": "Treating content differently based on its evaluation by automated classifiers."
+                }
+              },
+              {
+                "id": 14,
+                "attributes": {
+                  "readableId": "history",
+                  "Title": "History",
+                  "Definition": "Utilizing descriptive data to help users understand content in context."
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": 2,
         "attributes": {
           "readableId": "comment-ordering",
@@ -21102,290 +21386,6 @@
                   "readableId": "user-control",
                   "Title": "User Control",
                   "Definition": "Giving users capability controls over a circumscribed perimeter."
-                }
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": 50,
-        "attributes": {
-          "readableId": "identical-content",
-          "Title": "Label/Detect Identical Content ",
-          "Definition": "For some types of harm, the same data a strong signal of something being off.",
-          "Description": "{\"time\":1699721165230,\"blocks\":[{\"id\":\"IxIkDAaZpB\",\"type\":\"paragraph\",\"data\":{\"text\":\"Some platform features (\\\"original features\\\") are solely intended to facilitate collaboration, communication, or sharing original work. The spontaneous, unrelated creation of duplicate files, messages, or images in an original space is extremely improbable when the media is large enough (&gt;1KB). This means that duplicates can be a leading signal of abuse, since it indicates that users are utilizing the features for purposes other than original creations. \"}},{\"id\":\"qypc7L_Cgx\",\"type\":\"paragraph\",\"data\":{\"text\":\"Some platforms have even gone so far as to prevent the creation of duplicate images or videos, to encourage engagement with the original work on the platform. That approach is probably not suitable for most platforms as a rule, but the approach is likely suitable for most as a leading signal of abuse and a jumping off point for further investigation. Additionally, abuse determinations about whether content violates policy can easily be applied to duplicates, preventing the need for constant reporting, rediscovery, or reclassification of harmful content.\"}},{\"id\":\"kMbkxl_ep_\",\"type\":\"paragraph\",\"data\":{\"text\":\"Duplicates can also be tied into strategies for <a href=\\\"/intervention/provenance\\\">provenance</a>. In original features, it is typically useful for users to know that the content that they are viewing is non-original. Therefore, adding a button indicating non-original content (and linking to its source) would be helpful for users to gain some context about the content by ascertaining its origin.\"}},{\"id\":\"GioB8aAiGD\",\"type\":\"paragraph\",\"data\":{\"text\":\"While exact, byte-for-byte duplicate detection systems are trivially easy to circumvent, a wide array of literature and software exists to do duplicate detection today, particularly in the domain of <a href=\\\"/harm/copyright\\\">copyright enforcement</a> and <a href=\\\"/harm/csam\\\">CSAM</a>. Re-purposing these techniques to deliver features for user insight is a straightforward extension.\"}}],\"version\":\"2.23.2\"}",
-          "CanBeRegulated": false,
-          "EaseOfImplementation": "Straightforward",
-          "GenerallyAdvisable": false,
-          "Reversible": true,
-          "relationship_feature_interventions": {
-            "data": [
-              {
-                "id": 61,
-                "attributes": {
-                  "RelationshipDescription": null,
-                  "ImplementationDifficulty": "Low",
-                  "feature": {
-                    "data": {
-                      "id": 5,
-                      "attributes": {
-                        "readableId": "comments",
-                        "Title": "Comments",
-                        "Definition": "Expressions of response to either some primary content, or other comments."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 62,
-                "attributes": {
-                  "RelationshipDescription": null,
-                  "ImplementationDifficulty": "Low",
-                  "feature": {
-                    "data": {
-                      "id": 6,
-                      "attributes": {
-                        "readableId": "file-sharing",
-                        "Title": "File/Link Sharing",
-                        "Definition": "The capacity of one user to publish or share files or links with other users."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 66,
-                "attributes": {
-                  "RelationshipDescription": null,
-                  "ImplementationDifficulty": "Medium",
-                  "feature": {
-                    "data": {
-                      "id": 9,
-                      "attributes": {
-                        "readableId": "search",
-                        "Title": "Search",
-                        "Definition": "Locating and ranking content to be responsive to a user's query."
-                      }
-                    }
-                  }
-                }
-              }
-            ]
-          },
-          "relationship_harm_interventions": {
-            "data": [
-              {
-                "id": 88,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 10,
-                      "attributes": {
-                        "Title": "Likely to be Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": "If an address is found to be used in doxxing, it's probably prudent to not allow posting it in most contexts going forward.",
-                  "harm": {
-                    "data": {
-                      "id": 9,
-                      "attributes": {
-                        "readableId": "doxxing",
-                        "Title": "Doxxing",
-                        "Definition": "Divulging someone's personal information, like location, in order to harass them."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 134,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 8,
-                      "attributes": {
-                        "Title": "Worth Trying, Low Consequence"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": null,
-                  "harm": {
-                    "data": {
-                      "id": 8,
-                      "attributes": {
-                        "readableId": "ncei",
-                        "Title": "Non-consensual Explicit Imagery",
-                        "Definition": "Distribution of sexual imagery without the authorization of the person depicted."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 158,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 7,
-                      "attributes": {
-                        "Title": "Unlikely to be Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": null,
-                  "harm": {
-                    "data": {
-                      "id": 6,
-                      "attributes": {
-                        "readableId": "mlms",
-                        "Title": "Multi Level Marketing",
-                        "Definition": "Sales organizations that grow primarily through an expansion in membership."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 16,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 11,
-                      "attributes": {
-                        "Title": "Likely to be very Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": null,
-                  "harm": {
-                    "data": {
-                      "id": 18,
-                      "attributes": {
-                        "readableId": "copyright",
-                        "Title": "Copyright/IP Infringement",
-                        "Definition": "Unauthorized use, reproduction or distribution of works covered by intellectual property protections."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 47,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 11,
-                      "attributes": {
-                        "Title": "Likely to be very Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": "If a file or link constitutes malware, all future copies of it do too.",
-                  "harm": {
-                    "data": {
-                      "id": 3,
-                      "attributes": {
-                        "readableId": "malware",
-                        "Title": "Malware",
-                        "Definition": "Software built to gain unauthorized access to computers."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 8,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 10,
-                      "attributes": {
-                        "Title": "Likely to be Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": null,
-                  "harm": {
-                    "data": {
-                      "id": 14,
-                      "attributes": {
-                        "readableId": "csam",
-                        "Title": "Child Sexual Abuse Imagery",
-                        "Definition": "Media that depicts or encourages the sexual exploitation of children."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 52,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 9,
-                      "attributes": {
-                        "Title": "Worth Trying, Potentially Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": null,
-                  "harm": {
-                    "data": {
-                      "id": 33,
-                      "attributes": {
-                        "readableId": "ransomware",
-                        "Title": "Ransomware",
-                        "Definition": "Malware which holds a user's data as a hostage until a ransom is paid."
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": 55,
-                "attributes": {
-                  "RLOE": {
-                    "data": {
-                      "id": 9,
-                      "attributes": {
-                        "Title": "Worth Trying, Potentially Effective"
-                      }
-                    }
-                  },
-                  "RelationshipDescription": "Allowing users to know that content has been uploaded before can help them consider the possibility of Catfishing.",
-                  "harm": {
-                    "data": {
-                      "id": 36,
-                      "attributes": {
-                        "readableId": "catfishing",
-                        "Title": "Catfishing",
-                        "Definition": "Intentionally deceiving others about who you are, typically on dating platforms."
-                      }
-                    }
-                  }
-                }
-              }
-            ]
-          },
-          "intervention_categories": {
-            "data": [
-              {
-                "id": 11,
-                "attributes": {
-                  "readableId": "content-analysis",
-                  "Title": "Content Analysis",
-                  "Definition": "Treating content differently based on its evaluation by automated classifiers."
-                }
-              },
-              {
-                "id": 14,
-                "attributes": {
-                  "readableId": "history",
-                  "Title": "History",
-                  "Definition": "Utilizing descriptive data to help users understand content in context."
                 }
               }
             ]
