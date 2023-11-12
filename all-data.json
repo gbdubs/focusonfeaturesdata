@@ -2013,7 +2013,7 @@
                     "data": {
                       "attributes": {
                         "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                        "Title": "Resource Abuse",
+                        "Title": "Resource Misuse",
                         "readableId": "resource-abuse"
                       },
                       "id": 19
@@ -3773,7 +3773,7 @@
               {
                 "attributes": {
                   "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                  "Title": "Resource Abuse",
+                  "Title": "Resource Misuse",
                   "readableId": "resource-abuse"
                 },
                 "id": 19
@@ -4024,7 +4024,7 @@
               {
                 "attributes": {
                   "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                  "Title": "Resource Abuse",
+                  "Title": "Resource Misuse",
                   "readableId": "resource-abuse"
                 },
                 "id": 19
@@ -8040,7 +8040,7 @@
           "DiscernableViaClassification": false,
           "HarmedPartyCanIntervene": false,
           "IllegalInLiberalDemocracies": "AlmostNever",
-          "Title": "Resource Abuse",
+          "Title": "Resource Misuse",
           "TypicallyTOSViolating": true,
           "harm_actors": {
             "data": [
@@ -18253,7 +18253,7 @@
                     "data": {
                       "attributes": {
                         "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                        "Title": "Resource Abuse",
+                        "Title": "Resource Misuse",
                         "readableId": "resource-abuse"
                       },
                       "id": 19
@@ -18464,7 +18464,7 @@
                     "data": {
                       "attributes": {
                         "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                        "Title": "Resource Abuse",
+                        "Title": "Resource Misuse",
                         "readableId": "resource-abuse"
                       },
                       "id": 19
@@ -18610,7 +18610,7 @@
                     "data": {
                       "attributes": {
                         "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                        "Title": "Resource Abuse",
+                        "Title": "Resource Misuse",
                         "readableId": "resource-abuse"
                       },
                       "id": 19
@@ -18708,7 +18708,7 @@
                     "data": {
                       "attributes": {
                         "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                        "Title": "Resource Abuse",
+                        "Title": "Resource Misuse",
                         "readableId": "resource-abuse"
                       },
                       "id": 19
@@ -22790,7 +22790,7 @@
                     "data": {
                       "attributes": {
                         "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                        "Title": "Resource Abuse",
+                        "Title": "Resource Misuse",
                         "readableId": "resource-abuse"
                       },
                       "id": 19
@@ -31119,7 +31119,7 @@
               {
                 "attributes": {
                   "Definition": "Creating generalized network, storage, or compute resources by misusing low-cost resources on the open internet.",
-                  "Title": "Resource Abuse",
+                  "Title": "Resource Misuse",
                   "readableId": "resource-abuse"
                 },
                 "id": 19
