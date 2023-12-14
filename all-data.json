@@ -434,7 +434,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allow users to chose what they want their feeds to optimize for.",
+                        "Definition": "Allow users to choose what they want their feeds to optimize for.",
                         "Title": "Configurable Feed Optimization Goals",
                         "readableId": "configurable-feed-optimization"
                       },
@@ -451,7 +451,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Slow the spread of vitality by adding friction on repost/re-share functionality.",
+                        "Definition": "Slow the spread of virality by adding friction on repost/re-share functionality.",
                         "Title": "Third repost has to manually enter the content",
                         "readableId": "third-repost"
                       },
@@ -604,7 +604,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Enable users more clarity around the origin of content by legislating the mandatory, prominent, disclosure.",
+                        "Definition": "Enact legislation for the mandatory prominent disclosure of AI generation.",
                         "Title": "Require Labels on AI Created Content",
                         "readableId": "label-ai-content"
                       },
@@ -622,7 +622,7 @@
       {
         "attributes": {
           "Definition": "The capacity for users to initiate outgoing payments or receive incoming ones.",
-          "Description": "{\"time\":1698220560078,\"blocks\":[{\"id\":\"JWDdtHB8I5\",\"type\":\"paragraph\",\"data\":{\"text\":\"Where there is money, there is likely to be abuse.\"}},{\"id\":\"V5SirtyvNs\",\"type\":\"paragraph\",\"data\":{\"text\":\"Platforms that facilitate or enable the transfer of fungible value in any form, be it hard currency, cryptocurrency, stocks, or even in-game-items, are likely to have a wide swathe of potential abuses, but these generally fall into a few categories:\"}},{\"id\":\"Vg2RRJ6akw\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Security</b>: Attackers on trying to steal credentials, find security vulnerabilities, and otherwise assume system control that they shouldn't have access to.\",\"<b>Illegal Payments:&nbsp;</b>Facilitation of payments for real-world criminal or other unsavory business, like money laundering, sex trafficking, directing funds to listed entities, etc.\",\"<b>Impersonation:</b>&nbsp;users dissembling their identities to try to trick, coerce, or otherwise defraud one another.\",\"<b>Scams: </b>when peer to peer payments are possible, scams come with the territory, and are often near impossible to distinguish via content alone from legitimate commerce.\"]}},{\"id\":\"CSCcI46vdP\",\"type\":\"paragraph\",\"data\":{\"text\":\"Payments bring along with them a swathe of headaches for organizations that want to do them responsibly, which is why the primary two mechanisms that are used to handle payment infrastructure are various forms of <a href=\\\"/intervention-category/omission\\\">Omission</a> and <a href=\\\"/intervention-category/abdication\\\">Abdication</a>: outsourcing this functionality to a third party, designing it out of the system entirely, or using systems like cryptocurrency that limit the platform's capacity to manage payments responsibly. This site tries instead to focus on mechanisms for changing the design of features on-platform, which is why these common strategies largely aren't listed.\"}}],\"version\":\"2.23.2\"}",
+          "Description": "{\"time\":1702590099802,\"blocks\":[{\"id\":\"JWDdtHB8I5\",\"type\":\"paragraph\",\"data\":{\"text\":\"Where there is money, there is likely to be abuse.\"}},{\"id\":\"V5SirtyvNs\",\"type\":\"paragraph\",\"data\":{\"text\":\"Platforms that facilitate or enable the transfer of fungible value in any form, be it hard currency, cryptocurrency, stocks, or even in-game-items, are likely to have a wide swathe of potential abuses, but these generally fall into a few categories:\"}},{\"id\":\"Vg2RRJ6akw\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Security</b>: Attackers are trying to steal credentials, find security vulnerabilities, and otherwise assume system control that they shouldn't have access to.\",\"<b>Illegal Payments:&nbsp;</b>Facilitation of payments for real-world criminal or other unsavory business, like money laundering, sex trafficking, directing funds to listed entities, etc.\",\"<b>Impersonation:</b>&nbsp;users dissembling their identities to try to trick, coerce, or otherwise defraud one another.\",\"<b>Scams: </b>when peer to peer payments are possible, scams come with the territory, and are often challenging to distinguish  from legitimate commerce via content alone.\"]}},{\"id\":\"CSCcI46vdP\",\"type\":\"paragraph\",\"data\":{\"text\":\"Payments bring along with them a swathe of headaches for organizations that want to do them responsibly, which is why the primary two mechanisms that are used to handle payment infrastructure are various forms of <a href=\\\"/intervention-category/omission\\\">Omission</a> and <a href=\\\"/intervention-category/abdication\\\">Abdication</a>: outsourcing this functionality to a third party, designing it out of the system entirely, or using systems like cryptocurrency that limit the platform's capacity to manage payments responsibly. This site (Focus on Features) tries instead to focus on mechanisms for changing the design of features on-platform, which is why these common strategies largely aren't listed.\"}}],\"version\":\"2.23.2\"}",
           "Title": "Payments",
           "readableId": "payments",
           "relationship_feature_harms": {
@@ -727,7 +727,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Require one user to specify multiple pieces of information about anothother user to send them a payment.",
+                        "Definition": "Require one user to specify multiple pieces of information about another user to send them a payment.",
                         "Title": "Two-Factor Payment Identification",
                         "readableId": "two-factor-payment-id"
                       },
@@ -779,7 +779,7 @@
       {
         "attributes": {
           "Definition": "Individuals' ability to represent themselves in a digital space.",
-          "Description": "{\"time\":1698212819653,\"blocks\":[{\"id\":\"L7IhWgzOjQ\",\"type\":\"header\",\"data\":{\"text\":\"Identity is self representation\",\"level\":2}},{\"id\":\"E-K1DGlfBH\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Identity</b> in online platforms refers to the basket of personal information users provide in presenting themselves online. We often think of this as a username and a profile picture, but since users can often represent any part of themselves in a platform, Identity can encompass a wide range of personal attributes, including gender, religion, sexual orientation, location, education, interests, and any other number of affiliations or identities that a user may or may not hold in the real world.\"}},{\"id\":\"jBqyPdvnb-\",\"type\":\"paragraph\",\"data\":{\"text\":\"The degree to which platforms structure the elements of user identity varies across a broad spectrum, in line with the degree to which the online persona is expected to be a representation of a real world person. At one end, identity on dating apps tends to be highly structured in order to give users powerful features by which to filter and sort prospective matches, and users are expected to provide accurate data so as not to dissemble to potential dates. At the other end of the spectrum, identity on publishing sites like blogs tends to be optional and freeform, even anonymous, and is broadly understood to be potentially unrepresentative of the human behind the profile.\"}},{\"id\":\"ENv0md-wgR\",\"type\":\"header\",\"data\":{\"text\":\"Anonymity plays an important role on the internet\",\"level\":2}},{\"id\":\"EwtAlncynI\",\"type\":\"paragraph\",\"data\":{\"text\":\"Identity is an important tool for building trust on the internet, but it isn't well suited for all tasks. Anonymity, it's shadow, plays a different set of critical functions.\"}},{\"id\":\"vLMt5IGVIe\",\"type\":\"paragraph\",\"data\":{\"text\":\"Anonymitiy safeguards freedom of expression and protects individuals' privacy and safety. It allows folks to openly express their opinions, ideas, and concerns without fear of retaliation or persecution. It empowers marginalized and vulnerable groups to voice their perspectives, share sensitive information, and participate in public discussions without the fear of retaliation. It also enables whistleblowers, activists, and individuals living under oppressive regimes to communicate and advocate for change without risking retaliation. Anonymity is a valuable feature that empowers everyone to live more freely online - with fewer real world consequences for online actions.\"}},{\"id\":\"QJaZeJR2BZ\",\"type\":\"paragraph\",\"data\":{\"text\":\"Designing platform identity (setting the structural expectations for user representation on a platform) simultaneously designs anonymity on the platform. Most platforms enable some forms of both identity and anonymity, a balancing act in line with their broader trade-offs between trust and freedom.\"}},{\"id\":\"SIUFUVK0S1\",\"type\":\"header\",\"data\":{\"text\":\"Abuses in Identity\",\"level\":2}},{\"id\":\"mcEejrlzbJ\",\"type\":\"paragraph\",\"data\":{\"text\":\"As with any powerful tool facilitating a physical connection with the digital world, identity is a common font of abuse. \"}},{\"id\":\"UwBeY0EOyy\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Privacy</b> broadly describes one basket of concerns. When users provide personal information to a platform, it is immediately at risk to unauthorized access, data breaches, or unexpected use. With access to even limited identity features, platforms and adversarial actors can correlate identity across sites, potentially gaining access to more information than the user wanted them to be able to. Platforms also often use (or predict) a user's identity features in order to collect data for targeted advertising and discriminatory pricing.\"}},{\"id\":\"5lOVzAhkqs\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Malicious misuse</b> captures another set of concerns. The abundance of identity collection online exposes folks that submit identity information to platforms more susceptible to harm from malicious users, including doxxing, stalking, and identity theft. The novel field of \\\"Open Source Intelligence\\\" has sprung up as a result of the bounty of data-detritus that each of us leaves in our wake as we surf across the internet.&nbsp; Just as OSINT experts can solve cases of international espionage, OSINT novices can often find enough information to track, steal from, and threaten ordinary citizens.\"}},{\"id\":\"IDS3zmbUvs\",\"type\":\"paragraph\",\"data\":{\"text\":\"A final basket of concerns is the way that identity features <b>challenge</b>&nbsp;<b>authentication</b>: how do we know that someone is who they claim that they are online, and how can we extend trust over the internet if we don't know who people are?\"}},{\"id\":\"frYLDbLv3c\",\"type\":\"header\",\"data\":{\"text\":\"Design Identity with Empathy\",\"level\":2}},{\"id\":\"TEyBXz7Xtq\",\"type\":\"paragraph\",\"data\":{\"text\":\"Because Identity sits at the bridge between the real world and the digital one, it's one of the most important ones to design for deliberately, because poor design can yield physical harm. In particular, when thinking about a feature or a use case, Product Managers should always picture their product through a diverse collection of viewpoints:\"}},{\"id\":\"UOzovvVfcd\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Could a political dissident use this tool?\",\"Would a person with a stalker feel comfortable using this tool?\",\"How would a tyrant use this tool?\"]}},{\"id\":\"JS0icAtW5r\",\"type\":\"paragraph\",\"data\":{\"text\":\"And ask themselves a series of always useful questions:\"}},{\"id\":\"Ly-tRRTfGx\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Do we have a business need for this data?\",\"Does this data need to be public?\",\"What goes wrong if a user is impersonated?\"]}},{\"id\":\"X9asKRHXwx\",\"type\":\"paragraph\",\"data\":{\"text\":\"Well designed identity features have the potential to keep users safer, and more comfortable, in digital spaces.\"}}],\"version\":\"2.23.2\"}",
+          "Description": "{\"time\":1702590378763,\"blocks\":[{\"id\":\"L7IhWgzOjQ\",\"type\":\"header\",\"data\":{\"text\":\"Identity is self representation\",\"level\":2}},{\"id\":\"E-K1DGlfBH\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Identity</b> in online platforms refers to the basket of personal information users provide in presenting themselves online. We often think of this as a username and a profile picture, but since users can often represent any part of themselves in a platform, Identity can encompass a wide range of personal attributes, including gender, religion, sexual orientation, location, education, interests, and any other number of affiliations or identities that a user may or may not hold in the real world.\"}},{\"id\":\"jBqyPdvnb-\",\"type\":\"paragraph\",\"data\":{\"text\":\"The degree to which platforms structure the elements of user identity varies across a broad spectrum, in line with the degree to which the online persona is expected to be a representation of a real world person. At one end, identity on dating apps tends to be highly structured in order to give users powerful features by which to filter and sort prospective matches, and users are expected to (and expect one another to) provide accurate data. At the other end of the spectrum, identity on publishing sites like blogs tends to be optional and free-form, even anonymous, and is broadly understood to be potentially unrepresentative of the human behind the profile.\"}},{\"id\":\"ENv0md-wgR\",\"type\":\"header\",\"data\":{\"text\":\"Anonymity plays an important role on the internet\",\"level\":2}},{\"id\":\"EwtAlncynI\",\"type\":\"paragraph\",\"data\":{\"text\":\"Identity is an important tool for building trust on the internet, but it isn't well suited for all tasks. Anonymity, it's shadow, plays a different set of critical functions.\"}},{\"id\":\"vLMt5IGVIe\",\"type\":\"paragraph\",\"data\":{\"text\":\"Anonymitiy safeguards freedom of expression and protects individuals' privacy and safety. It allows folks to openly express their opinions, ideas, and concerns without fear of retaliation or persecution. It empowers marginalized and vulnerable groups to voice their perspectives, share sensitive information, and participate in public discussions without the fear of retaliation. It also enables whistleblowers, activists, and individuals living under oppressive regimes to communicate and advocate for change without risking retaliation. Anonymity is a valuable feature that empowers everyone to live more freely online - with fewer real world consequences for online actions.\"}},{\"id\":\"QJaZeJR2BZ\",\"type\":\"paragraph\",\"data\":{\"text\":\"Designing platform identity (setting the structural expectations for user representation on a platform) simultaneously designs anonymity on the platform. Most platforms enable some forms of both identity and anonymity, a balancing act in line with their broader trade-offs between trust and freedom.\"}},{\"id\":\"SIUFUVK0S1\",\"type\":\"header\",\"data\":{\"text\":\"Abuses in Identity\",\"level\":2}},{\"id\":\"mcEejrlzbJ\",\"type\":\"paragraph\",\"data\":{\"text\":\"As with any powerful tool facilitating a physical connection with the digital world, identity is a common font of abuse. \"}},{\"id\":\"UwBeY0EOyy\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Privacy</b> broadly describes one basket of concerns. When users provide personal information to a platform, it is immediately at risk to unauthorized access, data breaches, or unexpected use. With access to even limited identity features, platforms and adversarial actors can correlate identity across sites, potentially gaining access to more information than the user intended. Platforms also often use (or predict) a user's identity features in order to collect data for targeted advertising and discriminatory pricing.\"}},{\"id\":\"5lOVzAhkqs\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Malicious misuse</b> captures another set of concerns. The abundance of identity collection online makes everyone more susceptible to harm from malicious users, including doxxing, stalking, and identity theft. The novel field of \\\"Open Source Intelligence\\\" has sprung up as a result of the bounty of data-detritus that each of us leaves in our wake as we surf across the internet.&nbsp; Just as OSINT experts can solve cases of international espionage, OSINT novices can often find enough information to track, steal from, and threaten ordinary citizens.\"}},{\"id\":\"IDS3zmbUvs\",\"type\":\"paragraph\",\"data\":{\"text\":\"A final basket of concerns is the way that identity features <b>challenge</b>&nbsp;<b>authentication</b>: how do we know that someone is who they claim that they are online, and how can we extend trust over the internet if we don't know who people are?\"}},{\"id\":\"frYLDbLv3c\",\"type\":\"header\",\"data\":{\"text\":\"Design Identity with Empathy\",\"level\":2}},{\"id\":\"TEyBXz7Xtq\",\"type\":\"paragraph\",\"data\":{\"text\":\"Because Identity sits at the bridge between the real world and the digital one, it's one of the most important ones to design for deliberately, because poor design can yield physical harm. In particular, when thinking about a feature or a use case, Product Managers should always picture their product through a diverse collection of viewpoints:\"}},{\"id\":\"UOzovvVfcd\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Could a political dissident use this tool?\",\"Would a person with a stalker feel comfortable using this tool?\",\"How would a tyrant use this tool?\"]}},{\"id\":\"JS0icAtW5r\",\"type\":\"paragraph\",\"data\":{\"text\":\"And ask themselves a series of always useful questions:\"}},{\"id\":\"Ly-tRRTfGx\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Do we have a business need for this data?\",\"Does this data need to be public?\",\"What goes wrong if a user is impersonated?\"]}},{\"id\":\"X9asKRHXwx\",\"type\":\"paragraph\",\"data\":{\"text\":\"Well designed identity features have the potential to keep users safer, and more comfortable, in digital spaces.\"}}],\"version\":\"2.23.2\"}",
           "Title": "Identity",
           "readableId": "identity",
           "relationship_feature_harms": {
@@ -1377,7 +1377,7 @@
       {
         "attributes": {
           "Definition": "Collecting user feedback, and condensing it into quantitative scores.",
-          "Description": "{\"time\":1698213713183,\"blocks\":[{\"id\":\"HwTkk0OMg-\",\"type\":\"paragraph\",\"data\":{\"text\":\"Feedback Aggregation comprises a system that collects myriad individual user inputs and condenses them into a single, quantitative score. It is widely used across the internet to enable platforms to delegate the task of ranking and suggesting content. Rather than building intricate systems for evaluating and ranking content, platforms can leverage the collective insights of their users. This crowdsourced wisdom can often&nbsp;yield reliable average recommendations, be it for content, places, or ideas.\"}},{\"id\":\"3J6RlBUASf\",\"type\":\"paragraph\",\"data\":{\"text\":\"However, like all systems where one user can influence the actions or experience of others, feedback aggregation is susceptible to manipulation and abuse. Bad actors can game the system, skewing results to their favor, be it through spamming positive reviews for their products or disparaging competitors. Furthermore, these aggregated scores, while providing a general consensus, often fail to address the needs of specialized or niche requirements - being recommended content sorted by averages can be anti-helpful for a user with non-average requirements, like mobility issues.\"}},{\"id\":\"vdVoupWL1c\",\"type\":\"paragraph\",\"data\":{\"text\":\"When it is appropriately protected, and combined with other sets of features (like filtering, and structured feedback), Feedback Aggregation can represent the best of the internet: a decentralization of authority that yields collective wisdom at scale.\"}}],\"version\":\"2.23.2\"}",
+          "Description": "{\"time\":1702590500920,\"blocks\":[{\"id\":\"HwTkk0OMg-\",\"type\":\"paragraph\",\"data\":{\"text\":\"Feedback Aggregation comprises a system that collects myriad individual user inputs and condenses them into a single, quantitative score. It is widely used across the internet to enable platforms to delegate the task of ranking and suggesting content. Rather than building intricate systems for evaluating and ranking content, platforms can leverage the collective insights of their users. This crowdsourced wisdom can often&nbsp;yield reliable average recommendations for content, places, or ideas.\"}},{\"id\":\"3J6RlBUASf\",\"type\":\"paragraph\",\"data\":{\"text\":\"However, like all systems where one user can influence the actions or experience of others, feedback aggregation is susceptible to manipulation and abuse. Bad actors can game the system, skewing results to their favor, be it through spamming positive reviews for their products or disparaging competitors. Furthermore, these aggregated scores, while providing a general consensus, often fail to address the needs of specialized or niche requirements - receiving recommended content based on averages is counter to the needs of users with non-average requirements, like mobility issues.\"}},{\"id\":\"vdVoupWL1c\",\"type\":\"paragraph\",\"data\":{\"text\":\"When it is appropriately protected, and combined with other sets of features (like filtering, additional mechanisms for structured feedback, and robust counter-abuse measures), Feedback Aggregation can represent the best of the internet: a decentralization of authority that yields collective wisdom at scale.\"}}],\"version\":\"2.23.2\"}",
           "Title": "Feedback Aggregation",
           "readableId": "feedback-aggregation",
           "relationship_feature_harms": {
@@ -1550,8 +1550,8 @@
       },
       {
         "attributes": {
-          "Definition": "Expressions of response to either some primary content, or other comments.",
-          "Description": "{\"time\":1698212163692,\"blocks\":[{\"id\":\"7ql-4YDjit\",\"type\":\"paragraph\",\"data\":{\"text\":\"Comment sections are a secondary component of a web page in which users can discuss a primary source of media. These systems provide an easy way for users to interact with the author and fellow commenters, fostering a participatory online environment, and at their best, enabling the exchange of ideas. Unfortunately, comment sections are perhaps best known for the ways in which they are consistently abused.\"}},{\"id\":\"dzGjbm5x2I\",\"type\":\"header\",\"data\":{\"text\":\"Abuse of comments comes from their design\",\"level\":2}},{\"id\":\"CrbiPeFCUe\",\"type\":\"paragraph\",\"data\":{\"text\":\"The frequency with which comments are abused comes from a few sources of their common implementation and design:\"}},{\"id\":\"pZJ0oSKhh1\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Comments are typically public, which encourages&nbsp;performative behavior&nbsp;of all kinds, including the nastier varieties.\",\"Comments are viewed as&nbsp;low stakes, since typically they are secondary to the primary content of the site, which encourages less thoughtful engagement, and feels less consequential to the commenter.\",\"Comments are often paired with&nbsp;scores and voting, which inculcates competitive one-upsmanship and encourages \\\"Dunking\\\".\",\"Because comments&nbsp;spread context across multiple entities (replies, threads, primary content), they're harder to moderate through classifiers.\"]}},{\"id\":\"48avW4YXnb\",\"type\":\"paragraph\",\"data\":{\"text\":\"By reevaluating comment system design, product managers can mitigate challenges faced by platforms and discourage abusive user behavior.\"}}],\"version\":\"2.23.2\"}",
+          "Definition": "Responses to primary content, or other comments.",
+          "Description": "{\"time\":1702590706784,\"blocks\":[{\"id\":\"7ql-4YDjit\",\"type\":\"paragraph\",\"data\":{\"text\":\"Comment sections are a secondary component of a web page in which users can discuss a primary source of media. These systems provide an easy way for users to interact with the author and fellow commenters, fostering a participatory online environment, and at their best, enabling the exchange of ideas. Unfortunately, comment sections are perhaps best known for the ways in which they are consistently abused.\"}},{\"id\":\"dzGjbm5x2I\",\"type\":\"header\",\"data\":{\"text\":\"Abuse of comments comes from their design\",\"level\":2}},{\"id\":\"CrbiPeFCUe\",\"type\":\"paragraph\",\"data\":{\"text\":\"The frequency with which comments are abused comes from a few sources of their common implementation and design:\"}},{\"id\":\"pZJ0oSKhh1\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Comments are typically public, which encourages&nbsp;performative behavior&nbsp;of all kinds, including the nastier varieties.\",\"Comments are viewed as&nbsp;low stakes, since typically they are secondary to the primary content of the site, which encourages less thoughtful engagement, and feels less consequential to the commenter.\",\"Comments are often paired with&nbsp;scores and voting, which inculcates competitive one-upsmanship and encourages \\\"Dunking\\\": ridicule performed for an audience.\",\"Because comments fragment a conversation across multiple entities (replies, threads, primary content), they're harder to moderate through automation that analyzes the content of text.\"]}},{\"id\":\"48avW4YXnb\",\"type\":\"paragraph\",\"data\":{\"text\":\"By reevaluating comment system design, product managers can mitigate challenges faced by platforms and discourage abusive user behavior.\"}}],\"version\":\"2.23.2\"}",
           "Title": "Comments",
           "readableId": "comments",
           "relationship_feature_harms": {
@@ -1901,7 +1901,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "For some types of harm, the same data a strong signal of something being off.",
+                        "Definition": "For some features, duplicate data suggests misuse.",
                         "Title": "Label/Detect Identical Content ",
                         "readableId": "identical-content"
                       },
@@ -1953,7 +1953,7 @@
       {
         "attributes": {
           "Definition": "The capacity of one user to publish or share files or links with other users.",
-          "Description": "{\"time\":1698221521841,\"blocks\":[{\"id\":\"wYVZZ07Sus\",\"type\":\"paragraph\",\"data\":{\"text\":\"While much of the internet's functionality can be represented in the browser through images, text, and video, file and link sharing are an essential component of online platforms that enable collaboration, aggregation or organization.\"}},{\"id\":\"dlPxxqH41i\",\"type\":\"paragraph\",\"data\":{\"text\":\"Of primary concern with link and file sharing is the way that extracting content out of a browser exposes the user to additional risks that the perimeter of a browser and the platform usually constrains, first and foremost being <a href=\\\"/harm/malware\\\">Malware</a> and its sub-variants. But file sharing also brings along with it other risks, like the storage and distribution of illegal material like <a href=\\\"/harm/csam\\\">CSAM</a>, and the <a href=\\\"/harm/resource-abuse\\\">abuse of storage capacity</a>.\"}},{\"id\":\"Bs5Ftmomnn\",\"type\":\"paragraph\",\"data\":{\"text\":\"Files and links might seem at first to be distinct categories of ideas, but since links can be used to initiate a file download from a browser automatically, integrity issues around links can be viewed as a superset of integrity issues around files. Links also have two wrinkles to them that complicate their effective moderation. Firstly, the owner of the linked-to-page can change where a link goes or what it shows dynamically, without changing the link's value (i.e. a link to \\\"bestofbuys.co\\\" could redirect to Best Buy today, and a malware site tomorrow). Secondly, the linked content may go to a page which violates the community standards of the platform, but this leaves platforms in a tricky spot - should they try to enforce their standards extraterritorially by not showing links to sites that show content that is against their TOS, or should they enable this one-click sidestep of their rules.&nbsp;\"}},{\"id\":\"ZY_B6shc0L\",\"type\":\"paragraph\",\"data\":{\"text\":\"There are few easy answers when it comes to links and files, but a few small interventions can dramatically limit the surface area that platforms leave open for harm.\"}}],\"version\":\"2.23.2\"}",
+          "Description": "{\"time\":1702590994120,\"blocks\":[{\"id\":\"wYVZZ07Sus\",\"type\":\"paragraph\",\"data\":{\"text\":\"While much of the internet's functionality can be represented in the browser through images, text, and video, file and link sharing are an essential component of online platforms that enable collaboration, aggregation and organization.\"}},{\"id\":\"dlPxxqH41i\",\"type\":\"paragraph\",\"data\":{\"text\":\"Of primary concern with link and file sharing is the way that extracting content out of a browser exposes the user to additional risks that the perimeter of a browser and the platform usually constrains, first and foremost being <a href=\\\"/harm/malware\\\">Malware</a> and its sub-variants. But file sharing also brings along with it other risks, like the storage and distribution of illegal material like <a href=\\\"/harm/csam\\\">CSAM</a>, and the <a href=\\\"/harm/resource-abuse\\\">abuse of storage capacity</a>.\"}},{\"id\":\"Bs5Ftmomnn\",\"type\":\"paragraph\",\"data\":{\"text\":\"Files and links might seem at first to be distinct categories of ideas, but since links can be used to initiate a file download from a browser automatically, integrity issues around links can be viewed as a superset of integrity issues around files. Links also have two wrinkles to them that complicate their effective moderation. Firstly, the owner of the linked-to-page can change where a link goes or what it shows dynamically, without changing the link's value (i.e. a link to \\\"bestofbuys.co\\\" could redirect to Best Buy today, and a malware site tomorrow). Secondly, the linked content may go to a page which violates the community standards of the platform, but this leaves platforms in a tricky spot - should a platform try to enforce their standards outside of their territory by not showing links to sites that show content that is against their Terms of Service, or should they allow this one-click sidestep of their rules?\"}},{\"id\":\"ZY_B6shc0L\",\"type\":\"paragraph\",\"data\":{\"text\":\"Unfortunately, there aren't easy answers when it comes to links and files, but a few small interventions can help limit the surface area that platforms leave open for harm.\"}}],\"version\":\"2.23.2\"}",
           "Title": "File/Link Sharing",
           "readableId": "file-sharing",
           "relationship_feature_harms": {
@@ -2239,7 +2239,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "For some types of harm, the same data a strong signal of something being off.",
+                        "Definition": "For some features, duplicate data suggests misuse.",
                         "Title": "Label/Detect Identical Content ",
                         "readableId": "identical-content"
                       },
@@ -2273,7 +2273,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Record and display media's chain of custody and original source.",
+                        "Definition": "Record and display the chain of custody and original source for media.",
                         "Title": "Media Provenance",
                         "readableId": "provenance"
                       },
@@ -2325,7 +2325,7 @@
       {
         "attributes": {
           "Definition": "Enable users to exchange text in real time.",
-          "Description": "{\"time\":1698735306496,\"blocks\":[{\"id\":\"D1FKGdjK_c\",\"type\":\"paragraph\",\"data\":{\"text\":\"Messaging on online platforms refers to the exchange of digital messages between users. This feature can range from private one-on-one conversations to large-scale broadcasting, each requiring different rules and strategies for combatting misuse.\"}},{\"id\":\"l57mHZfGpJ\",\"type\":\"paragraph\",\"data\":{\"text\":\"Users expect privacy in messaging - as online one-on-one conversations can adopt the closeness and confidence of one-on-one conversations in person. Because of this, many platforms boast end-to-end encryption, which limits a platform's ability to oversee the content of messages. This makes content moderation in messaging particularly challenging. At the same time, users do expect the platform to protect them from universally unwanted forms of abuse like spam, phishing, and malware. User's aversion to content moderation tends not to extend to automated and additive tools like spam filters or warning labels, which help users to sort through or contextualize messages without feeling that their privacy is violated. All of this presents challenges for platforms, because users' expectations of protection and privacy vary, despite the uniformity of the actions from the platform's perspective.\"}},{\"id\":\"erGvjmXJSA\",\"type\":\"paragraph\",\"data\":{\"text\":\"Balance between these competing objectives can often be made by leveraging metadata features of conversations to estimate user expectations. Between closely connected individuals in small groups, users expect more privacy. In larger conversations, or conversations with new connections, users expect more protection. One could use this observation about&nbsp;<a href=\\\"/intervention-category/affinity\\\">Affinity</a>&nbsp;to gate certain sets of scanning protections or rules. Similar differentiation can be applied via <a href=\\\"/intervention-category/gatekeeping\\\">Gatekeeping</a> or <a href=\\\"/intervention-category/graduated-features\\\">Graduated Features</a>.\"}},{\"id\":\"yTxzIBlfal\",\"type\":\"paragraph\",\"data\":{\"text\":\"Messaging might seem like a domain where a platform has irreconcilable tradeoffs to make: to implement End-to-End encryption or not, for example. However, when interventions are implemented that tease apart the many contexts in which users message one another, balance can be found.\"}}],\"version\":\"2.23.2\"}",
+          "Description": "{\"time\":1702591165124,\"blocks\":[{\"id\":\"D1FKGdjK_c\",\"type\":\"paragraph\",\"data\":{\"text\":\"Messaging on online platforms refers to the exchange of digital messages between users. This feature can range from private one-on-one conversations to large-scale broadcasting, each requiring different rules and strategies for combatting misuse.\"}},{\"id\":\"l57mHZfGpJ\",\"type\":\"paragraph\",\"data\":{\"text\":\"Users expect privacy in messaging; as online one-on-one conversations can adopt the closeness and confidence of one-on-one&nbsp; in-person conversations. Because of this, many platforms boast end-to-end encryption, which limits a platform's ability to oversee the content of messages. This makes content moderation in messaging particularly challenging. At the same time, users do expect the platform to protect them from universally unwanted forms of abuse like spam, phishing, and malware. Users' aversion to content moderation tends not to extend to automated and additive tools like spam filters or warning labels, which help users to sort through or contextualize messages without feeling that their privacy is violated. All of this presents challenges for platforms, because users' expectations of protection and privacy vary, despite the uniformity of the actions from the platform's perspective.\"}},{\"id\":\"erGvjmXJSA\",\"type\":\"paragraph\",\"data\":{\"text\":\"Balance between these competing objectives can often be achieved by leveraging metadata features of conversations to estimate user expectations. Between closely connected individuals in small groups, users expect more privacy. In larger conversations, or conversations with new connections, users expect more protection. One could use this observation about&nbsp;<a href=\\\"/intervention-category/affinity\\\">Affinity</a>&nbsp;to restrict certain sets of scanning protections or rules. Similar differentiation can be applied via <a href=\\\"/intervention-category/gatekeeping\\\">Gatekeeping</a> or <a href=\\\"/intervention-category/graduated-features\\\">Graduated Features</a>.\"}},{\"id\":\"yTxzIBlfal\",\"type\":\"paragraph\",\"data\":{\"text\":\"Messaging might seem like a domain where a platform has irreconcilable tradeoffs to make: to implement End-to-End encryption or not, for example. However, when interventions are implemented that tease apart the many contexts in which users message one another, balance can be found.\"}}],\"version\":\"2.23.2\"}",
           "Title": "Messaging",
           "readableId": "messaging",
           "relationship_feature_harms": {
@@ -2680,7 +2680,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Only allow a user to initiate new conversations with users that they have an established connection with.",
+                        "Definition": "Only allow friction-less initiation of a conversation between established connections.",
                         "Title": "Must Request to Message",
                         "readableId": "request-to-message"
                       },
@@ -2748,7 +2748,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Enable users more clarity around the origin of content by legislating the mandatory, prominent, disclosure.",
+                        "Definition": "Enact legislation for the mandatory prominent disclosure of AI generation.",
                         "Title": "Require Labels on AI Created Content",
                         "readableId": "label-ai-content"
                       },
@@ -2766,7 +2766,7 @@
       {
         "attributes": {
           "Definition": "Locating and ranking content to be responsive to a user's query.",
-          "Description": "{\"time\":1699660775759,\"blocks\":[{\"id\":\"AcxUohJxOj\",\"type\":\"paragraph\",\"data\":{\"text\":\"Search is such a common paradigm for intentional discovery on the internet, that it is easy to forget that it embodies a variety of design choices which have dramatic effects on the quality of search results, and the capacity the a search has to do (or further) harm.\"}},{\"id\":\"OcDIkVGRGu\",\"type\":\"paragraph\",\"data\":{\"text\":\"Both large design principles (like how search results are ordered) and small touches (like how far auto-complete suggests) can have a significant effect both on how users engage with the information that they are looking for, and what information they seek to look for in the first place.\"}},{\"id\":\"LoRokuRQRr\",\"type\":\"paragraph\",\"data\":{\"text\":\"Because search is our primary digital mechanism for self-directed exploration, search results have significant (and often competing) burdens:\"}},{\"id\":\"JjvCNV7ucQ\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Matching User Intent</b>&nbsp;- searches are at their best when the extend human agency, rather than redirecting the user toward something they weren't looking for.\",\"<b>Preventing SEO</b>&nbsp;- search rankings bring along with them hefty financial rewards, and thus, companies are highly incentivized to find tricks to attempt to game them.\",\"<b>Objectivity</b>&nbsp;- many searches are questions about a shared reality, but can be skewed by the question asked, leading to automated&nbsp;<a href=\\\"/harm/confirmation-bias\\\">Confirmation Bias</a>.\",\"<b>Non-homogenization&nbsp;</b>- search has the power to heavily centralize the flow of traffic on the internet toward the top few search results - this power can easily be abused, and is challenging to wield responsibly.\"]}},{\"id\":\"3hENjAePr7\",\"type\":\"paragraph\",\"data\":{\"text\":\"These competing priorities also have to compete with the search algorithms efforts to attempt to avoid harm.\"}}],\"version\":\"2.23.2\"}",
+          "Description": "{\"time\":1702591633193,\"blocks\":[{\"id\":\"AcxUohJxOj\",\"type\":\"paragraph\",\"data\":{\"text\":\"In many contexts, search is the paradigm for intentional discovery on the internet. The seeming simplicity of that little box with the magnifying glass allows us to forget that search systems are subject to a wide array of design considerations.&nbsp;These choices which have dramatic effects on the quality of search results, and the capacity the a search has to do (or further) harm.\"}},{\"id\":\"OcDIkVGRGu\",\"type\":\"paragraph\",\"data\":{\"text\":\"Both large design principles (like how search results are ordered) and small touches (like how far auto-complete suggests) can have a significant effect both on how users engage with the information that they are looking for, and what information they seek to look for in the first place.\"}},{\"id\":\"LoRokuRQRr\",\"type\":\"paragraph\",\"data\":{\"text\":\"Because search is our primary digital mechanism for self-directed exploration, search results have significant (and often competing) burdens:\"}},{\"id\":\"JjvCNV7ucQ\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Matching User Intent</b>&nbsp;- Searches are at their best when the extend human agency, rather than redirecting the user toward something they weren't looking for.\",\"<b>Preventing Search Engine Optimization (SEO)</b>&nbsp;- Search rankings bring along with them hefty financial rewards, and thus, companies are highly incentivized to find tricks to attempt to game them. The line between \\\"gaming the system\\\" and \\\"building 'high quality' content\\\" is hard to draw, and constantly shifting.\",\"<b>Objectivity</b>&nbsp;- Many searches are questions about a shared reality, but can be skewed by the question asked, leading to automated&nbsp;<a href=\\\"/harm/confirmation-bias\\\">Confirmation Bias</a>.\",\"<b>Non-homogenization&nbsp;</b>- Search has the power to heavily centralize the flow of traffic on the internet toward the top few search results. This power can easily be abused, and is challenging to wield responsibly.\"]}},{\"id\":\"3hENjAePr7\",\"type\":\"paragraph\",\"data\":{\"text\":\"These priorities have to compete with the search algorithms' efforts to avoid harm.\"}}],\"version\":\"2.23.2\"}",
           "Title": "Search",
           "readableId": "search",
           "relationship_feature_harms": {
@@ -2967,7 +2967,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "For some types of harm, the same data a strong signal of something being off.",
+                        "Definition": "For some features, duplicate data suggests misuse.",
                         "Title": "Label/Detect Identical Content ",
                         "readableId": "identical-content"
                       },
@@ -3018,7 +3018,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allow users to chose what they want their feeds to optimize for.",
+                        "Definition": "Allow users to choose what they want their feeds to optimize for.",
                         "Title": "Configurable Feed Optimization Goals",
                         "readableId": "configurable-feed-optimization"
                       },
@@ -3052,7 +3052,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Add authoritative content from trusted partners on topics users are subscribed to.",
+                        "Definition": "Add authoritative content from trusted partners on users' subscribed topics.",
                         "Title": "Mix in Authoritative Content",
                         "readableId": "authoritative-content"
                       },
@@ -3069,7 +3069,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Record and display media's chain of custody and original source.",
+                        "Definition": "Record and display the chain of custody and original source for media.",
                         "Title": "Media Provenance",
                         "readableId": "provenance"
                       },
@@ -3120,7 +3120,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Enable users more clarity around the origin of content by legislating the mandatory, prominent, disclosure.",
+                        "Definition": "Enact legislation for the mandatory prominent disclosure of AI generation.",
                         "Title": "Require Labels on AI Created Content",
                         "readableId": "label-ai-content"
                       },
@@ -3137,8 +3137,8 @@
       },
       {
         "attributes": {
-          "Definition": "Allows a user to request they receive another channel's novel content.",
-          "Description": "{\"time\":1689632319485,\"blocks\":[{\"id\":\"tFTdYV6N40\",\"type\":\"header\",\"data\":{\"text\":\"What are subscriptions?\",\"level\":2}},{\"id\":\"8qj6ttEPEt\",\"type\":\"paragraph\",\"data\":{\"text\":\"Subscriptions are a versatile and widely utilized feature that enable users to establish persistent connections with feeds of content in order to receive new content from those feeds.Though social media is the clearest exasdfasdfmple of this bundle of features, this pattern of interaction is quite common across the rest of the internet. Feeds of content are often associated with individual content creators, but that's just one possibility among many. A few examples of the subscription/feed dynamic:\"}},{\"id\":\"6a9Gi-vz0i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Podcast players allow users to subscribe to podcast channels.\"]}},{\"id\":\"nPiacSlNm4\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Real estate systems allow users to \\\"save their searches\\\", notifying them when novel content matches their preferences.\"]}},{\"id\":\"FEQIqGVY92\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Media streaming platforms allow users to follow artists, to be notified when they release new music / videos.\",\"RSS feeds allow users to aggregate posts from their favorite sites, including blogs and news media.\",\"Message boards often feature the ability to subscribe to new messages on the board, or to subscribe to responses to specific threads.\"]}},{\"id\":\"zO0HSx3wcF\",\"type\":\"paragraph\",\"data\":{\"text\":\"Though these are diverse sets of functionality, they all have a basic idea in common: a user taking a proactive action (subscription) that acts as a persistent request to receive new content from a well-defined source (feed).\"}},{\"id\":\"OK8KuTOfGE\",\"type\":\"header\",\"data\":{\"text\":\"Why are subscriptions useful to the internet?\",\"level\":2}},{\"id\":\"xRDXpuyWHY\",\"type\":\"paragraph\",\"data\":{\"text\":\"Subscriptions offer a convenient way for users to receive relevant and timely content through a unified interface for consumption. This provides users explicit mechanisms for marking content as of interest to them, and gives them the power to spend more time consuming content, and less time discovering it.\"}},{\"id\":\"7QAARnbFbu\",\"type\":\"header\",\"data\":{\"text\":\"What about sorting?\",\"level\":2}},{\"id\":\"oicDsXJ9DX\",\"type\":\"paragraph\",\"data\":{\"text\":\"Though subscriptions may appear to be a neutral interface through which a platform gives full control to users, in reality, their impact is often heavily influenced by the algorithms that platforms use in deciding what content to show the user first.\"}},{\"id\":\"q2g_JuoqOC\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Is a newsletter from a real-estate search service showing listings by the most expensive, most recent, or most heavily viewed?\",\"Is a podcast app showing you episodes by which ones you're most likely to listen to, or which ones they have a paid partnership with?\",\"Do you see posts on social media in chronological order, or by likelihood that you'll interact with them?\"]}},{\"id\":\"ws9-cUCYRX\",\"type\":\"paragraph\",\"data\":{\"text\":\"In the finer details of sorting we see all of the same problems that we see arise with&nbsp;Recommendation, since in both cases, the prerogatives of the platform are given primacy over the prerogatives of the user. Because of the similarities between those harms, we can join those together, and cover them under that topic.\"}}],\"version\":\"2.23.2\"}",
+          "Definition": "Allows a user to receive by request another channel's novel content.",
+          "Description": "{\"time\":1702592129674,\"blocks\":[{\"id\":\"tFTdYV6N40\",\"type\":\"header\",\"data\":{\"text\":\"What are subscriptions?\",\"level\":2}},{\"id\":\"8qj6ttEPEt\",\"type\":\"paragraph\",\"data\":{\"text\":\"Subscriptions are a versatile and widely utilized feature that enable users to establish an ongoing connection with a source of content in order to receive future content (feeds) from that source. Though social media is a clear example of this bundle of features, this pattern of interaction occurs in parts of the internet we don't typically think of as social. Feeds of content are often associated with individual content creators, but that's just one possibility among many. A few examples of the subscription/feed dynamic:\"}},{\"id\":\"6a9Gi-vz0i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Podcast players allow users to subscribe to podcast channels.\",\"Real estate systems allow users to \\\"save their searches\\\", notifying them when novel content matches their preferences.<br>\",\"Media streaming platforms allow users to follow artists, to be notified when they release new music / videos.<br>\",\"RSS feeds allow users to aggregate posts from their favorite sites, including blogs and news media.<br>\",\"essage boards often feature the ability to subscribe to new messages on the board, or to subscribe to responses to specific threads.<br>\"]}},{\"id\":\"MhAcEVIliW\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"RSS feeds allow users to aggregate posts from their favorite sites, including blogs and news media.\"]}},{\"id\":\"zO0HSx3wcF\",\"type\":\"paragraph\",\"data\":{\"text\":\"Though these are diverse sets of functionality, they all have a basic idea in common: a user taking a proactive action (subscription) that acts as a persistent request to receive new content from a well-defined source (feed).\"}},{\"id\":\"OK8KuTOfGE\",\"type\":\"header\",\"data\":{\"text\":\"Why are subscriptions useful to the internet?\",\"level\":2}},{\"id\":\"xRDXpuyWHY\",\"type\":\"paragraph\",\"data\":{\"text\":\"Subscriptions offer a convenient way for users to receive relevant and timely content through a unified interface for consumption. This provides users explicit mechanisms for marking content as of interest to them, and gives them the power to spend more time consuming content, and less time discovering it.\"}},{\"id\":\"7QAARnbFbu\",\"type\":\"header\",\"data\":{\"text\":\"What about sorting?\",\"level\":2}},{\"id\":\"oicDsXJ9DX\",\"type\":\"paragraph\",\"data\":{\"text\":\"Though subscriptions may appear to be a neutral interface through which a platform gives full control to users, in reality, their impact is often heavily influenced by <b>sorting</b> - the algorithms that platforms use to decide which content to show the user first.\"}},{\"id\":\"q2g_JuoqOC\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Is a newsletter from a real-estate search service showing listings by the most expensive, most recent, or most heavily viewed?\",\"Is a podcast app showing you episodes by which ones you're most likely to listen to, or which ones they have a paid partnership with?\",\"Do you see posts on social media in chronological order, or by likelihood that you'll interact with them?\"]}},{\"id\":\"ws9-cUCYRX\",\"type\":\"paragraph\",\"data\":{\"text\":\"In the finer details of sorting we see all of the same problems that we see arise with&nbsp;Recommendation, since in both cases, the prerogatives of the platform are given primacy over the prerogatives of the user. Because of the similarities between those harms, we can join those together, and cover them under that topic.\"}}],\"version\":\"2.23.2\"}",
           "Title": "Subscriptions",
           "readableId": "subscriptions",
           "relationship_feature_harms": {
@@ -3354,7 +3354,7 @@
               },
               {
                 "attributes": {
-                  "ImplementationDifficulty": "High",
+                  "ImplementationDifficulty": "Medium",
                   "RelationshipDescription": null,
                   "intervention": {
                     "data": {
@@ -3393,7 +3393,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Add authoritative content from trusted partners on topics users are subscribed to.",
+                        "Definition": "Add authoritative content from trusted partners on users' subscribed topics.",
                         "Title": "Mix in Authoritative Content",
                         "readableId": "authoritative-content"
                       },
@@ -3427,7 +3427,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Slow the spread of vitality by adding friction on repost/re-share functionality.",
+                        "Definition": "Slow the spread of virality by adding friction on repost/re-share functionality.",
                         "Title": "Third repost has to manually enter the content",
                         "readableId": "third-repost"
                       },
@@ -3461,7 +3461,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Enable users more clarity around the origin of content by legislating the mandatory, prominent, disclosure.",
+                        "Definition": "Enact legislation for the mandatory prominent disclosure of AI generation.",
                         "Title": "Require Labels on AI Created Content",
                         "readableId": "label-ai-content"
                       },
@@ -4517,7 +4517,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -4625,7 +4625,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Only allow a user to initiate new conversations with users that they have an established connection with.",
+                        "Definition": "Only allow friction-less initiation of a conversation between established connections.",
                         "Title": "Must Request to Message",
                         "readableId": "request-to-message"
                       },
@@ -4872,7 +4872,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Only allow a user to initiate new conversations with users that they have an established connection with.",
+                        "Definition": "Only allow friction-less initiation of a conversation between established connections.",
                         "Title": "Must Request to Message",
                         "readableId": "request-to-message"
                       },
@@ -5047,7 +5047,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "For some types of harm, the same data a strong signal of something being off.",
+                        "Definition": "For some features, duplicate data suggests misuse.",
                         "Title": "Label/Detect Identical Content ",
                         "readableId": "identical-content"
                       },
@@ -5071,7 +5071,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Record and display media's chain of custody and original source.",
+                        "Definition": "Record and display the chain of custody and original source for media.",
                         "Title": "Media Provenance",
                         "readableId": "provenance"
                       },
@@ -5178,7 +5178,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -5406,7 +5406,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Only allow a user to initiate new conversations with users that they have an established connection with.",
+                        "Definition": "Only allow friction-less initiation of a conversation between established connections.",
                         "Title": "Must Request to Message",
                         "readableId": "request-to-message"
                       },
@@ -5605,7 +5605,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Require one user to specify multiple pieces of information about anothother user to send them a payment.",
+                        "Definition": "Require one user to specify multiple pieces of information about another user to send them a payment.",
                         "Title": "Two-Factor Payment Identification",
                         "readableId": "two-factor-payment-id"
                       },
@@ -5780,7 +5780,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "For some types of harm, the same data a strong signal of something being off.",
+                        "Definition": "For some features, duplicate data suggests misuse.",
                         "Title": "Label/Detect Identical Content ",
                         "readableId": "identical-content"
                       },
@@ -5804,7 +5804,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Only allow a user to initiate new conversations with users that they have an established connection with.",
+                        "Definition": "Only allow friction-less initiation of a conversation between established connections.",
                         "Title": "Must Request to Message",
                         "readableId": "request-to-message"
                       },
@@ -6003,7 +6003,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Add authoritative content from trusted partners on topics users are subscribed to.",
+                        "Definition": "Add authoritative content from trusted partners on users' subscribed topics.",
                         "Title": "Mix in Authoritative Content",
                         "readableId": "authoritative-content"
                       },
@@ -6154,7 +6154,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "For some types of harm, the same data a strong signal of something being off.",
+                        "Definition": "For some features, duplicate data suggests misuse.",
                         "Title": "Label/Detect Identical Content ",
                         "readableId": "identical-content"
                       },
@@ -6178,7 +6178,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Record and display media's chain of custody and original source.",
+                        "Definition": "Record and display the chain of custody and original source for media.",
                         "Title": "Media Provenance",
                         "readableId": "provenance"
                       },
@@ -6353,7 +6353,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "For some types of harm, the same data a strong signal of something being off.",
+                        "Definition": "For some features, duplicate data suggests misuse.",
                         "Title": "Label/Detect Identical Content ",
                         "readableId": "identical-content"
                       },
@@ -6655,7 +6655,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Add authoritative content from trusted partners on topics users are subscribed to.",
+                        "Definition": "Add authoritative content from trusted partners on users' subscribed topics.",
                         "Title": "Mix in Authoritative Content",
                         "readableId": "authoritative-content"
                       },
@@ -6703,7 +6703,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Record and display media's chain of custody and original source.",
+                        "Definition": "Record and display the chain of custody and original source for media.",
                         "Title": "Media Provenance",
                         "readableId": "provenance"
                       },
@@ -6814,7 +6814,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Add authoritative content from trusted partners on topics users are subscribed to.",
+                        "Definition": "Add authoritative content from trusted partners on users' subscribed topics.",
                         "Title": "Mix in Authoritative Content",
                         "readableId": "authoritative-content"
                       },
@@ -6838,7 +6838,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Record and display media's chain of custody and original source.",
+                        "Definition": "Record and display the chain of custody and original source for media.",
                         "Title": "Media Provenance",
                         "readableId": "provenance"
                       },
@@ -7140,7 +7140,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "For some types of harm, the same data a strong signal of something being off.",
+                        "Definition": "For some features, duplicate data suggests misuse.",
                         "Title": "Label/Detect Identical Content ",
                         "readableId": "identical-content"
                       },
@@ -7188,7 +7188,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Record and display media's chain of custody and original source.",
+                        "Definition": "Record and display the chain of custody and original source for media.",
                         "Title": "Media Provenance",
                         "readableId": "provenance"
                       },
@@ -7478,7 +7478,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -7936,7 +7936,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "For some types of harm, the same data a strong signal of something being off.",
+                        "Definition": "For some features, duplicate data suggests misuse.",
                         "Title": "Label/Detect Identical Content ",
                         "readableId": "identical-content"
                       },
@@ -8425,7 +8425,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -8943,7 +8943,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -9202,7 +9202,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Slow the spread of vitality by adding friction on repost/re-share functionality.",
+                        "Definition": "Slow the spread of virality by adding friction on repost/re-share functionality.",
                         "Title": "Third repost has to manually enter the content",
                         "readableId": "third-repost"
                       },
@@ -9970,7 +9970,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -10006,7 +10006,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Add authoritative content from trusted partners on topics users are subscribed to.",
+                        "Definition": "Add authoritative content from trusted partners on users' subscribed topics.",
                         "Title": "Mix in Authoritative Content",
                         "readableId": "authoritative-content"
                       },
@@ -10150,7 +10150,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Record and display media's chain of custody and original source.",
+                        "Definition": "Record and display the chain of custody and original source for media.",
                         "Title": "Media Provenance",
                         "readableId": "provenance"
                       },
@@ -10198,7 +10198,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Enable users more clarity around the origin of content by legislating the mandatory, prominent, disclosure.",
+                        "Definition": "Enact legislation for the mandatory prominent disclosure of AI generation.",
                         "Title": "Require Labels on AI Created Content",
                         "readableId": "label-ai-content"
                       },
@@ -10850,7 +10850,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "For some types of harm, the same data a strong signal of something being off.",
+                        "Definition": "For some features, duplicate data suggests misuse.",
                         "Title": "Label/Detect Identical Content ",
                         "readableId": "identical-content"
                       },
@@ -10997,7 +10997,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -11232,7 +11232,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Add authoritative content from trusted partners on topics users are subscribed to.",
+                        "Definition": "Add authoritative content from trusted partners on users' subscribed topics.",
                         "Title": "Mix in Authoritative Content",
                         "readableId": "authoritative-content"
                       },
@@ -11455,7 +11455,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "For some types of harm, the same data a strong signal of something being off.",
+                        "Definition": "For some features, duplicate data suggests misuse.",
                         "Title": "Label/Detect Identical Content ",
                         "readableId": "identical-content"
                       },
@@ -12282,7 +12282,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Record and display media's chain of custody and original source.",
+                        "Definition": "Record and display the chain of custody and original source for media.",
                         "Title": "Media Provenance",
                         "readableId": "provenance"
                       },
@@ -12461,7 +12461,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -12871,7 +12871,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Record and display media's chain of custody and original source.",
+                        "Definition": "Record and display the chain of custody and original source for media.",
                         "Title": "Media Provenance",
                         "readableId": "provenance"
                       },
@@ -13559,7 +13559,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -13619,7 +13619,7 @@
                   "intervention": {
                     "data": {
                       "attributes": {
-                        "Definition": "Enable users more clarity around the origin of content by legislating the mandatory, prominent, disclosure.",
+                        "Definition": "Enact legislation for the mandatory prominent disclosure of AI generation.",
                         "Title": "Require Labels on AI Created Content",
                         "readableId": "label-ai-content"
                       },
@@ -13718,7 +13718,7 @@
             "data": [
               {
                 "attributes": {
-                  "Definition": "Add authoritative content from trusted partners on topics users are subscribed to.",
+                  "Definition": "Add authoritative content from trusted partners on users' subscribed topics.",
                   "Title": "Mix in Authoritative Content",
                   "readableId": "authoritative-content"
                 },
@@ -13771,7 +13771,7 @@
               },
               {
                 "attributes": {
-                  "Definition": "Allow users to chose what they want their feeds to optimize for.",
+                  "Definition": "Allow users to choose what they want their feeds to optimize for.",
                   "Title": "Configurable Feed Optimization Goals",
                   "readableId": "configurable-feed-optimization"
                 },
@@ -13856,7 +13856,7 @@
               },
               {
                 "attributes": {
-                  "Definition": "Slow the spread of vitality by adding friction on repost/re-share functionality.",
+                  "Definition": "Slow the spread of virality by adding friction on repost/re-share functionality.",
                   "Title": "Third repost has to manually enter the content",
                   "readableId": "third-repost"
                 },
@@ -13864,7 +13864,7 @@
               },
               {
                 "attributes": {
-                  "Definition": "Require one user to specify multiple pieces of information about anothother user to send them a payment.",
+                  "Definition": "Require one user to specify multiple pieces of information about another user to send them a payment.",
                   "Title": "Two-Factor Payment Identification",
                   "readableId": "two-factor-payment-id"
                 },
@@ -13909,7 +13909,7 @@
               },
               {
                 "attributes": {
-                  "Definition": "Only allow a user to initiate new conversations with users that they have an established connection with.",
+                  "Definition": "Only allow friction-less initiation of a conversation between established connections.",
                   "Title": "Must Request to Message",
                   "readableId": "request-to-message"
                 },
@@ -14116,7 +14116,7 @@
               },
               {
                 "attributes": {
-                  "Definition": "Slow the spread of vitality by adding friction on repost/re-share functionality.",
+                  "Definition": "Slow the spread of virality by adding friction on repost/re-share functionality.",
                   "Title": "Third repost has to manually enter the content",
                   "readableId": "third-repost"
                 },
@@ -14270,7 +14270,7 @@
               },
               {
                 "attributes": {
-                  "Definition": "Enable users more clarity around the origin of content by legislating the mandatory, prominent, disclosure.",
+                  "Definition": "Enact legislation for the mandatory prominent disclosure of AI generation.",
                   "Title": "Require Labels on AI Created Content",
                   "readableId": "label-ai-content"
                 },
@@ -14323,7 +14323,7 @@
               },
               {
                 "attributes": {
-                  "Definition": "For some types of harm, the same data a strong signal of something being off.",
+                  "Definition": "For some features, duplicate data suggests misuse.",
                   "Title": "Label/Detect Identical Content ",
                   "readableId": "identical-content"
                 },
@@ -14385,7 +14385,7 @@
             "data": [
               {
                 "attributes": {
-                  "Definition": "Record and display media's chain of custody and original source.",
+                  "Definition": "Record and display the chain of custody and original source for media.",
                   "Title": "Media Provenance",
                   "readableId": "provenance"
                 },
@@ -14409,7 +14409,7 @@
               },
               {
                 "attributes": {
-                  "Definition": "For some types of harm, the same data a strong signal of something being off.",
+                  "Definition": "For some features, duplicate data suggests misuse.",
                   "Title": "Label/Detect Identical Content ",
                   "readableId": "identical-content"
                 },
@@ -14456,7 +14456,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -14599,7 +14599,7 @@
         "attributes": {
           "CanBeRegulated": false,
           "Definition": "Set the tone for the conversation by choosing the order in which voices are heard.",
-          "Description": "{\"time\":1699212913452,\"blocks\":[{\"id\":\"dRZoGcTaGC\",\"type\":\"paragraph\",\"data\":{\"text\":\"While no form of comment ordering is \\\"right\\\", each form will optimize for certain behaviors, and against others. Platforms that are trying to build for a specific use case, or engender particular user norms, are well served by considering which methodology best suits their goals.\"}},{\"id\":\"F5J4qtB34n\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<b>Likes Descending</b> encourages response to the primary content over discussion within the comments. It will encourage dunking, but make for some entertaining content.\",\"<b>Chronological</b>&nbsp;encourages users to post their reactions quickly, and allows the fastest voices to have an outsized impact, both on the perception of the original content, but also on the tenor of the contents that follow.\",\"<b>Reverse Chronological</b>&nbsp;highlights newer perspectives and ideas, rotating them in as new ones occur. This would encourage people to post multiple times, and minimize the attention any one comment or commenter could get.\",\"<b>Number of Sub-comments</b>&nbsp;in a nested comment system can be a way of guaging where the discourse (good and bad) is at. This prioritizes discussion, but also encourages outrage bait.\",\"<b>Randomized</b>&nbsp;would be another way of doing comments that seems to be highly neutral. However, users might be encouraged in this model to post more often, so as to have a higher probability of being toward the top of a comment section.\",\"<b>Least Controversial While Positive</b>&nbsp;is possible in capture signals of positive and negative sentiment (when reaction is split, that's controversy). This is the option I've heard proposed that I like the most, but even it has flaws.\",\"<b>Offering users choice</b>&nbsp;over comment ordering algorithms could add another layer on top of this issue.\"]}},{\"id\":\"l5xrdEDpz9\",\"type\":\"paragraph\",\"data\":{\"text\":\"These are just a few ideas - there are a thousand other ways that comments could be implemented, and each carries with it these kind of tradeoffs. In software design there aren't right or wrong answers, just a lot of ways to trade off between competing aims.\"}}],\"version\":\"2.23.2\"}",
+          "Description": "{\"time\":1702593101706,\"blocks\":[{\"id\":\"dRZoGcTaGC\",\"type\":\"paragraph\",\"data\":{\"text\":\"While no form of comment ordering is \\\"right\\\", each form will optimize for certain behaviors, and against others. Platforms that are trying to build for a specific use case, or engender particular user norms, are well served by considering which methodology best suits their goals.\"}},{\"id\":\"F5J4qtB34n\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<b>Likes Descending</b> encourages response to the primary content over discussion within the comments. It will encourage dunking, but make for some entertaining content.\",\"<b>Chronological</b>&nbsp;encourages users to post their reactions quickly, and allows the fastest voices to have an outsized impact, both on the perception of the original content, but also on the tenor of the contents that follow.\",\"<b>Reverse Chronological</b>&nbsp;highlights newer perspectives and ideas, rotating them in as new ones occur. This would encourage people to post multiple times, and minimize the attention any one comment or commenter could get.\",\"<b>Number of Sub-comments</b>&nbsp;in a nested comment system can be a way of gauging where the discourse (good and bad) is at. This prioritizes discussion, but also encourages outrage bait.\",\"<b>Randomized</b>&nbsp;would be another way of doing comments that seems to be highly neutral. However, users might be encouraged in this model to post more often, so as to have a higher probability of being toward the top of a comment section.\",\"<b>Least Controversial While Positive</b>&nbsp;is possible in capture signals of positive and negative sentiment (when reaction is split, that's controversy). This is the option I've heard proposed that I like the most, but even it has flaws.\",\"<b>Offering users choice</b>&nbsp;over comment ordering algorithms could add another layer on top of this issue.\"]}},{\"id\":\"l5xrdEDpz9\",\"type\":\"paragraph\",\"data\":{\"text\":\"These are just a few ideas - there are a thousand other ways that comments could be implemented, and each carries with it these kind of tradeoffs. In software design there aren't right or wrong answers, just a lot of ways to trade off between competing aims.\"}}],\"version\":\"2.23.2\"}",
           "EaseOfImplementation": "Challenging",
           "GenerallyAdvisable": true,
           "Reversible": true,
@@ -14626,7 +14626,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -14721,7 +14721,7 @@
         "attributes": {
           "CanBeRegulated": false,
           "Definition": "Restricting the volume of comments people can post will make folks think twice about their actions.",
-          "Description": "{\"time\":1698267564845,\"blocks\":[{\"id\":\"tALO0yrBMQ\",\"type\":\"paragraph\",\"data\":{\"text\":\"A vanishingly small number of users generate the overwhelming majority of negative online comments. For that reason alone, platforms should place a variety of bounds on the volume of comments that individual users can generate, and could do so along a variety of overlapping and intersecting dimensions. These limitations could be absurdly high and still have significant positive impact, because the users at the 99th percentile of comment volume are consuming dramatically more than 1% of the communicative space. Some examples:\"}},{\"id\":\"WuC7qdeyoP\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Limit the number of comments a user can post in an day to 100.\",\"Limit the number of comments a user can post in an hour to 10.\",\"Limit the number of comments a user can post on content posted by a user that doesn't follow them (a limit paired with an <a href=\\\"/intervention-category/affinity\\\">Affinity</a> strategy)\"]}},{\"id\":\"6xXqktaTv0\",\"type\":\"paragraph\",\"data\":{\"text\":\"These limits are just a few potential ways of framing this approach, and they aren't exclusive. The best approach here would be a set of overlapping restrictions, each constraining unexpected user along their specific timescale or dimension, adding up to a robust guardrail for expected user behavior over time.\"}},{\"id\":\"QgGvTH1wpS\",\"type\":\"paragraph\",\"data\":{\"text\":\"These kinds of approaches (i.e. <a href=\\\"/intervention-category/limits\\\">Limits</a>) work because limits are concrete expressions of a platform's norms. It is very likely that users at the tail ends of a distribution (like the number of comments in a day) are behaving in ways that are antithetical to the norms of how the platform (and other users) expect them to behave.\"}}],\"version\":\"2.23.2\"}",
+          "Description": "{\"time\":1702593302420,\"blocks\":[{\"id\":\"tALO0yrBMQ\",\"type\":\"paragraph\",\"data\":{\"text\":\"A vanishingly small number of users generate the overwhelming majority of negative online comments. For that reason alone, platforms should place a variety of bounds on the volume of comments that individual users can generate, and could do so along a variety of overlapping and intersecting dimensions. These limitations could be absurdly high and still have significant positive impact, because the users at the 99th percentile of comment volume are consuming dramatically more than 1% of the communicative space. Some examples:\"}},{\"id\":\"WuC7qdeyoP\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Limit the number of comments a user can post in an day to 100.\",\"Limit the number of comments a user can post in an hour to 10.\",\"Limit the number of comments a user can post on content posted by a user that doesn't follow them (a limit paired with an <a href=\\\"/intervention-category/affinity\\\">Affinity</a> strategy)\"]}},{\"id\":\"6xXqktaTv0\",\"type\":\"paragraph\",\"data\":{\"text\":\"These limits are just a few potential ways of framing this approach, and they aren't exclusive. The best approach here would be a set of overlapping restrictions, each restriction constraining different modalities of negative interactions, adding up to robust guardrails for expected user behavior over time.\"}},{\"id\":\"QgGvTH1wpS\",\"type\":\"paragraph\",\"data\":{\"text\":\"These kinds of approaches (i.e. <a href=\\\"/intervention-category/limits\\\">Limits</a>) work because limits are concrete expressions of a platform's norms. It is very likely that users at the tail ends of a distribution (like the number of comments in a day) are behaving in ways that are antithetical to the norms of how the platform (and other users) expect them to behave.\"}}],\"version\":\"2.23.2\"}",
           "EaseOfImplementation": "Straightforward",
           "GenerallyAdvisable": true,
           "Reversible": true,
@@ -14748,7 +14748,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -14867,7 +14867,7 @@
         "attributes": {
           "CanBeRegulated": true,
           "Definition": "Require a history of interaction between users before they're allowed to interact in comments.",
-          "Description": "{\"time\":1699661487986,\"blocks\":[{\"id\":\"YRv_dmoQHF\",\"type\":\"paragraph\",\"data\":{\"text\":\"Comments are the site of abuses including <a href=\\\"/harm/harassment\\\">harassment</a>, <a href=\\\"/harm/discrimination\\\">discrimination</a>, and&nbsp;<a href=\\\"/harm/doxxing\\\">doxxing</a>, where the victim is the author of the primary content, and the abusive user typically has no prior relationship to the victim.\"}},{\"id\":\"HQfzn-GYwd\",\"type\":\"paragraph\",\"data\":{\"text\":\"This pattern can be avoided by creating measures of interpersonal <a href=\\\"/intervention-category/affinity\\\">affinity</a>&nbsp;and using that to gate access to the ability to leave comments: only a user with some level of affinity to the author of a post would be allowed to comment on the post.\"}},{\"id\":\"Sj0tNKP_GA\",\"type\":\"paragraph\",\"data\":{\"text\":\"This could be made more effective by putting this power in users' hands, offering them the ability to control comments on their posts at a granular, and per post, level. An example set of controls could allow commenters to be (a) anyone online (b) logged in users (c) two degrees of affinity (d) direct affinity, or (e) only specific people.\"}},{\"id\":\"FVjk2GiDum\",\"type\":\"paragraph\",\"data\":{\"text\":\"Putting power in users' hands tends to be a winning strategy for harms where they're directly effected by the harm when it occurs, as these forms of comment-abuse do.\"}}],\"version\":\"2.23.2\"}",
+          "Description": "{\"time\":1702593524859,\"blocks\":[{\"id\":\"YRv_dmoQHF\",\"type\":\"paragraph\",\"data\":{\"text\":\"Comments are the site of abuses including <a href=\\\"/harm/harassment\\\">harassment</a>, <a href=\\\"/harm/discrimination\\\">discrimination</a>, and&nbsp;<a href=\\\"/harm/doxxing\\\">doxxing</a>, where the victim is the author of the primary content, and the abusive user typically has no prior relationship to the victim.\"}},{\"id\":\"HQfzn-GYwd\",\"type\":\"paragraph\",\"data\":{\"text\":\"This pattern can be avoided by creating measures of interpersonal <a href=\\\"/intervention-category/affinity\\\">affinity</a>&nbsp;and using that to gate access to the ability to leave comments: only a user with some level of affinity to the author of a post would be allowed to comment on the post.\"}},{\"id\":\"Sj0tNKP_GA\",\"type\":\"paragraph\",\"data\":{\"text\":\"This could be made more effective by putting this power in users' hands, offering them the ability to control comments on their posts at a granular, and per post, level. An example set of controls could allow commenters to be (a) anyone online (b) logged in users (c) friends of friends (d) only friends, or (e) only specific people. Though this example relies on \\\"friend\\\" mechanics as a metric of affinity, a wide array of affinity metrics can fulfill this role, including shared interests or duration of interaction.\"}},{\"id\":\"FVjk2GiDum\",\"type\":\"paragraph\",\"data\":{\"text\":\"Putting power in users' hands tends to be a winning strategy for harms where they're directly effected by the harm when it occurs, as these forms of comment-abuse do.\"}}],\"version\":\"2.23.2\"}",
           "EaseOfImplementation": "Straightforward",
           "GenerallyAdvisable": true,
           "Reversible": true,
@@ -14894,7 +14894,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -15016,7 +15016,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -15138,7 +15138,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -15220,7 +15220,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -15342,7 +15342,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -15464,7 +15464,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -15586,7 +15586,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -15797,7 +15797,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -15943,7 +15943,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -16065,7 +16065,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -16082,7 +16082,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -16180,7 +16180,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -16224,12 +16224,12 @@
             "data": [
               {
                 "attributes": {
-                  "ImplementationDifficulty": "High",
+                  "ImplementationDifficulty": "Medium",
                   "RelationshipDescription": null,
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -16251,7 +16251,7 @@
         "attributes": {
           "CanBeRegulated": true,
           "Definition": "Allow users to set hard cutoffs on platform use.",
-          "Description": "{\"time\":1698738662949,\"blocks\":[{\"id\":\"QiRSOayOY4\",\"type\":\"header\",\"data\":{\"text\":\"Something is wrong\",\"level\":2}},{\"id\":\"WULvuWBtRG\",\"type\":\"paragraph\",\"data\":{\"text\":\"The loudest signal that tells me that something is broken in social media is the number of acquaintances, friends, and family, that have expressed this thought: \\\"I spend too much time on social media, and I am troubled by how little control I have over it.\\\"\"}},{\"id\":\"PZFBg8pviJ\",\"type\":\"paragraph\",\"data\":{\"text\":\"That this sentiment is common tells us that it is time that we start to think about how we can build systems that better enable users to regain a sense of control in their relationship with social media (or digital platforms writ-large, including gaming, shopping, streaming, etc). Empowering users needs to center around that all-too-common concern: time.\"}},{\"id\":\"3px4E-F31t\",\"type\":\"header\",\"data\":{\"text\":\"Half way there\",\"level\":2}},{\"id\":\"OMWt-T8oQd\",\"type\":\"paragraph\",\"data\":{\"text\":\"This problem has been partially answered by existing systems. A number of applications and operating systems now have features that remind users about the amount of time they spend on platform, and some have even offered \\\"speed-bump\\\" type features that interrupt the user after a user-defined timer has run out. \"}},{\"id\":\"FIbVwyVsPE\",\"type\":\"paragraph\",\"data\":{\"text\":\"This is only half of the puzzle, however, because the efficacy of this kind of \\\"report and interrupt\\\" strategy relies on the user to be able to overcome the urge to dismiss it, or make the few taps to subvert or change the rule itself. Interruptions and timers attempt to engage our brains in long-term, planning type thinking, at a time when the problem is the state of mind that the platform induces: a more short-term, reward based thinking. The fact that timers and reminders are ineffective is one of the reasons that attention-hungry platforms have been willing to build them into their apps.\"}},{\"id\":\"9tkedGp0LV\",\"type\":\"header\",\"data\":{\"text\":\"Allow users to set predefined limits\",\"level\":2}},{\"id\":\"4TwkxEgDST\",\"type\":\"paragraph\",\"data\":{\"text\":\"What we need instead is the capacity for individuals to set hard activity and app timers, which would prevent the user from any further use of the application until the time renewed/cooled off. You could imagine these being built in a number of ways:\"}},{\"id\":\"ymDGK5NDLP\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"An app could allow a user to set a total time limit for the day or week, and stop working in any way after that time.\",\"An app could allow a user to set a access time and cooldown time, such that the user can access the app for the access time, and then cannot access it until the cooldown time has elapsed.<br>\",\"An app could allow users to set time-of-day restrictions on their usage, preventing use in the time before bed, for example.<br>\",\"An app could allow a user to set any of the above types of limits for specific functionality within an app - for example, allowing them to continue to interact with messaging features while setting hard timers on recommended content feeds.\",\"An operating system could enable these features cross-app, expanding their reach and efficacy.\"]}},{\"id\":\"c6jY19ihq9\",\"type\":\"paragraph\",\"data\":{\"text\":\"Any one of these changes would be a step-change from today's capabilities, where many users turn to third-party apps that are only mostly effective in performing this kind of self-limitation.\"}},{\"id\":\"5pVfFdYRGo\",\"type\":\"header\",\"data\":{\"text\":\"An analogy\",\"level\":2}},{\"id\":\"m3fJRpUaqX\",\"type\":\"paragraph\",\"data\":{\"text\":\"Casinos are designed for addiction - the thrill of chance, the rush of winning, and every element of casino design are engineered to tickle the brain of the casino-goer into spending more time (and losing more money) in the place. Knowing this, one might suggest that people ought exercise willpower, and  never enter this space, since it is designed for addiction.\"}},{\"id\":\"1IhBiafZuL\",\"type\":\"paragraph\",\"data\":{\"text\":\"That advice isn't particularly useful for people who want to experience some of the pleasures of gambling, but avoid the slippery downfall. Instead, the typical advice is to select an amount of money that the gambler would feel OK about losing, and only bring that amount of money to the casino, in cash - leaving the debit/credit cards at home.\"}},{\"id\":\"8dlF15IRAc\",\"type\":\"paragraph\",\"data\":{\"text\":\"A pre-defined, strictly enforced time limit is the equivalent of this feature - setting a limitation while you're not under the influence of the addictive space, and in doing so, enabling yourself to enjoy the addictive space within the freedom of restriction. \"}},{\"id\":\"N9m9RLq7xx\",\"type\":\"header\",\"data\":{\"text\":\"A fantastic target for regulation\",\"level\":2}},{\"id\":\"a2GGLyP7sK\",\"type\":\"paragraph\",\"data\":{\"text\":\"I find this to be a compelling target for regulation because&nbsp;\"}},{\"id\":\"rqq4KNxUvD\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"It is straightforward to define in legally precise terms\",\"It vests control with the end user\",\"It ameliorates the user concern about a lack of control without demanding abstinence.\",\"It is content and platform agnostic - these kinds of restrictions would be easy to build + standardize across products.\"]}}],\"version\":\"2.23.2\"}",
+          "Description": "{\"time\":1702593192908,\"blocks\":[{\"id\":\"QiRSOayOY4\",\"type\":\"header\",\"data\":{\"text\":\"Something is wrong\",\"level\":2}},{\"id\":\"WULvuWBtRG\",\"type\":\"paragraph\",\"data\":{\"text\":\"The loudest signal that tells me that something is broken in social media is the number of acquaintances, friends, and family, that have expressed this thought: \\\"I spend too much time on social media, and I am troubled by how little control I have over it.\\\"\"}},{\"id\":\"PZFBg8pviJ\",\"type\":\"paragraph\",\"data\":{\"text\":\"That this sentiment is common tells us that it is time that we start to think about how we can build systems that better enable users to regain a sense of control in their relationship with social media (or digital platforms writ-large, including gaming, shopping, streaming, etc). Empowering users needs to center around that all-too-common concern: time.\"}},{\"id\":\"3px4E-F31t\",\"type\":\"header\",\"data\":{\"text\":\"Half way there\",\"level\":2}},{\"id\":\"OMWt-T8oQd\",\"type\":\"paragraph\",\"data\":{\"text\":\"This problem has been partially answered by existing systems. A number of applications and operating systems now have features that remind users about the amount of time they spend on platform, and some have even offered \\\"speed-bump\\\" type features that interrupt the user after a user-defined timer has run out. \"}},{\"id\":\"FIbVwyVsPE\",\"type\":\"paragraph\",\"data\":{\"text\":\"This is only half of the puzzle, however, because the efficacy of this kind of \\\"report and interrupt\\\" strategy relies on the user to be able to overcome the urge to dismiss it, or make the few taps to subvert or change the rule itself. Interruptions and timers attempt to engage our brains in long-term, planning type thinking, at a time when the problem is the state of mind that the platform induces: a more short-term, reward based thinking. The fact that timers and reminders are ineffective is one of the reasons that attention-hungry platforms have been willing to build them into their apps.\"}},{\"id\":\"9tkedGp0LV\",\"type\":\"header\",\"data\":{\"text\":\"Allow users to set predefined limits\",\"level\":2}},{\"id\":\"4TwkxEgDST\",\"type\":\"paragraph\",\"data\":{\"text\":\"What we need instead is the capacity for individuals to set hard activity and app timers, which would prevent the user from any further use of the application until the time renewed/cooled off. You could imagine these being built in a number of ways:\"}},{\"id\":\"ymDGK5NDLP\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"An app could allow a user to set a total time limit for the day or week, and stop working in any way after that time.\",\"An app could allow a user to set a access time and cooldown time, such that the user can access the app for the access time, and then cannot access it until the cooldown time has elapsed.<br>\",\"An app could allow users to set time-of-day restrictions on their usage, preventing use in the time before bed, for example.<br>\",\"An app could allow a user to set any of the above types of limits for specific functionality within an app - for example, allowing them to continue to interact with messaging features while setting hard timers on recommended content feeds.\",\"An operating system could enable these features cross-app, expanding their reach and efficacy.\"]}},{\"id\":\"c6jY19ihq9\",\"type\":\"paragraph\",\"data\":{\"text\":\"Any one of these changes would be a dramatic improvement over today's capabilities, where many users turn to third-party apps that are only partially effective in performing this kind of self-limitation.\"}},{\"id\":\"5pVfFdYRGo\",\"type\":\"header\",\"data\":{\"text\":\"An analogy\",\"level\":2}},{\"id\":\"m3fJRpUaqX\",\"type\":\"paragraph\",\"data\":{\"text\":\"Casinos are designed for addiction - the thrill of chance, the rush of winning, and every element of casino design is engineered to tickle the brain of the casino-goer into spending more time (and losing more money) in the place. Since it is designed to promote addiction, one might suggest that those with proclivity to addiction avoid casinos altogether.\"}},{\"id\":\"1IhBiafZuL\",\"type\":\"paragraph\",\"data\":{\"text\":\"That advice isn't particularly useful for people who want to experience some of the pleasures of gambling, but avoid the slippery downfall. Instead, the typical advice is to select an amount of money that the gambler would feel OK about losing, and only bring that amount of money to the casino, in cash - leaving the debit/credit cards at home.\"}},{\"id\":\"8dlF15IRAc\",\"type\":\"paragraph\",\"data\":{\"text\":\"A pre-defined, strictly enforced time limit is the equivalent of this feature - setting a limitation while you're not under the influence of the addictive space, and in doing so, enabling yourself to enjoy the addictive space within the freedom of restriction. \"}},{\"id\":\"N9m9RLq7xx\",\"type\":\"header\",\"data\":{\"text\":\"A fantastic target for regulation\",\"level\":2}},{\"id\":\"a2GGLyP7sK\",\"type\":\"paragraph\",\"data\":{\"text\":\"I find this to be a compelling target for regulation because&nbsp;\"}},{\"id\":\"rqq4KNxUvD\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"It is straightforward to define in legally precise terms\",\"It vests control with the end user\",\"It ameliorates the user concern about a lack of control without demanding abstinence.\",\"It is content and platform agnostic - these kinds of restrictions would be easy to build + standardize across products.\"]}}],\"version\":\"2.23.2\"}",
           "EaseOfImplementation": "Straightforward",
           "GenerallyAdvisable": true,
           "Reversible": true,
@@ -16286,7 +16286,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -16373,7 +16373,7 @@
       {
         "attributes": {
           "CanBeRegulated": false,
-          "Definition": "Add authoritative content from trusted partners on topics users are subscribed to.",
+          "Definition": "Add authoritative content from trusted partners on users' subscribed topics.",
           "Description": null,
           "EaseOfImplementation": "VeryHard",
           "GenerallyAdvisable": true,
@@ -16401,7 +16401,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -16561,7 +16561,7 @@
         "attributes": {
           "CanBeRegulated": false,
           "Definition": "Make Following a two-sided operation, so that celebs have implicit limits on the ability of fans to follow them.",
-          "Description": "{\"time\":1699661641487,\"blocks\":[{\"id\":\"DcV7MlUteV\",\"type\":\"paragraph\",\"data\":{\"text\":\"Just like in <a href=\\\"/intervention/all-subscriptions-reciprocal\\\">only reciprocal subscriptions</a>, the structure of subscriptions imposes implicit limitations on their usage. Imposing limitations on the capacity of subscriptions to grow can limit influencer-type dynamics, encouraging users to share and spread ideas, without encouraging the winner-take-all, attention-above-everything dynamics that emerge when orders of magnitude distinguish the reach and influence of some users over others.\"}},{\"id\":\"1zeP6NYZNL\",\"type\":\"paragraph\",\"data\":{\"text\":\"One idea long this dimension is to require that people \\\"accept\\\" follow requests. This wouldn't quite be all-subscriptions-reciprocal, since it would still allow for unidirectional subscriptions. However, even forcing a user to tap an \\\"accept\\\" button over and over would seriously pose a limit on their capacity to grow their following. The most dedicated influencers might accept 1000 or even 10,000 \\\"follow requests\\\" from potential followers. But it's hard to imagine users ever overcoming this friction to expand into the echelons of reach that social media influencers enjoy and utilize in today's winner-take-all attention economy.\"}}],\"version\":\"2.23.2\"}",
+          "Description": "{\"time\":1702593215451,\"blocks\":[{\"id\":\"DcV7MlUteV\",\"type\":\"paragraph\",\"data\":{\"text\":\"Just like in <a href=\\\"/intervention/all-subscriptions-reciprocal\\\">only reciprocal subscriptions</a>, the structure of subscriptions imposes implicit limitations on their usage. Imposing limitations on the capacity of subscriptions to grow can limit influencer-type dynamics, encouraging users to share and spread ideas, without encouraging the winner-take-all, attention-above-everything dynamics that emerge when orders of magnitude distinguish the reach and influence of some users over others.\"}},{\"id\":\"1zeP6NYZNL\",\"type\":\"paragraph\",\"data\":{\"text\":\"One idea in this vein is to require that people \\\"accept\\\" follow requests. This wouldn't quite be all-subscriptions-reciprocal, since it would still allow for unidirectional subscriptions. However, even forcing a user to tap an \\\"accept\\\" button over and over would seriously pose a limit on their capacity to grow their following. The most dedicated influencers might accept 1000 or even 10,000 \\\"follow requests\\\" from potential followers. But it's hard to imagine users ever overcoming this friction to expand into the echelons of reach that social media influencers enjoy and utilize in today's winner-take-all attention economy.\"}}],\"version\":\"2.23.2\"}",
           "EaseOfImplementation": "Straightforward",
           "GenerallyAdvisable": true,
           "Reversible": false,
@@ -16588,7 +16588,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -16707,7 +16707,7 @@
       {
         "attributes": {
           "CanBeRegulated": true,
-          "Definition": "Allow users to chose what they want their feeds to optimize for.",
+          "Definition": "Allow users to choose what they want their feeds to optimize for.",
           "Description": null,
           "EaseOfImplementation": "VeryHard",
           "GenerallyAdvisable": true,
@@ -17617,8 +17617,8 @@
       {
         "attributes": {
           "CanBeRegulated": false,
-          "Definition": "Only allow a user to initiate new conversations with users that they have an established connection with.",
-          "Description": "{\"time\":1698269360944,\"blocks\":[{\"id\":\"QetPhRdPx0\",\"type\":\"paragraph\",\"data\":{\"text\":\"It turns out allowing anyone on the internet to message anyone else on the internet can lead to unintended negative consequences. Who would have guessed?!\"}},{\"id\":\"RKEXsiwdbi\",\"type\":\"paragraph\",\"data\":{\"text\":\"To cope with this, many platforms have leaned into a category of interventions roughly described as \\\"consent for messages from unknown senders\\\" - a type of&nbsp;that segregates messages into a construct like a spam folder based on their implicit likelihood of being desired by the user, using affinity&nbsp;checks, user reputation, and other platform specific signals to inform message routing.\"}},{\"id\":\"88fI9yOazP\",\"type\":\"paragraph\",\"data\":{\"text\":\"At the extreme end, platforms can opt to only allow connected users to message one another - LinkedIn does something like this today, though you can bypass this protection by paying for premium access.\"}},{\"id\":\"emjKCIG2yL\",\"type\":\"paragraph\",\"data\":{\"text\":\"This approach can only be employed in contexts where direct messages between strangers isn't explicitly part of the platform's mission. Omegle should not try this approach. Even so, in perhaps the most open-world platform out there, email clients have found this approach workable (spam folder) when used in combination with other heuristics for identifying the likelihood that a user wants to receive a given message.\"}}],\"version\":\"2.23.2\"}",
+          "Definition": "Only allow friction-less initiation of a conversation between established connections.",
+          "Description": "{\"time\":1702591359795,\"blocks\":[{\"id\":\"QetPhRdPx0\",\"type\":\"paragraph\",\"data\":{\"text\":\"It turns out allowing anyone on the internet to message anyone else on the internet can lead to unintended negative consequences. Who would have guessed?!\"}},{\"id\":\"RKEXsiwdbi\",\"type\":\"paragraph\",\"data\":{\"text\":\"To cope with this, many platforms have leaned into a category of interventions roughly described as \\\"consent for messages from unknown senders\\\" - a type of intervention that segregates messages into a construct like a spam folder based on their implicit likelihood of being desired by the user, using affinity&nbsp;checks, user reputation, and other platform specific signals to inform message routing.\"}},{\"id\":\"88fI9yOazP\",\"type\":\"paragraph\",\"data\":{\"text\":\"At the extreme end, platforms can opt to only allow connected users to message one another - LinkedIn does something like this today, though you can bypass this protection by paying for premium access.\"}},{\"id\":\"emjKCIG2yL\",\"type\":\"paragraph\",\"data\":{\"text\":\"This approach can only be employed in contexts where direct messages between strangers isn't explicitly part of the platform's mission. Omegle could not use an approach like this one. Even so, in perhaps the most open-world platform out there, email clients have found this approach workable (by implementing a spam folder) when used in combination with other heuristics for identifying the likelihood that a user wants to receive a given message.\"}}],\"version\":\"2.23.2\"}",
           "EaseOfImplementation": "Straightforward",
           "GenerallyAdvisable": true,
           "Reversible": true,
@@ -17763,7 +17763,7 @@
       {
         "attributes": {
           "CanBeRegulated": false,
-          "Definition": "Slow the spread of vitality by adding friction on repost/re-share functionality.",
+          "Definition": "Slow the spread of virality by adding friction on repost/re-share functionality.",
           "Description": "{\"time\":1699722468091,\"blocks\":[{\"id\":\"O01I-FlUBu\",\"type\":\"paragraph\",\"data\":{\"text\":\"This is a Frances Haugen suggestion.\"}}],\"version\":\"2.23.2\"}",
           "EaseOfImplementation": "Straightforward",
           "GenerallyAdvisable": false,
@@ -17816,7 +17816,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -19054,7 +19054,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -19370,7 +19370,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -19844,7 +19844,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -19914,7 +19914,7 @@
       {
         "attributes": {
           "CanBeRegulated": false,
-          "Definition": "Require one user to specify multiple pieces of information about anothother user to send them a payment.",
+          "Definition": "Require one user to specify multiple pieces of information about another user to send them a payment.",
           "Description": "{\"time\":1699661551249,\"blocks\":[{\"id\":\"rUTlU3cn3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"Digital payments between users without <a href=\\\"/intervention-category/affinity\\\">affinity</a> presents a problem for platforms. While in many cases this is innocuous, just two new folks exchanging goods or services, it is also a common signal of a <a href=\\\"/harm/scams\\\">scam</a>,&nbsp;<a href=\\\"/harm/impersonation\\\">impersonation</a>, or just a user mistyping the handle of another user.\"}},{\"id\":\"l8hEQVNXhu\",\"type\":\"paragraph\",\"data\":{\"text\":\"To help guard against this, payment platforms can (and often have) implemented \\\"two-factor identification - requiring users to specify two kinds of information about the person they're sending the money to. In cases of impersonation, this can help them realize that they're being duped. In cases of error, it can prevent them from sending money to the wrong person. In cases of scams, it can give the user a second to consider how well they know the person they're sending the money to (\\\"should I be sending $500 to someone who I don't know their phone number?\\\").\"}}],\"version\":\"2.23.2\"}",
           "EaseOfImplementation": "Challenging",
           "GenerallyAdvisable": true,
@@ -20079,7 +20079,7 @@
       {
         "attributes": {
           "CanBeRegulated": false,
-          "Definition": "For some types of harm, the same data a strong signal of something being off.",
+          "Definition": "For some features, duplicate data suggests misuse.",
           "Description": "{\"time\":1699721165230,\"blocks\":[{\"id\":\"IxIkDAaZpB\",\"type\":\"paragraph\",\"data\":{\"text\":\"Some platform features (\\\"original features\\\") are solely intended to facilitate collaboration, communication, or sharing original work. The spontaneous, unrelated creation of duplicate files, messages, or images in an original space is extremely improbable when the media is large enough (&gt;1KB). This means that duplicates can be a leading signal of abuse, since it indicates that users are utilizing the features for purposes other than original creations. \"}},{\"id\":\"qypc7L_Cgx\",\"type\":\"paragraph\",\"data\":{\"text\":\"Some platforms have even gone so far as to prevent the creation of duplicate images or videos, to encourage engagement with the original work on the platform. That approach is probably not suitable for most platforms as a rule, but the approach is likely suitable for most as a leading signal of abuse and a jumping off point for further investigation. Additionally, abuse determinations about whether content violates policy can easily be applied to duplicates, preventing the need for constant reporting, rediscovery, or reclassification of harmful content.\"}},{\"id\":\"kMbkxl_ep_\",\"type\":\"paragraph\",\"data\":{\"text\":\"Duplicates can also be tied into strategies for <a href=\\\"/intervention/provenance\\\">provenance</a>. In original features, it is typically useful for users to know that the content that they are viewing is non-original. Therefore, adding a button indicating non-original content (and linking to its source) would be helpful for users to gain some context about the content by ascertaining its origin.\"}},{\"id\":\"GioB8aAiGD\",\"type\":\"paragraph\",\"data\":{\"text\":\"While exact, byte-for-byte duplicate detection systems are trivially easy to circumvent, a wide array of literature and software exists to do duplicate detection today, particularly in the domain of <a href=\\\"/harm/copyright\\\">copyright enforcement</a> and <a href=\\\"/harm/csam\\\">CSAM</a>. Re-purposing these techniques to deliver features for user insight is a straightforward extension.\"}}],\"version\":\"2.23.2\"}",
           "EaseOfImplementation": "Straightforward",
           "GenerallyAdvisable": false,
@@ -20115,7 +20115,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -20391,7 +20391,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -20694,7 +20694,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -21020,7 +21020,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -21679,7 +21679,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Expressions of response to either some primary content, or other comments.",
+                        "Definition": "Responses to primary content, or other comments.",
                         "Title": "Comments",
                         "readableId": "comments"
                       },
@@ -21749,7 +21749,7 @@
       {
         "attributes": {
           "CanBeRegulated": true,
-          "Definition": "Record and display media's chain of custody and original source.",
+          "Definition": "Record and display the chain of custody and original source for media.",
           "Description": "{\"time\":1699661178924,\"blocks\":[{\"id\":\"vd8zQpJR1z\",\"type\":\"paragraph\",\"data\":{\"text\":\"Knowing where media came from is often more important than knowing what the media contains:\"}},{\"id\":\"Xd5M-g9BS1\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"In cases like <a href=\\\"/harm/deep-fakes\\\">Deep Fakes and Manipulated Media</a>, one of the best signals we have for veracity is the source of media, and where it showed up first. The credibility/plausibility of the initial poster having access to the media is a fabulous analogy for the plausibility of the media itself.\",\"In cases like <a href=\\\"/harm/csam\\\">Child Sexual Abuse Material</a>&nbsp;or <a href=\\\"/harm/election-misinfo\\\">Election Misinformation</a>, knowing the original poster of the content can help authorities track the content back to its source.&nbsp;In the case of the former, that can often lead to the rescue children from sexual abuse, in the case of the latter it can lead to the prosecution of people who try to disenfranchise at scale.\",\"In cases like <a href=\\\"/harm/health-misinfo\\\">Health Misinformation</a>, giving users easy access to provenance information can help users understand where the information is coming from, and assist them track down sources to try to understand their authenticity.\"]}},{\"id\":\"CH62orC0n8\",\"type\":\"paragraph\",\"data\":{\"text\":\"Platforms can make each of these outcomes more likely by retaining records along the line of a \\\"chain of custody\\\" - how did user X end up sharing/posting/sending message Y. This is particularly important in situations where re-shares, screenshots, and other forms of reposting can easily obscure the original author of content. Similarly, platforms could create reverse-content-search tools to empower users to find the first post in which a piece of media appears. \"}},{\"id\":\"nlVenbdBS2\",\"type\":\"paragraph\",\"data\":{\"text\":\"When platforms offer tools to enable the investigation of provenance, they're empowering users to better discern between truth and fiction, and giving authorities the capacity to assign blame for illegal content, ultimately enabling less harm to occur through their platform.\"}}],\"version\":\"2.23.2\"}",
           "EaseOfImplementation": "Hard",
           "GenerallyAdvisable": true,
@@ -22879,7 +22879,7 @@
       {
         "attributes": {
           "CanBeRegulated": true,
-          "Definition": "Enable users more clarity around the origin of content by legislating the mandatory, prominent, disclosure.",
+          "Definition": "Enact legislation for the mandatory prominent disclosure of AI generation.",
           "Description": "{\"time\":1699723237276,\"blocks\":[{\"id\":\"VTVoqE6WFz\",\"type\":\"paragraph\",\"data\":{\"text\":\"To be effective, this would have to be:\"}},{\"id\":\"u86V3676S4\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<b>Particularized</b>: Rather than having a one-time-banner on a site saying \\\"This site may have AI generated material\\\", require a fine-grained assessment of AI generated material. This could even be as narrow as \\\"which characters were created by an AI\\\", something that could be achieved relatively easily with an extension of the Unicode standard.\",\"<b>Legally Enforced</b>: There are too many incentives to try to remove these banners (both as individual content creators, and as organizations) for them to be purely voluntarily enforced.\",\"<b>Assisted by Automation</b>: Watermarking strategies on the AI side could help with this, as could automated crawlers looking for automatically generated content that isn't labeled. While these approaches would be imperfect, they'd discourage non-disclosed use.\",\"<b>Tied into platform controls</b>: Users should be able to express \\\"I don't want to see anything that was more than 50% made by a computer\\\", for example.\",\"<b>Cross Medium</b>: Regardless of whether AI is used over phone lines, on chat messages, on social media, in banner advertisements, or in printed works, each should require clear and conspicuous disclosure.\",\"<b>Commonly Readable Format</b>: In order to support features like <a href=\\\"/feature/search\\\">search</a> implementing this, there would need to be universal technical standards for labeling the provenance of media and content, and they'd need to be widely adhered to.\",\"<b>Without Exception</b>: Legislation on this front would face wave after wave of criticism from individual industries, insisting that each of them deserves a carve out. In order for this intervention to have import, it would have to be without exception.\"]}}],\"version\":\"2.23.2\"}",
           "EaseOfImplementation": "Challenging",
           "GenerallyAdvisable": true,
@@ -22924,7 +22924,7 @@
                   "feature": {
                     "data": {
                       "attributes": {
-                        "Definition": "Allows a user to request they receive another channel's novel content.",
+                        "Definition": "Allows a user to receive by request another channel's novel content.",
                         "Title": "Subscriptions",
                         "readableId": "subscriptions"
                       },
@@ -24861,7 +24861,7 @@
       },
       {
         "attributes": {
-          "ImplementationDifficulty": "High",
+          "ImplementationDifficulty": "Medium",
           "RelationshipDescription": null,
           "feature": {
             "data": {
